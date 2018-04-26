@@ -1,0 +1,1728 @@
+Wed, 22 Nov 2017 04:34:38 test_train.py[line:41] INFO TestNumber: 427 TrainNumber: 21173
+Wed, 22 Nov 2017 04:34:38 test_train.py[line:48] INFO Start: 4411 DSC06440_055.JPG
+Wed, 22 Nov 2017 04:34:39 test_train.py[line:61] INFO End: 25.152948 4411 DSC06440_057.JPG (Speed time: 1.570099)
+Wed, 22 Nov 2017 04:34:39 test_train.py[line:68] INFO Good/Bad 1/0
+Wed, 22 Nov 2017 04:34:39 test_train.py[line:69] INFO Finish Test 1/427
+Wed, 22 Nov 2017 04:34:39 test_train.py[line:48] INFO Start: 4411 DSC06441_184.JPG
+Wed, 22 Nov 2017 04:34:40 test_train.py[line:61] INFO End: 24.502470 4411 DSC06441_192.JPG (Speed time: 1.229333)
+Wed, 22 Nov 2017 04:34:40 test_train.py[line:68] INFO Good/Bad 2/0
+Wed, 22 Nov 2017 04:34:40 test_train.py[line:69] INFO Finish Test 2/427
+Wed, 22 Nov 2017 04:34:40 test_train.py[line:48] INFO Start: 4411 DSC06441_009.JPG
+Wed, 22 Nov 2017 04:34:42 test_train.py[line:61] INFO End: 67.611156 4411 DSC06441_046.JPG (Speed time: 1.234787)
+Wed, 22 Nov 2017 04:34:42 test_train.py[line:68] INFO Good/Bad 3/0
+Wed, 22 Nov 2017 04:34:42 test_train.py[line:69] INFO Finish Test 3/427
+Wed, 22 Nov 2017 04:34:42 test_train.py[line:48] INFO Start: 4411 DSC06444_222.JPG
+Wed, 22 Nov 2017 04:34:43 test_train.py[line:61] INFO End: 20.777937 4411 DSC06444_284.JPG (Speed time: 1.211312)
+Wed, 22 Nov 2017 04:34:43 test_train.py[line:68] INFO Good/Bad 4/0
+Wed, 22 Nov 2017 04:34:43 test_train.py[line:69] INFO Finish Test 4/427
+Wed, 22 Nov 2017 04:34:43 test_train.py[line:48] INFO Start: 4411 DSC06441_260.JPG
+Wed, 22 Nov 2017 04:34:44 test_train.py[line:61] INFO End: 93.625078 4411 DSC06441_341.JPG (Speed time: 1.212477)
+Wed, 22 Nov 2017 04:34:44 test_train.py[line:68] INFO Good/Bad 5/0
+Wed, 22 Nov 2017 04:34:44 test_train.py[line:69] INFO Finish Test 5/427
+Wed, 22 Nov 2017 04:34:44 test_train.py[line:48] INFO Start: 4411 DSC06442_212.JPG
+Wed, 22 Nov 2017 04:34:45 test_train.py[line:61] INFO End: 23.933129 4411 DSC06442_296.JPG (Speed time: 1.207796)
+Wed, 22 Nov 2017 04:34:45 test_train.py[line:68] INFO Good/Bad 6/0
+Wed, 22 Nov 2017 04:34:45 test_train.py[line:69] INFO Finish Test 6/427
+Wed, 22 Nov 2017 04:34:45 test_train.py[line:48] INFO Start: 4411 DSC06443_052.JPG
+Wed, 22 Nov 2017 04:34:46 test_train.py[line:61] INFO End: 41.239213 4411 DSC06444_082.JPG (Speed time: 1.205296)
+Wed, 22 Nov 2017 04:34:46 test_train.py[line:68] INFO Good/Bad 7/0
+Wed, 22 Nov 2017 04:34:46 test_train.py[line:69] INFO Finish Test 7/427
+Wed, 22 Nov 2017 04:34:46 test_train.py[line:48] INFO Start: 4411 DSC06443_328.JPG
+Wed, 22 Nov 2017 04:34:48 test_train.py[line:61] INFO End: 55.721530 4411 DSC06443_326.JPG (Speed time: 1.209018)
+Wed, 22 Nov 2017 04:34:48 test_train.py[line:68] INFO Good/Bad 8/0
+Wed, 22 Nov 2017 04:34:48 test_train.py[line:69] INFO Finish Test 8/427
+Wed, 22 Nov 2017 04:34:48 test_train.py[line:48] INFO Start: 4411 DSC06442_319.JPG
+Wed, 22 Nov 2017 04:34:49 test_train.py[line:61] INFO End: 23.681300 4411 DSC06442_241.JPG (Speed time: 1.216903)
+Wed, 22 Nov 2017 04:34:49 test_train.py[line:68] INFO Good/Bad 9/0
+Wed, 22 Nov 2017 04:34:49 test_train.py[line:69] INFO Finish Test 9/427
+Wed, 22 Nov 2017 04:34:49 test_train.py[line:48] INFO Start: 4411 DSC06441_274.JPG
+Wed, 22 Nov 2017 04:34:50 test_train.py[line:61] INFO End: 28.982983 4411 DSC06441_348.JPG (Speed time: 1.221753)
+Wed, 22 Nov 2017 04:34:50 test_train.py[line:68] INFO Good/Bad 10/0
+Wed, 22 Nov 2017 04:34:50 test_train.py[line:69] INFO Finish Test 10/427
+Wed, 22 Nov 2017 04:34:50 test_train.py[line:48] INFO Start: 4411 DSC06440_169.JPG
+Wed, 22 Nov 2017 04:34:51 test_train.py[line:61] INFO End: 110.449022 4411 DSC06440_068.JPG (Speed time: 1.220373)
+Wed, 22 Nov 2017 04:34:51 test_train.py[line:68] INFO Good/Bad 11/0
+Wed, 22 Nov 2017 04:34:51 test_train.py[line:69] INFO Finish Test 11/427
+Wed, 22 Nov 2017 04:34:51 test_train.py[line:48] INFO Start: 4411 DSC06443_127.JPG
+Wed, 22 Nov 2017 04:34:53 test_train.py[line:61] INFO End: 33.999375 4411 DSC06443_167.JPG (Speed time: 1.217796)
+Wed, 22 Nov 2017 04:34:53 test_train.py[line:68] INFO Good/Bad 12/0
+Wed, 22 Nov 2017 04:34:53 test_train.py[line:69] INFO Finish Test 12/427
+Wed, 22 Nov 2017 04:34:53 test_train.py[line:48] INFO Start: 4411 DSC06441_223.JPG
+Wed, 22 Nov 2017 04:34:54 test_train.py[line:61] INFO End: 26.119059 4411 DSC06441_277.JPG (Speed time: 1.214989)
+Wed, 22 Nov 2017 04:34:54 test_train.py[line:68] INFO Good/Bad 13/0
+Wed, 22 Nov 2017 04:34:54 test_train.py[line:69] INFO Finish Test 13/427
+Wed, 22 Nov 2017 04:34:54 test_train.py[line:48] INFO Start: 4411 DSC06440_253.JPG
+Wed, 22 Nov 2017 04:34:55 test_train.py[line:61] INFO End: 63.619424 4411 DSC06440_261.JPG (Speed time: 1.207918)
+Wed, 22 Nov 2017 04:34:55 test_train.py[line:68] INFO Good/Bad 14/0
+Wed, 22 Nov 2017 04:34:55 test_train.py[line:69] INFO Finish Test 14/427
+Wed, 22 Nov 2017 04:34:55 test_train.py[line:48] INFO Start: 4411 DSC06442_119.JPG
+Wed, 22 Nov 2017 04:34:56 test_train.py[line:61] INFO End: 27.314500 4411 DSC06442_170.JPG (Speed time: 1.209685)
+Wed, 22 Nov 2017 04:34:56 test_train.py[line:68] INFO Good/Bad 15/0
+Wed, 22 Nov 2017 04:34:56 test_train.py[line:69] INFO Finish Test 15/427
+Wed, 22 Nov 2017 04:34:56 test_train.py[line:48] INFO Start: 4411 DSC06443_098.JPG
+Wed, 22 Nov 2017 04:34:57 test_train.py[line:61] INFO End: 48.574534 4411 DSC06443_118.JPG (Speed time: 1.209094)
+Wed, 22 Nov 2017 04:34:57 test_train.py[line:68] INFO Good/Bad 16/0
+Wed, 22 Nov 2017 04:34:57 test_train.py[line:69] INFO Finish Test 16/427
+Wed, 22 Nov 2017 04:34:57 test_train.py[line:48] INFO Start: 4411 DSC06444_147.JPG
+Wed, 22 Nov 2017 04:34:59 test_train.py[line:61] INFO End: 33.606104 4411 DSC06444_177.JPG (Speed time: 1.214109)
+Wed, 22 Nov 2017 04:34:59 test_train.py[line:68] INFO Good/Bad 17/0
+Wed, 22 Nov 2017 04:34:59 test_train.py[line:69] INFO Finish Test 17/427
+Wed, 22 Nov 2017 04:34:59 test_train.py[line:48] INFO Start: 4411 DSC06441_229.JPG
+Wed, 22 Nov 2017 04:35:00 test_train.py[line:61] INFO End: 23.160556 4411 DSC06441_206.JPG (Speed time: 1.215326)
+Wed, 22 Nov 2017 04:35:00 test_train.py[line:68] INFO Good/Bad 18/0
+Wed, 22 Nov 2017 04:35:00 test_train.py[line:69] INFO Finish Test 18/427
+Wed, 22 Nov 2017 04:35:00 test_train.py[line:48] INFO Start: 4411 DSC06444_160.JPG
+Wed, 22 Nov 2017 04:35:01 test_train.py[line:61] INFO End: 82.049896 4411 DSC06442_174.JPG (Speed time: 1.212226)
+Wed, 22 Nov 2017 04:35:01 test_train.py[line:68] INFO Good/Bad 19/0
+Wed, 22 Nov 2017 04:35:01 test_train.py[line:69] INFO Finish Test 19/427
+Wed, 22 Nov 2017 04:35:01 test_train.py[line:48] INFO Start: 4411 DSC06443_093.JPG
+Wed, 22 Nov 2017 04:35:02 test_train.py[line:61] INFO End: 38.786580 4411 DSC06443_074.JPG (Speed time: 1.214910)
+Wed, 22 Nov 2017 04:35:02 test_train.py[line:68] INFO Good/Bad 20/0
+Wed, 22 Nov 2017 04:35:02 test_train.py[line:69] INFO Finish Test 20/427
+Wed, 22 Nov 2017 04:35:02 test_train.py[line:48] INFO Start: 4411 DSC06440_356.JPG
+Wed, 22 Nov 2017 04:35:04 test_train.py[line:61] INFO End: 45.068559 4411 DSC06440_324.JPG (Speed time: 1.234334)
+Wed, 22 Nov 2017 04:35:04 test_train.py[line:68] INFO Good/Bad 21/0
+Wed, 22 Nov 2017 04:35:04 test_train.py[line:69] INFO Finish Test 21/427
+Wed, 22 Nov 2017 04:35:04 test_train.py[line:48] INFO Start: 4411 DSC06442_263.JPG
+Wed, 22 Nov 2017 04:35:05 test_train.py[line:61] INFO End: 48.318123 4411 DSC06442_227.JPG (Speed time: 1.213566)
+Wed, 22 Nov 2017 04:35:05 test_train.py[line:68] INFO Good/Bad 22/0
+Wed, 22 Nov 2017 04:35:05 test_train.py[line:69] INFO Finish Test 22/427
+Wed, 22 Nov 2017 04:35:05 test_train.py[line:48] INFO Start: 4411 DSC06443_296.JPG
+Wed, 22 Nov 2017 04:35:06 test_train.py[line:61] INFO End: 29.181259 4411 DSC06443_228.JPG (Speed time: 1.222315)
+Wed, 22 Nov 2017 04:35:06 test_train.py[line:68] INFO Good/Bad 23/0
+Wed, 22 Nov 2017 04:35:06 test_train.py[line:69] INFO Finish Test 23/427
+Wed, 22 Nov 2017 04:35:06 test_train.py[line:48] INFO Start: 4411 DSC06440_312.JPG
+Wed, 22 Nov 2017 04:35:07 test_train.py[line:61] INFO End: 27.285796 4411 DSC06440_320.JPG (Speed time: 1.210151)
+Wed, 22 Nov 2017 04:35:07 test_train.py[line:68] INFO Good/Bad 24/0
+Wed, 22 Nov 2017 04:35:07 test_train.py[line:69] INFO Finish Test 24/427
+Wed, 22 Nov 2017 04:35:07 test_train.py[line:48] INFO Start: 4411 DSC06443_295.JPG
+Wed, 22 Nov 2017 04:35:08 test_train.py[line:61] INFO End: 26.029079 4411 DSC06443_317.JPG (Speed time: 1.209087)
+Wed, 22 Nov 2017 04:35:08 test_train.py[line:68] INFO Good/Bad 25/0
+Wed, 22 Nov 2017 04:35:08 test_train.py[line:69] INFO Finish Test 25/427
+Wed, 22 Nov 2017 04:35:08 test_train.py[line:48] INFO Start: 4411 DSC06441_168.JPG
+Wed, 22 Nov 2017 04:35:10 test_train.py[line:61] INFO End: 30.304676 4411 DSC06441_141.JPG (Speed time: 1.206195)
+Wed, 22 Nov 2017 04:35:10 test_train.py[line:68] INFO Good/Bad 26/0
+Wed, 22 Nov 2017 04:35:10 test_train.py[line:69] INFO Finish Test 26/427
+Wed, 22 Nov 2017 04:35:10 test_train.py[line:48] INFO Start: 4411 DSC06440_319.JPG
+Wed, 22 Nov 2017 04:35:11 test_train.py[line:61] INFO End: 42.918790 4411 DSC06440_219.JPG (Speed time: 1.204393)
+Wed, 22 Nov 2017 04:35:11 test_train.py[line:68] INFO Good/Bad 27/0
+Wed, 22 Nov 2017 04:35:11 test_train.py[line:69] INFO Finish Test 27/427
+Wed, 22 Nov 2017 04:35:11 test_train.py[line:48] INFO Start: 4411 DSC06443_208.JPG
+Wed, 22 Nov 2017 04:35:12 test_train.py[line:61] INFO End: 23.880233 4411 DSC06443_359.JPG (Speed time: 1.208018)
+Wed, 22 Nov 2017 04:35:12 test_train.py[line:68] INFO Good/Bad 28/0
+Wed, 22 Nov 2017 04:35:12 test_train.py[line:69] INFO Finish Test 28/427
+Wed, 22 Nov 2017 04:35:12 test_train.py[line:48] INFO Start: 4411 DSC06442_231.JPG
+Wed, 22 Nov 2017 04:35:13 test_train.py[line:61] INFO End: 31.230612 4411 DSC06442_213.JPG (Speed time: 1.206615)
+Wed, 22 Nov 2017 04:35:13 test_train.py[line:68] INFO Good/Bad 29/0
+Wed, 22 Nov 2017 04:35:13 test_train.py[line:69] INFO Finish Test 29/427
+Wed, 22 Nov 2017 04:35:13 test_train.py[line:48] INFO Start: 4411 DSC06444_165.JPG
+Wed, 22 Nov 2017 04:35:14 test_train.py[line:61] INFO End: 33.816827 4411 DSC06444_162.JPG (Speed time: 1.212333)
+Wed, 22 Nov 2017 04:35:14 test_train.py[line:68] INFO Good/Bad 30/0
+Wed, 22 Nov 2017 04:35:14 test_train.py[line:69] INFO Finish Test 30/427
+Wed, 22 Nov 2017 04:35:14 test_train.py[line:48] INFO Start: 4411 DSC06441_284.JPG
+Wed, 22 Nov 2017 04:35:16 test_train.py[line:61] INFO End: 16.623641 4411 DSC06441_278.JPG (Speed time: 1.207285)
+Wed, 22 Nov 2017 04:35:16 test_train.py[line:68] INFO Good/Bad 31/0
+Wed, 22 Nov 2017 04:35:16 test_train.py[line:69] INFO Finish Test 31/427
+Wed, 22 Nov 2017 04:35:16 test_train.py[line:48] INFO Start: 4411 DSC06444_113.JPG
+Wed, 22 Nov 2017 04:35:17 test_train.py[line:61] INFO End: 69.879661 4411 DSC06444_107.JPG (Speed time: 1.203868)
+Wed, 22 Nov 2017 04:35:17 test_train.py[line:68] INFO Good/Bad 32/0
+Wed, 22 Nov 2017 04:35:17 test_train.py[line:69] INFO Finish Test 32/427
+Wed, 22 Nov 2017 04:35:17 test_train.py[line:48] INFO Start: 4411 DSC06440_061.JPG
+Wed, 22 Nov 2017 04:35:18 test_train.py[line:61] INFO End: 68.633984 4411 DSC06440_048.JPG (Speed time: 1.213075)
+Wed, 22 Nov 2017 04:35:18 test_train.py[line:68] INFO Good/Bad 33/0
+Wed, 22 Nov 2017 04:35:18 test_train.py[line:69] INFO Finish Test 33/427
+Wed, 22 Nov 2017 04:35:18 test_train.py[line:48] INFO Start: 4411 DSC06440_196.JPG
+Wed, 22 Nov 2017 04:35:19 test_train.py[line:61] INFO End: 88.912806 4411 DSC06440_105.JPG (Speed time: 1.214765)
+Wed, 22 Nov 2017 04:35:19 test_train.py[line:68] INFO Good/Bad 34/0
+Wed, 22 Nov 2017 04:35:19 test_train.py[line:69] INFO Finish Test 34/427
+Wed, 22 Nov 2017 04:35:19 test_train.py[line:48] INFO Start: 4411 DSC06441_132.JPG
+Wed, 22 Nov 2017 04:35:20 test_train.py[line:61] INFO End: 29.198625 4411 DSC06441_139.JPG (Speed time: 1.205076)
+Wed, 22 Nov 2017 04:35:20 test_train.py[line:68] INFO Good/Bad 35/0
+Wed, 22 Nov 2017 04:35:20 test_train.py[line:69] INFO Finish Test 35/427
+Wed, 22 Nov 2017 04:35:20 test_train.py[line:48] INFO Start: 4411 DSC06444_235.JPG
+Wed, 22 Nov 2017 04:35:22 test_train.py[line:61] INFO End: 23.009968 4411 DSC06444_251.JPG (Speed time: 1.207612)
+Wed, 22 Nov 2017 04:35:22 test_train.py[line:68] INFO Good/Bad 36/0
+Wed, 22 Nov 2017 04:35:22 test_train.py[line:69] INFO Finish Test 36/427
+Wed, 22 Nov 2017 04:35:22 test_train.py[line:48] INFO Start: 1123 DSC06001_052.JPG
+Wed, 22 Nov 2017 04:35:23 test_train.py[line:61] INFO End: 64.261423 4223 DSC05390_152.JPG (Speed time: 1.205627)
+Wed, 22 Nov 2017 04:35:23 test_train.py[line:67] WARNING Bad is Coming: 1123 [2] != 4223 DSC05390_152.JPG
+Wed, 22 Nov 2017 04:35:23 test_train.py[line:68] INFO Good/Bad 36/1
+Wed, 22 Nov 2017 04:35:23 test_train.py[line:69] INFO Finish Test 37/427
+Wed, 22 Nov 2017 04:35:23 test_train.py[line:48] INFO Start: 1123 DSC06002_121.JPG
+Wed, 22 Nov 2017 04:35:24 test_train.py[line:61] INFO End: 80.157852 1123 DSC06002_165.JPG (Speed time: 1.213068)
+Wed, 22 Nov 2017 04:35:24 test_train.py[line:68] INFO Good/Bad 37/1
+Wed, 22 Nov 2017 04:35:24 test_train.py[line:69] INFO Finish Test 38/427
+Wed, 22 Nov 2017 04:35:24 test_train.py[line:48] INFO Start: 1123 DSC06001_277.JPG
+Wed, 22 Nov 2017 04:35:25 test_train.py[line:61] INFO End: 91.978206 1123 DSC06001_359.JPG (Speed time: 1.207591)
+Wed, 22 Nov 2017 04:35:25 test_train.py[line:68] INFO Good/Bad 38/1
+Wed, 22 Nov 2017 04:35:25 test_train.py[line:69] INFO Finish Test 39/427
+Wed, 22 Nov 2017 04:35:25 test_train.py[line:48] INFO Start: 1123 DSC06002_203.JPG
+Wed, 22 Nov 2017 04:35:27 test_train.py[line:61] INFO End: 83.374639 1123 DSC06002_235.JPG (Speed time: 1.205417)
+Wed, 22 Nov 2017 04:35:27 test_train.py[line:68] INFO Good/Bad 39/1
+Wed, 22 Nov 2017 04:35:27 test_train.py[line:69] INFO Finish Test 40/427
+Wed, 22 Nov 2017 04:35:27 test_train.py[line:48] INFO Start: 1123 DSC06001_215.JPG
+Wed, 22 Nov 2017 04:35:28 test_train.py[line:61] INFO End: 127.375258 1123 DSC06001_317.JPG (Speed time: 1.206502)
+Wed, 22 Nov 2017 04:35:28 test_train.py[line:68] INFO Good/Bad 40/1
+Wed, 22 Nov 2017 04:35:28 test_train.py[line:69] INFO Finish Test 41/427
+Wed, 22 Nov 2017 04:35:28 test_train.py[line:48] INFO Start: 1123 DSC06002_187.JPG
+Wed, 22 Nov 2017 04:35:29 test_train.py[line:61] INFO End: 76.493165 1123 DSC06002_183.JPG (Speed time: 1.211163)
+Wed, 22 Nov 2017 04:35:29 test_train.py[line:68] INFO Good/Bad 41/1
+Wed, 22 Nov 2017 04:35:29 test_train.py[line:69] INFO Finish Test 42/427
+Wed, 22 Nov 2017 04:35:29 test_train.py[line:48] INFO Start: 1123 DSC06001_339.JPG
+Wed, 22 Nov 2017 04:35:30 test_train.py[line:61] INFO End: 92.361613 1123 DSC06001_237.JPG (Speed time: 1.206982)
+Wed, 22 Nov 2017 04:35:30 test_train.py[line:68] INFO Good/Bad 42/1
+Wed, 22 Nov 2017 04:35:30 test_train.py[line:69] INFO Finish Test 43/427
+Wed, 22 Nov 2017 04:35:30 test_train.py[line:48] INFO Start: 1123 DSC06001_074.JPG
+Wed, 22 Nov 2017 04:35:31 test_train.py[line:61] INFO End: 92.661032 1123 DSC06001_054.JPG (Speed time: 1.207529)
+Wed, 22 Nov 2017 04:35:31 test_train.py[line:68] INFO Good/Bad 43/1
+Wed, 22 Nov 2017 04:35:31 test_train.py[line:69] INFO Finish Test 44/427
+Wed, 22 Nov 2017 04:35:31 test_train.py[line:48] INFO Start: 1123 DSC06002_233.JPG
+Wed, 22 Nov 2017 04:35:33 test_train.py[line:61] INFO End: 59.835580 1123 DSC06002_235.JPG (Speed time: 1.202939)
+Wed, 22 Nov 2017 04:35:33 test_train.py[line:68] INFO Good/Bad 44/1
+Wed, 22 Nov 2017 04:35:33 test_train.py[line:69] INFO Finish Test 45/427
+Wed, 22 Nov 2017 04:35:33 test_train.py[line:48] INFO Start: 1123 DSC06002_058.JPG
+Wed, 22 Nov 2017 04:35:34 test_train.py[line:61] INFO End: 42.756186 1123 DSC06002_014.JPG (Speed time: 1.204863)
+Wed, 22 Nov 2017 04:35:34 test_train.py[line:68] INFO Good/Bad 45/1
+Wed, 22 Nov 2017 04:35:34 test_train.py[line:69] INFO Finish Test 46/427
+Wed, 22 Nov 2017 04:35:34 test_train.py[line:48] INFO Start: 1123 DSC06002_261.JPG
+Wed, 22 Nov 2017 04:35:35 test_train.py[line:61] INFO End: 64.159595 1123 DSC06002_209.JPG (Speed time: 1.209842)
+Wed, 22 Nov 2017 04:35:35 test_train.py[line:68] INFO Good/Bad 46/1
+Wed, 22 Nov 2017 04:35:35 test_train.py[line:69] INFO Finish Test 47/427
+Wed, 22 Nov 2017 04:35:35 test_train.py[line:48] INFO Start: 1123 DSC06001_130.JPG
+Wed, 22 Nov 2017 04:35:36 test_train.py[line:61] INFO End: 83.564688 1123 DSC06001_008.JPG (Speed time: 1.207983)
+Wed, 22 Nov 2017 04:35:36 test_train.py[line:68] INFO Good/Bad 47/1
+Wed, 22 Nov 2017 04:35:36 test_train.py[line:69] INFO Finish Test 48/427
+Wed, 22 Nov 2017 04:35:36 test_train.py[line:48] INFO Start: 1123 DSC06002_170.JPG
+Wed, 22 Nov 2017 04:35:37 test_train.py[line:61] INFO End: 39.049367 1123 DSC06002_101.JPG (Speed time: 1.206720)
+Wed, 22 Nov 2017 04:35:37 test_train.py[line:68] INFO Good/Bad 48/1
+Wed, 22 Nov 2017 04:35:37 test_train.py[line:69] INFO Finish Test 49/427
+Wed, 22 Nov 2017 04:35:37 test_train.py[line:48] INFO Start: 1123 DSC06002_221.JPG
+Wed, 22 Nov 2017 04:35:39 test_train.py[line:61] INFO End: 29.793139 1123 DSC06002_230.JPG (Speed time: 1.205868)
+Wed, 22 Nov 2017 04:35:39 test_train.py[line:68] INFO Good/Bad 49/1
+Wed, 22 Nov 2017 04:35:39 test_train.py[line:69] INFO Finish Test 50/427
+Wed, 22 Nov 2017 04:35:39 test_train.py[line:48] INFO Start: 4976 DSC03951_292.JPG
+Wed, 22 Nov 2017 04:35:40 test_train.py[line:61] INFO End: 115.834231 4976 DSC03950_309.JPG (Speed time: 1.214924)
+Wed, 22 Nov 2017 04:35:40 test_train.py[line:68] INFO Good/Bad 50/1
+Wed, 22 Nov 2017 04:35:40 test_train.py[line:69] INFO Finish Test 51/427
+Wed, 22 Nov 2017 04:35:40 test_train.py[line:48] INFO Start: 4976 DSC03952_306.JPG
+Wed, 22 Nov 2017 04:35:41 test_train.py[line:61] INFO End: 43.948302 4976 DSC03952_322.JPG (Speed time: 1.204671)
+Wed, 22 Nov 2017 04:35:41 test_train.py[line:68] INFO Good/Bad 51/1
+Wed, 22 Nov 2017 04:35:41 test_train.py[line:69] INFO Finish Test 52/427
+Wed, 22 Nov 2017 04:35:41 test_train.py[line:48] INFO Start: 4976 DSC03952_299.JPG
+Wed, 22 Nov 2017 04:35:42 test_train.py[line:61] INFO End: 102.600783 4976 DSC03952_320.JPG (Speed time: 1.284733)
+Wed, 22 Nov 2017 04:35:42 test_train.py[line:68] INFO Good/Bad 52/1
+Wed, 22 Nov 2017 04:35:42 test_train.py[line:69] INFO Finish Test 53/427
+Wed, 22 Nov 2017 04:35:42 test_train.py[line:48] INFO Start: 4976 DSC03951_264.JPG
+Wed, 22 Nov 2017 04:35:44 test_train.py[line:61] INFO End: 69.097749 4976 DSC03951_319.JPG (Speed time: 1.229025)
+Wed, 22 Nov 2017 04:35:44 test_train.py[line:68] INFO Good/Bad 53/1
+Wed, 22 Nov 2017 04:35:44 test_train.py[line:69] INFO Finish Test 54/427
+Wed, 22 Nov 2017 04:35:44 test_train.py[line:48] INFO Start: 4976 DSC03950_190.JPG
+Wed, 22 Nov 2017 04:35:45 test_train.py[line:61] INFO End: 104.512210 4976 DSC03950_225.JPG (Speed time: 1.207565)
+Wed, 22 Nov 2017 04:35:45 test_train.py[line:68] INFO Good/Bad 54/1
+Wed, 22 Nov 2017 04:35:45 test_train.py[line:69] INFO Finish Test 55/427
+Wed, 22 Nov 2017 04:35:45 test_train.py[line:48] INFO Start: 4976 DSC03951_081.JPG
+Wed, 22 Nov 2017 04:35:46 test_train.py[line:61] INFO End: 124.066856 4976 DSC03952_165.JPG (Speed time: 1.215736)
+Wed, 22 Nov 2017 04:35:46 test_train.py[line:68] INFO Good/Bad 55/1
+Wed, 22 Nov 2017 04:35:46 test_train.py[line:69] INFO Finish Test 56/427
+Wed, 22 Nov 2017 04:35:46 test_train.py[line:48] INFO Start: 4976 DSC03951_113.JPG
+Wed, 22 Nov 2017 04:35:47 test_train.py[line:61] INFO End: 67.257174 4976 DSC03950_185.JPG (Speed time: 1.261621)
+Wed, 22 Nov 2017 04:35:47 test_train.py[line:68] INFO Good/Bad 56/1
+Wed, 22 Nov 2017 04:35:47 test_train.py[line:69] INFO Finish Test 57/427
+Wed, 22 Nov 2017 04:35:47 test_train.py[line:48] INFO Start: 4976 DSC03952_040.JPG
+Wed, 22 Nov 2017 04:35:49 test_train.py[line:61] INFO End: 34.539205 4976 DSC03952_096.JPG (Speed time: 1.294915)
+Wed, 22 Nov 2017 04:35:49 test_train.py[line:68] INFO Good/Bad 57/1
+Wed, 22 Nov 2017 04:35:49 test_train.py[line:69] INFO Finish Test 58/427
+Wed, 22 Nov 2017 04:35:49 test_train.py[line:48] INFO Start: 4976 DSC03951_145.JPG
+Wed, 22 Nov 2017 04:35:50 test_train.py[line:61] INFO End: 120.956663 4976 DSC03952_218.JPG (Speed time: 1.357684)
+Wed, 22 Nov 2017 04:35:50 test_train.py[line:68] INFO Good/Bad 58/1
+Wed, 22 Nov 2017 04:35:50 test_train.py[line:69] INFO Finish Test 59/427
+Wed, 22 Nov 2017 04:35:50 test_train.py[line:48] INFO Start: 4976 DSC03951_354.JPG
+Wed, 22 Nov 2017 04:35:51 test_train.py[line:61] INFO End: 88.006164 4976 DSC03951_157.JPG (Speed time: 1.299947)
+Wed, 22 Nov 2017 04:35:51 test_train.py[line:68] INFO Good/Bad 59/1
+Wed, 22 Nov 2017 04:35:51 test_train.py[line:69] INFO Finish Test 60/427
+Wed, 22 Nov 2017 04:35:51 test_train.py[line:48] INFO Start: 4976 DSC03952_260.JPG
+Wed, 22 Nov 2017 04:35:52 test_train.py[line:61] INFO End: 98.213240 4976 DSC03952_212.JPG (Speed time: 1.265329)
+Wed, 22 Nov 2017 04:35:52 test_train.py[line:68] INFO Good/Bad 60/1
+Wed, 22 Nov 2017 04:35:52 test_train.py[line:69] INFO Finish Test 61/427
+Wed, 22 Nov 2017 04:35:52 test_train.py[line:48] INFO Start: 4976 DSC03950_088.JPG
+Wed, 22 Nov 2017 04:35:54 test_train.py[line:61] INFO End: 107.953638 4976 DSC03950_079.JPG (Speed time: 1.227763)
+Wed, 22 Nov 2017 04:35:54 test_train.py[line:68] INFO Good/Bad 61/1
+Wed, 22 Nov 2017 04:35:54 test_train.py[line:69] INFO Finish Test 62/427
+Wed, 22 Nov 2017 04:35:54 test_train.py[line:48] INFO Start: 4976 DSC03952_312.JPG
+Wed, 22 Nov 2017 04:35:55 test_train.py[line:61] INFO End: 110.994781 4976 DSC03952_173.JPG (Speed time: 1.250523)
+Wed, 22 Nov 2017 04:35:55 test_train.py[line:68] INFO Good/Bad 62/1
+Wed, 22 Nov 2017 04:35:55 test_train.py[line:69] INFO Finish Test 63/427
+Wed, 22 Nov 2017 04:35:55 test_train.py[line:48] INFO Start: 4976 DSC03952_352.JPG
+Wed, 22 Nov 2017 04:35:56 test_train.py[line:61] INFO End: 79.312928 4976 DSC03952_246.JPG (Speed time: 1.239994)
+Wed, 22 Nov 2017 04:35:56 test_train.py[line:68] INFO Good/Bad 63/1
+Wed, 22 Nov 2017 04:35:56 test_train.py[line:69] INFO Finish Test 64/427
+Wed, 22 Nov 2017 04:35:56 test_train.py[line:48] INFO Start: 4976 DSC03950_165.JPG
+Wed, 22 Nov 2017 04:35:57 test_train.py[line:61] INFO End: 107.429491 4976 DSC03951_305.JPG (Speed time: 1.319654)
+Wed, 22 Nov 2017 04:35:57 test_train.py[line:68] INFO Good/Bad 64/1
+Wed, 22 Nov 2017 04:35:57 test_train.py[line:69] INFO Finish Test 65/427
+Wed, 22 Nov 2017 04:35:57 test_train.py[line:48] INFO Start: 4976 DSC03951_257.JPG
+Wed, 22 Nov 2017 04:35:59 test_train.py[line:61] INFO End: 91.374360 4976 DSC03951_231.JPG (Speed time: 1.244450)
+Wed, 22 Nov 2017 04:35:59 test_train.py[line:68] INFO Good/Bad 65/1
+Wed, 22 Nov 2017 04:35:59 test_train.py[line:69] INFO Finish Test 66/427
+Wed, 22 Nov 2017 04:35:59 test_train.py[line:48] INFO Start: 4976 DSC03950_188.JPG
+Wed, 22 Nov 2017 04:36:00 test_train.py[line:61] INFO End: 111.560584 4976 DSC03952_319.JPG (Speed time: 1.262430)
+Wed, 22 Nov 2017 04:36:00 test_train.py[line:68] INFO Good/Bad 66/1
+Wed, 22 Nov 2017 04:36:00 test_train.py[line:69] INFO Finish Test 67/427
+Wed, 22 Nov 2017 04:36:00 test_train.py[line:48] INFO Start: 4976 DSC03951_214.JPG
+Wed, 22 Nov 2017 04:36:01 test_train.py[line:61] INFO End: 78.275397 4976 DSC03951_252.JPG (Speed time: 1.244177)
+Wed, 22 Nov 2017 04:36:01 test_train.py[line:68] INFO Good/Bad 67/1
+Wed, 22 Nov 2017 04:36:01 test_train.py[line:69] INFO Finish Test 68/427
+Wed, 22 Nov 2017 04:36:01 test_train.py[line:48] INFO Start: 4976 DSC03951_260.JPG
+Wed, 22 Nov 2017 04:36:02 test_train.py[line:61] INFO End: 89.906718 4976 DSC03950_354.JPG (Speed time: 1.236093)
+Wed, 22 Nov 2017 04:36:02 test_train.py[line:68] INFO Good/Bad 68/1
+Wed, 22 Nov 2017 04:36:02 test_train.py[line:69] INFO Finish Test 69/427
+Wed, 22 Nov 2017 04:36:02 test_train.py[line:48] INFO Start: 4976 DSC03951_156.JPG
+Wed, 22 Nov 2017 04:36:04 test_train.py[line:61] INFO End: 79.281108 4976 DSC03951_165.JPG (Speed time: 1.216358)
+Wed, 22 Nov 2017 04:36:04 test_train.py[line:68] INFO Good/Bad 69/1
+Wed, 22 Nov 2017 04:36:04 test_train.py[line:69] INFO Finish Test 70/427
+Wed, 22 Nov 2017 04:36:04 test_train.py[line:48] INFO Start: 4976 DSC03951_294.JPG
+Wed, 22 Nov 2017 04:36:05 test_train.py[line:61] INFO End: 97.698896 4976 DSC03950_264.JPG (Speed time: 1.213613)
+Wed, 22 Nov 2017 04:36:05 test_train.py[line:68] INFO Good/Bad 70/1
+Wed, 22 Nov 2017 04:36:05 test_train.py[line:69] INFO Finish Test 71/427
+Wed, 22 Nov 2017 04:36:05 test_train.py[line:48] INFO Start: 4268 DSC05125_153.JPG
+Wed, 22 Nov 2017 04:36:06 test_train.py[line:61] INFO End: 64.472491 4268 DSC05125_200.JPG (Speed time: 1.215148)
+Wed, 22 Nov 2017 04:36:06 test_train.py[line:68] INFO Good/Bad 71/1
+Wed, 22 Nov 2017 04:36:06 test_train.py[line:69] INFO Finish Test 72/427
+Wed, 22 Nov 2017 04:36:06 test_train.py[line:48] INFO Start: 4268 DSC05127_303.JPG
+Wed, 22 Nov 2017 04:36:07 test_train.py[line:61] INFO End: 18.854037 4268 DSC05127_351.JPG (Speed time: 1.213348)
+Wed, 22 Nov 2017 04:36:07 test_train.py[line:68] INFO Good/Bad 72/1
+Wed, 22 Nov 2017 04:36:07 test_train.py[line:69] INFO Finish Test 73/427
+Wed, 22 Nov 2017 04:36:07 test_train.py[line:48] INFO Start: 4268 DSC05127_304.JPG
+Wed, 22 Nov 2017 04:36:09 test_train.py[line:61] INFO End: 82.854066 4268 DSC05123_044.JPG (Speed time: 1.214867)
+Wed, 22 Nov 2017 04:36:09 test_train.py[line:68] INFO Good/Bad 73/1
+Wed, 22 Nov 2017 04:36:09 test_train.py[line:69] INFO Finish Test 74/427
+Wed, 22 Nov 2017 04:36:09 test_train.py[line:48] INFO Start: 4268 DSC05126_023.JPG
+Wed, 22 Nov 2017 04:36:10 test_train.py[line:61] INFO End: 28.692445 4268 DSC05126_039.JPG (Speed time: 1.245802)
+Wed, 22 Nov 2017 04:36:10 test_train.py[line:68] INFO Good/Bad 74/1
+Wed, 22 Nov 2017 04:36:10 test_train.py[line:69] INFO Finish Test 75/427
+Wed, 22 Nov 2017 04:36:10 test_train.py[line:48] INFO Start: 4268 DSC05124_074.JPG
+Wed, 22 Nov 2017 04:36:11 test_train.py[line:61] INFO End: 89.974764 4268 DSC05124_085.JPG (Speed time: 1.232460)
+Wed, 22 Nov 2017 04:36:11 test_train.py[line:68] INFO Good/Bad 75/1
+Wed, 22 Nov 2017 04:36:11 test_train.py[line:69] INFO Finish Test 76/427
+Wed, 22 Nov 2017 04:36:11 test_train.py[line:48] INFO Start: 4268 DSC05123_244.JPG
+Wed, 22 Nov 2017 04:36:12 test_train.py[line:61] INFO End: 90.294943 4268 DSC05123_322.JPG (Speed time: 1.219534)
+Wed, 22 Nov 2017 04:36:12 test_train.py[line:68] INFO Good/Bad 76/1
+Wed, 22 Nov 2017 04:36:12 test_train.py[line:69] INFO Finish Test 77/427
+Wed, 22 Nov 2017 04:36:12 test_train.py[line:48] INFO Start: 4268 DSC05124_086.JPG
+Wed, 22 Nov 2017 04:36:13 test_train.py[line:61] INFO End: 23.653249 4268 DSC05124_052.JPG (Speed time: 1.214363)
+Wed, 22 Nov 2017 04:36:13 test_train.py[line:68] INFO Good/Bad 77/1
+Wed, 22 Nov 2017 04:36:13 test_train.py[line:69] INFO Finish Test 78/427
+Wed, 22 Nov 2017 04:36:13 test_train.py[line:48] INFO Start: 4268 DSC05124_342.JPG
+Wed, 22 Nov 2017 04:36:15 test_train.py[line:61] INFO End: 42.039596 4268 DSC05124_334.JPG (Speed time: 1.216092)
+Wed, 22 Nov 2017 04:36:15 test_train.py[line:68] INFO Good/Bad 78/1
+Wed, 22 Nov 2017 04:36:15 test_train.py[line:69] INFO Finish Test 79/427
+Wed, 22 Nov 2017 04:36:15 test_train.py[line:48] INFO Start: 4268 DSC05127_026.JPG
+Wed, 22 Nov 2017 04:36:16 test_train.py[line:61] INFO End: 61.994687 4268 DSC05127_039.JPG (Speed time: 1.214477)
+Wed, 22 Nov 2017 04:36:16 test_train.py[line:68] INFO Good/Bad 79/1
+Wed, 22 Nov 2017 04:36:16 test_train.py[line:69] INFO Finish Test 80/427
+Wed, 22 Nov 2017 04:36:16 test_train.py[line:48] INFO Start: 4268 DSC05127_127.JPG
+Wed, 22 Nov 2017 04:36:17 test_train.py[line:61] INFO End: 75.704204 4268 DSC05127_192.JPG (Speed time: 1.218007)
+Wed, 22 Nov 2017 04:36:17 test_train.py[line:68] INFO Good/Bad 80/1
+Wed, 22 Nov 2017 04:36:17 test_train.py[line:69] INFO Finish Test 81/427
+Wed, 22 Nov 2017 04:36:17 test_train.py[line:48] INFO Start: 4268 DSC05123_156.JPG
+Wed, 22 Nov 2017 04:36:18 test_train.py[line:61] INFO End: 88.178688 4268 DSC05123_193.JPG (Speed time: 1.258434)
+Wed, 22 Nov 2017 04:36:18 test_train.py[line:68] INFO Good/Bad 81/1
+Wed, 22 Nov 2017 04:36:18 test_train.py[line:69] INFO Finish Test 82/427
+Wed, 22 Nov 2017 04:36:18 test_train.py[line:48] INFO Start: 4268 DSC05123_342.JPG
+Wed, 22 Nov 2017 04:36:20 test_train.py[line:61] INFO End: 84.297373 4268 DSC05123_268.JPG (Speed time: 1.245102)
+Wed, 22 Nov 2017 04:36:20 test_train.py[line:68] INFO Good/Bad 82/1
+Wed, 22 Nov 2017 04:36:20 test_train.py[line:69] INFO Finish Test 83/427
+Wed, 22 Nov 2017 04:36:20 test_train.py[line:48] INFO Start: 4268 DSC05125_122.JPG
+Wed, 22 Nov 2017 04:36:21 test_train.py[line:61] INFO End: 87.073283 4268 DSC05125_192.JPG (Speed time: 1.204592)
+Wed, 22 Nov 2017 04:36:21 test_train.py[line:68] INFO Good/Bad 83/1
+Wed, 22 Nov 2017 04:36:21 test_train.py[line:69] INFO Finish Test 84/427
+Wed, 22 Nov 2017 04:36:21 test_train.py[line:48] INFO Start: 4268 DSC05125_100.JPG
+Wed, 22 Nov 2017 04:36:22 test_train.py[line:61] INFO End: 83.342062 4268 DSC05125_022.JPG (Speed time: 1.206824)
+Wed, 22 Nov 2017 04:36:22 test_train.py[line:68] INFO Good/Bad 84/1
+Wed, 22 Nov 2017 04:36:22 test_train.py[line:69] INFO Finish Test 85/427
+Wed, 22 Nov 2017 04:36:22 test_train.py[line:48] INFO Start: 4268 DSC05124_111.JPG
+Wed, 22 Nov 2017 04:36:23 test_train.py[line:61] INFO End: 89.250605 4268 DSC05123_145.JPG (Speed time: 1.207778)
+Wed, 22 Nov 2017 04:36:23 test_train.py[line:68] INFO Good/Bad 85/1
+Wed, 22 Nov 2017 04:36:23 test_train.py[line:69] INFO Finish Test 86/427
+Wed, 22 Nov 2017 04:36:23 test_train.py[line:48] INFO Start: 4268 DSC05124_261.JPG
+Wed, 22 Nov 2017 04:36:24 test_train.py[line:61] INFO End: 76.971570 4268 DSC05123_297.JPG (Speed time: 1.203675)
+Wed, 22 Nov 2017 04:36:24 test_train.py[line:68] INFO Good/Bad 86/1
+Wed, 22 Nov 2017 04:36:24 test_train.py[line:69] INFO Finish Test 87/427
+Wed, 22 Nov 2017 04:36:24 test_train.py[line:48] INFO Start: 4268 DSC05126_050.JPG
+Wed, 22 Nov 2017 04:36:26 test_train.py[line:61] INFO End: 24.486066 4268 DSC05126_003.JPG (Speed time: 1.203996)
+Wed, 22 Nov 2017 04:36:26 test_train.py[line:68] INFO Good/Bad 87/1
+Wed, 22 Nov 2017 04:36:26 test_train.py[line:69] INFO Finish Test 88/427
+Wed, 22 Nov 2017 04:36:26 test_train.py[line:48] INFO Start: 4268 DSC05126_052.JPG
+Wed, 22 Nov 2017 04:36:27 test_train.py[line:61] INFO End: 30.880588 4268 DSC05126_047.JPG (Speed time: 1.201771)
+Wed, 22 Nov 2017 04:36:27 test_train.py[line:68] INFO Good/Bad 88/1
+Wed, 22 Nov 2017 04:36:27 test_train.py[line:69] INFO Finish Test 89/427
+Wed, 22 Nov 2017 04:36:27 test_train.py[line:48] INFO Start: 4268 DSC05124_188.JPG
+Wed, 22 Nov 2017 04:36:28 test_train.py[line:61] INFO End: 102.586600 4268 DSC05127_240.JPG (Speed time: 1.206017)
+Wed, 22 Nov 2017 04:36:28 test_train.py[line:68] INFO Good/Bad 89/1
+Wed, 22 Nov 2017 04:36:28 test_train.py[line:69] INFO Finish Test 90/427
+Wed, 22 Nov 2017 04:36:28 test_train.py[line:48] INFO Start: 4268 DSC05126_327.JPG
+Wed, 22 Nov 2017 04:36:29 test_train.py[line:61] INFO End: 78.724784 4268 DSC05126_203.JPG (Speed time: 1.203480)
+Wed, 22 Nov 2017 04:36:29 test_train.py[line:68] INFO Good/Bad 90/1
+Wed, 22 Nov 2017 04:36:29 test_train.py[line:69] INFO Finish Test 91/427
+Wed, 22 Nov 2017 04:36:29 test_train.py[line:48] INFO Start: 4268 DSC05125_256.JPG
+Wed, 22 Nov 2017 04:36:30 test_train.py[line:61] INFO End: 89.681467 4268 DSC05125_261.JPG (Speed time: 1.213369)
+Wed, 22 Nov 2017 04:36:30 test_train.py[line:68] INFO Good/Bad 91/1
+Wed, 22 Nov 2017 04:36:30 test_train.py[line:69] INFO Finish Test 92/427
+Wed, 22 Nov 2017 04:36:30 test_train.py[line:48] INFO Start: 4268 DSC05123_152.JPG
+Wed, 22 Nov 2017 04:36:32 test_train.py[line:61] INFO End: 90.987046 4268 DSC05123_102.JPG (Speed time: 1.224926)
+Wed, 22 Nov 2017 04:36:32 test_train.py[line:68] INFO Good/Bad 92/1
+Wed, 22 Nov 2017 04:36:32 test_train.py[line:69] INFO Finish Test 93/427
+Wed, 22 Nov 2017 04:36:32 test_train.py[line:48] INFO Start: 4268 DSC05127_102.JPG
+Wed, 22 Nov 2017 04:36:33 test_train.py[line:61] INFO End: 76.384529 4268 DSC05127_159.JPG (Speed time: 1.223050)
+Wed, 22 Nov 2017 04:36:33 test_train.py[line:68] INFO Good/Bad 93/1
+Wed, 22 Nov 2017 04:36:33 test_train.py[line:69] INFO Finish Test 94/427
+Wed, 22 Nov 2017 04:36:33 test_train.py[line:48] INFO Start: 4268 DSC05125_257.JPG
+Wed, 22 Nov 2017 04:36:34 test_train.py[line:61] INFO End: 77.394841 4268 DSC05125_272.JPG (Speed time: 1.215349)
+Wed, 22 Nov 2017 04:36:34 test_train.py[line:68] INFO Good/Bad 94/1
+Wed, 22 Nov 2017 04:36:34 test_train.py[line:69] INFO Finish Test 95/427
+Wed, 22 Nov 2017 04:36:34 test_train.py[line:48] INFO Start: 4268 DSC05127_119.JPG
+Wed, 22 Nov 2017 04:36:35 test_train.py[line:61] INFO End: 94.878543 4268 DSC05127_031.JPG (Speed time: 1.210002)
+Wed, 22 Nov 2017 04:36:35 test_train.py[line:68] INFO Good/Bad 95/1
+Wed, 22 Nov 2017 04:36:35 test_train.py[line:69] INFO Finish Test 96/427
+Wed, 22 Nov 2017 04:36:35 test_train.py[line:48] INFO Start: 4268 DSC05125_111.JPG
+Wed, 22 Nov 2017 04:36:37 test_train.py[line:61] INFO End: 28.144224 4268 DSC05125_159.JPG (Speed time: 1.210901)
+Wed, 22 Nov 2017 04:36:37 test_train.py[line:68] INFO Good/Bad 96/1
+Wed, 22 Nov 2017 04:36:37 test_train.py[line:69] INFO Finish Test 97/427
+Wed, 22 Nov 2017 04:36:37 test_train.py[line:48] INFO Start: 4268 DSC05124_140.JPG
+Wed, 22 Nov 2017 04:36:38 test_train.py[line:61] INFO End: 98.513324 4223 DSC05390_332.JPG (Speed time: 1.220624)
+Wed, 22 Nov 2017 04:36:38 test_train.py[line:67] WARNING Bad is Coming: 4268 [2] != 4223 DSC05390_332.JPG
+Wed, 22 Nov 2017 04:36:38 test_train.py[line:68] INFO Good/Bad 96/2
+Wed, 22 Nov 2017 04:36:38 test_train.py[line:69] INFO Finish Test 98/427
+Wed, 22 Nov 2017 04:36:38 test_train.py[line:48] INFO Start: 4268 DSC05124_013.JPG
+Wed, 22 Nov 2017 04:36:39 test_train.py[line:61] INFO End: 100.608560 4268 DSC05124_032.JPG (Speed time: 1.210672)
+Wed, 22 Nov 2017 04:36:39 test_train.py[line:68] INFO Good/Bad 97/2
+Wed, 22 Nov 2017 04:36:39 test_train.py[line:69] INFO Finish Test 99/427
+Wed, 22 Nov 2017 04:36:39 test_train.py[line:48] INFO Start: 4268 DSC05127_104.JPG
+Wed, 22 Nov 2017 04:36:40 test_train.py[line:61] INFO End: 25.968037 4268 DSC05127_133.JPG (Speed time: 1.212636)
+Wed, 22 Nov 2017 04:36:40 test_train.py[line:68] INFO Good/Bad 98/2
+Wed, 22 Nov 2017 04:36:40 test_train.py[line:69] INFO Finish Test 100/427
+Wed, 22 Nov 2017 04:36:40 test_train.py[line:48] INFO Start: 4268 DSC05124_157.JPG
+Wed, 22 Nov 2017 04:36:41 test_train.py[line:61] INFO End: 65.387591 4268 DSC05123_193.JPG (Speed time: 1.209297)
+Wed, 22 Nov 2017 04:36:41 test_train.py[line:68] INFO Good/Bad 99/2
+Wed, 22 Nov 2017 04:36:41 test_train.py[line:69] INFO Finish Test 101/427
+Wed, 22 Nov 2017 04:36:41 test_train.py[line:48] INFO Start: 4268 DSC05123_248.JPG
+Wed, 22 Nov 2017 04:36:43 test_train.py[line:61] INFO End: 73.990700 4268 DSC05123_240.JPG (Speed time: 1.208191)
+Wed, 22 Nov 2017 04:36:43 test_train.py[line:68] INFO Good/Bad 100/2
+Wed, 22 Nov 2017 04:36:43 test_train.py[line:69] INFO Finish Test 102/427
+Wed, 22 Nov 2017 04:36:43 test_train.py[line:48] INFO Start: 4268 DSC05125_194.JPG
+Wed, 22 Nov 2017 04:36:44 test_train.py[line:61] INFO End: 99.840661 4268 DSC05125_005.JPG (Speed time: 1.216207)
+Wed, 22 Nov 2017 04:36:44 test_train.py[line:68] INFO Good/Bad 101/2
+Wed, 22 Nov 2017 04:36:44 test_train.py[line:69] INFO Finish Test 103/427
+Wed, 22 Nov 2017 04:36:44 test_train.py[line:48] INFO Start: 4268 DSC05125_270.JPG
+Wed, 22 Nov 2017 04:36:45 test_train.py[line:61] INFO End: 80.458859 4268 DSC05125_356.JPG (Speed time: 1.237270)
+Wed, 22 Nov 2017 04:36:45 test_train.py[line:68] INFO Good/Bad 102/2
+Wed, 22 Nov 2017 04:36:45 test_train.py[line:69] INFO Finish Test 104/427
+Wed, 22 Nov 2017 04:36:45 test_train.py[line:48] INFO Start: 4268 DSC05123_051.JPG
+Wed, 22 Nov 2017 04:36:46 test_train.py[line:61] INFO End: 78.219543 4268 DSC05123_111.JPG (Speed time: 1.211830)
+Wed, 22 Nov 2017 04:36:46 test_train.py[line:68] INFO Good/Bad 103/2
+Wed, 22 Nov 2017 04:36:46 test_train.py[line:69] INFO Finish Test 105/427
+Wed, 22 Nov 2017 04:36:46 test_train.py[line:48] INFO Start: 4268 DSC05123_347.JPG
+Wed, 22 Nov 2017 04:36:47 test_train.py[line:61] INFO End: 84.484437 4268 DSC05123_324.JPG (Speed time: 1.209954)
+Wed, 22 Nov 2017 04:36:47 test_train.py[line:68] INFO Good/Bad 104/2
+Wed, 22 Nov 2017 04:36:47 test_train.py[line:69] INFO Finish Test 106/427
+Wed, 22 Nov 2017 04:36:47 test_train.py[line:48] INFO Start: 4268 DSC05126_221.JPG
+Wed, 22 Nov 2017 04:36:49 test_train.py[line:61] INFO End: 93.317488 4268 DSC05126_223.JPG (Speed time: 1.213211)
+Wed, 22 Nov 2017 04:36:49 test_train.py[line:68] INFO Good/Bad 105/2
+Wed, 22 Nov 2017 04:36:49 test_train.py[line:69] INFO Finish Test 107/427
+Wed, 22 Nov 2017 04:36:49 test_train.py[line:48] INFO Start: 4997 DSC08326_214.JPG
+Wed, 22 Nov 2017 04:36:50 test_train.py[line:61] INFO End: 30.884269 4997 DSC08326_250.JPG (Speed time: 1.233454)
+Wed, 22 Nov 2017 04:36:50 test_train.py[line:68] INFO Good/Bad 106/2
+Wed, 22 Nov 2017 04:36:50 test_train.py[line:69] INFO Finish Test 108/427
+Wed, 22 Nov 2017 04:36:50 test_train.py[line:48] INFO Start: 4997 DSC08326_303.JPG
+Wed, 22 Nov 2017 04:36:51 test_train.py[line:61] INFO End: 98.180742 4997 DSC08326_341.JPG (Speed time: 1.248335)
+Wed, 22 Nov 2017 04:36:51 test_train.py[line:68] INFO Good/Bad 107/2
+Wed, 22 Nov 2017 04:36:51 test_train.py[line:69] INFO Finish Test 109/427
+Wed, 22 Nov 2017 04:36:51 test_train.py[line:48] INFO Start: 4997 DSC08325_085.JPG
+Wed, 22 Nov 2017 04:36:52 test_train.py[line:61] INFO End: 98.980260 4997 DSC08325_031.JPG (Speed time: 1.238892)
+Wed, 22 Nov 2017 04:36:52 test_train.py[line:68] INFO Good/Bad 108/2
+Wed, 22 Nov 2017 04:36:52 test_train.py[line:69] INFO Finish Test 110/427
+Wed, 22 Nov 2017 04:36:52 test_train.py[line:48] INFO Start: 4997 DSC08326_359.JPG
+Wed, 22 Nov 2017 04:36:54 test_train.py[line:61] INFO End: 21.767674 4997 DSC08326_305.JPG (Speed time: 1.228778)
+Wed, 22 Nov 2017 04:36:54 test_train.py[line:68] INFO Good/Bad 109/2
+Wed, 22 Nov 2017 04:36:54 test_train.py[line:69] INFO Finish Test 111/427
+Wed, 22 Nov 2017 04:36:54 test_train.py[line:48] INFO Start: 4997 DSC08324_079.JPG
+Wed, 22 Nov 2017 04:36:55 test_train.py[line:61] INFO End: 129.412527 4997 DSC08324_038.JPG (Speed time: 1.244599)
+Wed, 22 Nov 2017 04:36:55 test_train.py[line:68] INFO Good/Bad 110/2
+Wed, 22 Nov 2017 04:36:55 test_train.py[line:69] INFO Finish Test 112/427
+Wed, 22 Nov 2017 04:36:55 test_train.py[line:48] INFO Start: 4997 DSC08325_145.JPG
+Wed, 22 Nov 2017 04:36:56 test_train.py[line:61] INFO End: 105.717772 4997 DSC08325_147.JPG (Speed time: 1.215529)
+Wed, 22 Nov 2017 04:36:56 test_train.py[line:68] INFO Good/Bad 111/2
+Wed, 22 Nov 2017 04:36:56 test_train.py[line:69] INFO Finish Test 113/427
+Wed, 22 Nov 2017 04:36:56 test_train.py[line:48] INFO Start: 4997 DSC08325_249.JPG
+Wed, 22 Nov 2017 04:36:57 test_train.py[line:61] INFO End: 74.535094 4997 DSC08325_217.JPG (Speed time: 1.220291)
+Wed, 22 Nov 2017 04:36:57 test_train.py[line:68] INFO Good/Bad 112/2
+Wed, 22 Nov 2017 04:36:57 test_train.py[line:69] INFO Finish Test 114/427
+Wed, 22 Nov 2017 04:36:57 test_train.py[line:48] INFO Start: 4997 DSC08326_095.JPG
+Wed, 22 Nov 2017 04:36:59 test_train.py[line:61] INFO End: 36.543843 4997 DSC08326_049.JPG (Speed time: 1.277561)
+Wed, 22 Nov 2017 04:36:59 test_train.py[line:68] INFO Good/Bad 113/2
+Wed, 22 Nov 2017 04:36:59 test_train.py[line:69] INFO Finish Test 115/427
+Wed, 22 Nov 2017 04:36:59 test_train.py[line:48] INFO Start: 4997 DSC08326_249.JPG
+Wed, 22 Nov 2017 04:37:00 test_train.py[line:61] INFO End: 30.320907 4997 DSC08326_337.JPG (Speed time: 1.305733)
+Wed, 22 Nov 2017 04:37:00 test_train.py[line:68] INFO Good/Bad 114/2
+Wed, 22 Nov 2017 04:37:00 test_train.py[line:69] INFO Finish Test 116/427
+Wed, 22 Nov 2017 04:37:00 test_train.py[line:48] INFO Start: 4997 DSC08325_223.JPG
+Wed, 22 Nov 2017 04:37:01 test_train.py[line:61] INFO End: 75.972947 4997 DSC08324_317.JPG (Speed time: 1.257821)
+Wed, 22 Nov 2017 04:37:01 test_train.py[line:68] INFO Good/Bad 115/2
+Wed, 22 Nov 2017 04:37:01 test_train.py[line:69] INFO Finish Test 117/427
+Wed, 22 Nov 2017 04:37:01 test_train.py[line:48] INFO Start: 4997 DSC08325_255.JPG
+Wed, 22 Nov 2017 04:37:02 test_train.py[line:61] INFO End: 20.027431 4997 DSC08325_233.JPG (Speed time: 1.220757)
+Wed, 22 Nov 2017 04:37:02 test_train.py[line:68] INFO Good/Bad 116/2
+Wed, 22 Nov 2017 04:37:02 test_train.py[line:69] INFO Finish Test 118/427
+Wed, 22 Nov 2017 04:37:02 test_train.py[line:48] INFO Start: 4997 DSC08325_163.JPG
+Wed, 22 Nov 2017 04:37:04 test_train.py[line:61] INFO End: 86.139413 4997 DSC08324_148.JPG (Speed time: 1.222860)
+Wed, 22 Nov 2017 04:37:04 test_train.py[line:68] INFO Good/Bad 117/2
+Wed, 22 Nov 2017 04:37:04 test_train.py[line:69] INFO Finish Test 119/427
+Wed, 22 Nov 2017 04:37:04 test_train.py[line:48] INFO Start: 4997 DSC08326_015.JPG
+Wed, 22 Nov 2017 04:37:05 test_train.py[line:61] INFO End: 124.960205 4997 DSC08326_009.JPG (Speed time: 1.205910)
+Wed, 22 Nov 2017 04:37:05 test_train.py[line:68] INFO Good/Bad 118/2
+Wed, 22 Nov 2017 04:37:05 test_train.py[line:69] INFO Finish Test 120/427
+Wed, 22 Nov 2017 04:37:05 test_train.py[line:48] INFO Start: 4997 DSC08326_087.JPG
+Wed, 22 Nov 2017 04:37:06 test_train.py[line:61] INFO End: 104.917930 4997 DSC08326_052.JPG (Speed time: 1.210354)
+Wed, 22 Nov 2017 04:37:06 test_train.py[line:68] INFO Good/Bad 119/2
+Wed, 22 Nov 2017 04:37:06 test_train.py[line:69] INFO Finish Test 121/427
+Wed, 22 Nov 2017 04:37:06 test_train.py[line:48] INFO Start: 4997 DSC08325_331.JPG
+Wed, 22 Nov 2017 04:37:07 test_train.py[line:61] INFO End: 62.910205 4997 DSC08325_235.JPG (Speed time: 1.213519)
+Wed, 22 Nov 2017 04:37:07 test_train.py[line:68] INFO Good/Bad 120/2
+Wed, 22 Nov 2017 04:37:07 test_train.py[line:69] INFO Finish Test 122/427
+Wed, 22 Nov 2017 04:37:07 test_train.py[line:48] INFO Start: 4997 DSC08324_335.JPG
+Wed, 22 Nov 2017 04:37:08 test_train.py[line:61] INFO End: 54.720214 4997 DSC08324_241.JPG (Speed time: 1.220449)
+Wed, 22 Nov 2017 04:37:08 test_train.py[line:68] INFO Good/Bad 121/2
+Wed, 22 Nov 2017 04:37:08 test_train.py[line:69] INFO Finish Test 123/427
+Wed, 22 Nov 2017 04:37:08 test_train.py[line:48] INFO Start: 4997 DSC08324_006.JPG
+Wed, 22 Nov 2017 04:37:10 test_train.py[line:61] INFO End: 43.359108 4997 DSC08324_072.JPG (Speed time: 1.239997)
+Wed, 22 Nov 2017 04:37:10 test_train.py[line:68] INFO Good/Bad 122/2
+Wed, 22 Nov 2017 04:37:10 test_train.py[line:69] INFO Finish Test 124/427
+Wed, 22 Nov 2017 04:37:10 test_train.py[line:48] INFO Start: 4997 DSC08324_142.JPG
+Wed, 22 Nov 2017 04:37:11 test_train.py[line:61] INFO End: 92.959618 4997 DSC08324_147.JPG (Speed time: 1.247464)
+Wed, 22 Nov 2017 04:37:11 test_train.py[line:68] INFO Good/Bad 123/2
+Wed, 22 Nov 2017 04:37:11 test_train.py[line:69] INFO Finish Test 125/427
+Wed, 22 Nov 2017 04:37:11 test_train.py[line:48] INFO Start: 4997 DSC08325_034.JPG
+Wed, 22 Nov 2017 04:37:12 test_train.py[line:61] INFO End: 41.356542 4997 DSC08325_032.JPG (Speed time: 1.209262)
+Wed, 22 Nov 2017 04:37:12 test_train.py[line:68] INFO Good/Bad 124/2
+Wed, 22 Nov 2017 04:37:12 test_train.py[line:69] INFO Finish Test 126/427
+Wed, 22 Nov 2017 04:37:12 test_train.py[line:48] INFO Start: 4997 DSC08325_176.JPG
+Wed, 22 Nov 2017 04:37:13 test_train.py[line:61] INFO End: 97.142656 4997 DSC08324_171.JPG (Speed time: 1.233205)
+Wed, 22 Nov 2017 04:37:13 test_train.py[line:68] INFO Good/Bad 125/2
+Wed, 22 Nov 2017 04:37:13 test_train.py[line:69] INFO Finish Test 127/427
+Wed, 22 Nov 2017 04:37:13 test_train.py[line:48] INFO Start: 4997 DSC08326_124.JPG
+Wed, 22 Nov 2017 04:37:15 test_train.py[line:61] INFO End: 40.332866 4997 DSC08326_153.JPG (Speed time: 1.262237)
+Wed, 22 Nov 2017 04:37:15 test_train.py[line:68] INFO Good/Bad 126/2
+Wed, 22 Nov 2017 04:37:15 test_train.py[line:69] INFO Finish Test 128/427
+Wed, 22 Nov 2017 04:37:15 test_train.py[line:48] INFO Start: 4223 DSC05390_114.JPG
+Wed, 22 Nov 2017 04:37:16 test_train.py[line:61] INFO End: 36.503104 4223 DSC05390_174.JPG (Speed time: 1.264512)
+Wed, 22 Nov 2017 04:37:16 test_train.py[line:68] INFO Good/Bad 127/2
+Wed, 22 Nov 2017 04:37:16 test_train.py[line:69] INFO Finish Test 129/427
+Wed, 22 Nov 2017 04:37:16 test_train.py[line:48] INFO Start: 4223 DSC05391_341.JPG
+Wed, 22 Nov 2017 04:37:17 test_train.py[line:61] INFO End: 49.250766 4223 DSC05391_319.JPG (Speed time: 1.213618)
+Wed, 22 Nov 2017 04:37:17 test_train.py[line:68] INFO Good/Bad 128/2
+Wed, 22 Nov 2017 04:37:17 test_train.py[line:69] INFO Finish Test 130/427
+Wed, 22 Nov 2017 04:37:17 test_train.py[line:48] INFO Start: 4223 DSC05390_094.JPG
+Wed, 22 Nov 2017 04:37:18 test_train.py[line:61] INFO End: 87.333037 4223 DSC05390_002.JPG (Speed time: 1.202007)
+Wed, 22 Nov 2017 04:37:18 test_train.py[line:68] INFO Good/Bad 129/2
+Wed, 22 Nov 2017 04:37:18 test_train.py[line:69] INFO Finish Test 131/427
+Wed, 22 Nov 2017 04:37:18 test_train.py[line:48] INFO Start: 4223 DSC05390_242.JPG
+Wed, 22 Nov 2017 04:37:20 test_train.py[line:61] INFO End: 75.287910 4223 DSC05390_323.JPG (Speed time: 1.202373)
+Wed, 22 Nov 2017 04:37:20 test_train.py[line:68] INFO Good/Bad 130/2
+Wed, 22 Nov 2017 04:37:20 test_train.py[line:69] INFO Finish Test 132/427
+Wed, 22 Nov 2017 04:37:20 test_train.py[line:48] INFO Start: 4223 DSC05392_349.JPG
+Wed, 22 Nov 2017 04:37:21 test_train.py[line:61] INFO End: 91.027955 4223 DSC05392_228.JPG (Speed time: 1.217064)
+Wed, 22 Nov 2017 04:37:21 test_train.py[line:68] INFO Good/Bad 131/2
+Wed, 22 Nov 2017 04:37:21 test_train.py[line:69] INFO Finish Test 133/427
+Wed, 22 Nov 2017 04:37:21 test_train.py[line:48] INFO Start: 4223 DSC05390_187.JPG
+Wed, 22 Nov 2017 04:37:22 test_train.py[line:61] INFO End: 18.972043 4223 DSC05390_197.JPG (Speed time: 1.210072)
+Wed, 22 Nov 2017 04:37:22 test_train.py[line:68] INFO Good/Bad 132/2
+Wed, 22 Nov 2017 04:37:22 test_train.py[line:69] INFO Finish Test 134/427
+Wed, 22 Nov 2017 04:37:22 test_train.py[line:48] INFO Start: 4223 DSC05392_322.JPG
+Wed, 22 Nov 2017 04:37:23 test_train.py[line:61] INFO End: 99.664086 4223 DSC05392_134.JPG (Speed time: 1.226377)
+Wed, 22 Nov 2017 04:37:23 test_train.py[line:68] INFO Good/Bad 133/2
+Wed, 22 Nov 2017 04:37:23 test_train.py[line:69] INFO Finish Test 135/427
+Wed, 22 Nov 2017 04:37:23 test_train.py[line:48] INFO Start: 4223 DSC05392_284.JPG
+Wed, 22 Nov 2017 04:37:24 test_train.py[line:61] INFO End: 44.680087 4223 DSC05392_252.JPG (Speed time: 1.210923)
+Wed, 22 Nov 2017 04:37:24 test_train.py[line:68] INFO Good/Bad 134/2
+Wed, 22 Nov 2017 04:37:24 test_train.py[line:69] INFO Finish Test 136/427
+Wed, 22 Nov 2017 04:37:24 test_train.py[line:48] INFO Start: 4223 DSC05392_128.JPG
+Wed, 22 Nov 2017 04:37:26 test_train.py[line:61] INFO End: 129.236186 4223 DSC05392_150.JPG (Speed time: 1.212026)
+Wed, 22 Nov 2017 04:37:26 test_train.py[line:68] INFO Good/Bad 135/2
+Wed, 22 Nov 2017 04:37:26 test_train.py[line:69] INFO Finish Test 137/427
+Wed, 22 Nov 2017 04:37:26 test_train.py[line:48] INFO Start: 4223 DSC05392_280.JPG
+Wed, 22 Nov 2017 04:37:27 test_train.py[line:61] INFO End: 113.009409 4223 DSC05392_220.JPG (Speed time: 1.213151)
+Wed, 22 Nov 2017 04:37:27 test_train.py[line:68] INFO Good/Bad 136/2
+Wed, 22 Nov 2017 04:37:27 test_train.py[line:69] INFO Finish Test 138/427
+Wed, 22 Nov 2017 04:37:27 test_train.py[line:48] INFO Start: 4223 DSC05392_344.JPG
+Wed, 22 Nov 2017 04:37:28 test_train.py[line:61] INFO End: 64.892477 4223 DSC05392_336.JPG (Speed time: 1.236270)
+Wed, 22 Nov 2017 04:37:28 test_train.py[line:68] INFO Good/Bad 137/2
+Wed, 22 Nov 2017 04:37:28 test_train.py[line:69] INFO Finish Test 139/427
+Wed, 22 Nov 2017 04:37:28 test_train.py[line:48] INFO Start: 4223 DSC05392_044.JPG
+Wed, 22 Nov 2017 04:37:29 test_train.py[line:61] INFO End: 112.839162 4223 DSC05391_054.JPG (Speed time: 1.237843)
+Wed, 22 Nov 2017 04:37:29 test_train.py[line:68] INFO Good/Bad 138/2
+Wed, 22 Nov 2017 04:37:29 test_train.py[line:69] INFO Finish Test 140/427
+Wed, 22 Nov 2017 04:37:29 test_train.py[line:48] INFO Start: 4223 DSC05391_061.JPG
+Wed, 22 Nov 2017 04:37:31 test_train.py[line:61] INFO End: 83.696043 4223 DSC05391_035.JPG (Speed time: 1.227745)
+Wed, 22 Nov 2017 04:37:31 test_train.py[line:68] INFO Good/Bad 139/2
+Wed, 22 Nov 2017 04:37:31 test_train.py[line:69] INFO Finish Test 141/427
+Wed, 22 Nov 2017 04:37:31 test_train.py[line:48] INFO Start: 4223 DSC05390_186.JPG
+Wed, 22 Nov 2017 04:37:32 test_train.py[line:61] INFO End: 29.268922 4223 DSC05390_153.JPG (Speed time: 1.299588)
+Wed, 22 Nov 2017 04:37:32 test_train.py[line:68] INFO Good/Bad 140/2
+Wed, 22 Nov 2017 04:37:32 test_train.py[line:69] INFO Finish Test 142/427
+Wed, 22 Nov 2017 04:37:32 test_train.py[line:48] INFO Start: 4223 DSC05392_237.JPG
+Wed, 22 Nov 2017 04:37:33 test_train.py[line:61] INFO End: 67.709493 4223 DSC05392_357.JPG (Speed time: 1.218705)
+Wed, 22 Nov 2017 04:37:33 test_train.py[line:68] INFO Good/Bad 141/2
+Wed, 22 Nov 2017 04:37:33 test_train.py[line:69] INFO Finish Test 143/427
+Wed, 22 Nov 2017 04:37:33 test_train.py[line:48] INFO Start: 4223 DSC05391_068.JPG
+Wed, 22 Nov 2017 04:37:34 test_train.py[line:61] INFO End: 110.976073 4223 DSC05390_002.JPG (Speed time: 1.236107)
+Wed, 22 Nov 2017 04:37:34 test_train.py[line:68] INFO Good/Bad 142/2
+Wed, 22 Nov 2017 04:37:34 test_train.py[line:69] INFO Finish Test 144/427
+Wed, 22 Nov 2017 04:37:34 test_train.py[line:48] INFO Start: 4223 DSC05391_216.JPG
+Wed, 22 Nov 2017 04:37:36 test_train.py[line:61] INFO End: 67.484952 4223 DSC05391_277.JPG (Speed time: 1.228175)
+Wed, 22 Nov 2017 04:37:36 test_train.py[line:68] INFO Good/Bad 143/2
+Wed, 22 Nov 2017 04:37:36 test_train.py[line:69] INFO Finish Test 145/427
+Wed, 22 Nov 2017 04:37:36 test_train.py[line:48] INFO Start: 4223 DSC05391_245.JPG
+Wed, 22 Nov 2017 04:37:37 test_train.py[line:61] INFO End: 55.138950 4223 DSC05391_212.JPG (Speed time: 1.215612)
+Wed, 22 Nov 2017 04:37:37 test_train.py[line:68] INFO Good/Bad 144/2
+Wed, 22 Nov 2017 04:37:37 test_train.py[line:69] INFO Finish Test 146/427
+Wed, 22 Nov 2017 04:37:37 test_train.py[line:48] INFO Start: 4223 DSC05390_325.JPG
+Wed, 22 Nov 2017 04:37:38 test_train.py[line:61] INFO End: 87.992730 4223 DSC05390_315.JPG (Speed time: 1.216704)
+Wed, 22 Nov 2017 04:37:38 test_train.py[line:68] INFO Good/Bad 145/2
+Wed, 22 Nov 2017 04:37:38 test_train.py[line:69] INFO Finish Test 147/427
+Wed, 22 Nov 2017 04:37:38 test_train.py[line:48] INFO Start: 4223 DSC05392_321.JPG
+Wed, 22 Nov 2017 04:37:39 test_train.py[line:61] INFO End: 62.783220 4223 DSC05392_215.JPG (Speed time: 1.232269)
+Wed, 22 Nov 2017 04:37:39 test_train.py[line:68] INFO Good/Bad 146/2
+Wed, 22 Nov 2017 04:37:39 test_train.py[line:69] INFO Finish Test 148/427
+Wed, 22 Nov 2017 04:37:39 test_train.py[line:48] INFO Start: 4223 DSC05390_346.JPG
+Wed, 22 Nov 2017 04:37:40 test_train.py[line:61] INFO End: 83.040325 4223 DSC05390_208.JPG (Speed time: 1.242928)
+Wed, 22 Nov 2017 04:37:40 test_train.py[line:68] INFO Good/Bad 147/2
+Wed, 22 Nov 2017 04:37:40 test_train.py[line:69] INFO Finish Test 149/427
+Wed, 22 Nov 2017 04:37:40 test_train.py[line:48] INFO Start: 1465 DSC01217_221.JPG
+Wed, 22 Nov 2017 04:37:42 test_train.py[line:61] INFO End: 26.145010 1465 DSC01217_209.JPG (Speed time: 1.222734)
+Wed, 22 Nov 2017 04:37:42 test_train.py[line:68] INFO Good/Bad 148/2
+Wed, 22 Nov 2017 04:37:42 test_train.py[line:69] INFO Finish Test 150/427
+Wed, 22 Nov 2017 04:37:42 test_train.py[line:48] INFO Start: 1465 DSC01213_126.JPG
+Wed, 22 Nov 2017 04:37:43 test_train.py[line:61] INFO End: 70.342273 1465 DSC01213_179.JPG (Speed time: 1.212443)
+Wed, 22 Nov 2017 04:37:43 test_train.py[line:68] INFO Good/Bad 149/2
+Wed, 22 Nov 2017 04:37:43 test_train.py[line:69] INFO Finish Test 151/427
+Wed, 22 Nov 2017 04:37:43 test_train.py[line:48] INFO Start: 1465 DSC01214_128.JPG
+Wed, 22 Nov 2017 04:37:44 test_train.py[line:61] INFO End: 93.466896 1465 DSC01215_139.JPG (Speed time: 1.206313)
+Wed, 22 Nov 2017 04:37:44 test_train.py[line:68] INFO Good/Bad 150/2
+Wed, 22 Nov 2017 04:37:44 test_train.py[line:69] INFO Finish Test 152/427
+Wed, 22 Nov 2017 04:37:44 test_train.py[line:48] INFO Start: 1465 DSC01215_193.JPG
+Wed, 22 Nov 2017 04:37:45 test_train.py[line:61] INFO End: 56.757967 1465 DSC01215_048.JPG (Speed time: 1.210041)
+Wed, 22 Nov 2017 04:37:45 test_train.py[line:68] INFO Good/Bad 151/2
+Wed, 22 Nov 2017 04:37:45 test_train.py[line:69] INFO Finish Test 153/427
+Wed, 22 Nov 2017 04:37:45 test_train.py[line:48] INFO Start: 1465 DSC01217_259.JPG
+Wed, 22 Nov 2017 04:37:47 test_train.py[line:61] INFO End: 36.971059 1465 DSC01217_265.JPG (Speed time: 1.215589)
+Wed, 22 Nov 2017 04:37:47 test_train.py[line:68] INFO Good/Bad 152/2
+Wed, 22 Nov 2017 04:37:47 test_train.py[line:69] INFO Finish Test 154/427
+Wed, 22 Nov 2017 04:37:47 test_train.py[line:48] INFO Start: 1465 DSC01214_335.JPG
+Wed, 22 Nov 2017 04:37:48 test_train.py[line:61] INFO End: 88.876084 1465 DSC01214_223.JPG (Speed time: 1.283562)
+Wed, 22 Nov 2017 04:37:48 test_train.py[line:68] INFO Good/Bad 153/2
+Wed, 22 Nov 2017 04:37:48 test_train.py[line:69] INFO Finish Test 155/427
+Wed, 22 Nov 2017 04:37:48 test_train.py[line:48] INFO Start: 1465 DSC01214_006.JPG
+Wed, 22 Nov 2017 04:37:49 test_train.py[line:61] INFO End: 66.596123 1465 DSC01214_060.JPG (Speed time: 1.219171)
+Wed, 22 Nov 2017 04:37:49 test_train.py[line:68] INFO Good/Bad 154/2
+Wed, 22 Nov 2017 04:37:49 test_train.py[line:69] INFO Finish Test 156/427
+Wed, 22 Nov 2017 04:37:49 test_train.py[line:48] INFO Start: 1465 DSC01528_029.JPG
+Wed, 22 Nov 2017 04:37:50 test_train.py[line:61] INFO End: 35.497671 1465 DSC01528_039.JPG (Speed time: 1.246289)
+Wed, 22 Nov 2017 04:37:50 test_train.py[line:68] INFO Good/Bad 155/2
+Wed, 22 Nov 2017 04:37:50 test_train.py[line:69] INFO Finish Test 157/427
+Wed, 22 Nov 2017 04:37:50 test_train.py[line:48] INFO Start: 1465 DSC01528_123.JPG
+Wed, 22 Nov 2017 04:37:52 test_train.py[line:61] INFO End: 31.635001 1465 DSC01528_194.JPG (Speed time: 1.262557)
+Wed, 22 Nov 2017 04:37:52 test_train.py[line:68] INFO Good/Bad 156/2
+Wed, 22 Nov 2017 04:37:52 test_train.py[line:69] INFO Finish Test 158/427
+Wed, 22 Nov 2017 04:37:52 test_train.py[line:48] INFO Start: 1465 DSC01215_125.JPG
+Wed, 22 Nov 2017 04:37:53 test_train.py[line:61] INFO End: 39.436508 1465 DSC01215_115.JPG (Speed time: 1.229737)
+Wed, 22 Nov 2017 04:37:53 test_train.py[line:68] INFO Good/Bad 157/2
+Wed, 22 Nov 2017 04:37:53 test_train.py[line:69] INFO Finish Test 159/427
+Wed, 22 Nov 2017 04:37:53 test_train.py[line:48] INFO Start: 1465 DSC01528_289.JPG
+Wed, 22 Nov 2017 04:37:54 test_train.py[line:61] INFO End: 24.571151 1465 DSC01528_271.JPG (Speed time: 1.237385)
+Wed, 22 Nov 2017 04:37:54 test_train.py[line:68] INFO Good/Bad 158/2
+Wed, 22 Nov 2017 04:37:54 test_train.py[line:69] INFO Finish Test 160/427
+Wed, 22 Nov 2017 04:37:54 test_train.py[line:48] INFO Start: 1465 DSC01215_222.JPG
+Wed, 22 Nov 2017 04:37:55 test_train.py[line:61] INFO End: 70.078370 1465 DSC01215_327.JPG (Speed time: 1.272423)
+Wed, 22 Nov 2017 04:37:55 test_train.py[line:68] INFO Good/Bad 159/2
+Wed, 22 Nov 2017 04:37:55 test_train.py[line:69] INFO Finish Test 161/427
+Wed, 22 Nov 2017 04:37:55 test_train.py[line:48] INFO Start: 1465 DSC01217_216.JPG
+Wed, 22 Nov 2017 04:37:57 test_train.py[line:61] INFO End: 60.025393 1465 DSC01217_273.JPG (Speed time: 1.224430)
+Wed, 22 Nov 2017 04:37:57 test_train.py[line:68] INFO Good/Bad 160/2
+Wed, 22 Nov 2017 04:37:57 test_train.py[line:69] INFO Finish Test 162/427
+Wed, 22 Nov 2017 04:37:57 test_train.py[line:48] INFO Start: 1465 DSC01215_109.JPG
+Wed, 22 Nov 2017 04:37:58 test_train.py[line:61] INFO End: 35.124856 1465 DSC01215_181.JPG (Speed time: 1.233395)
+Wed, 22 Nov 2017 04:37:58 test_train.py[line:68] INFO Good/Bad 161/2
+Wed, 22 Nov 2017 04:37:58 test_train.py[line:69] INFO Finish Test 163/427
+Wed, 22 Nov 2017 04:37:58 test_train.py[line:48] INFO Start: 1465 DSC01215_008.JPG
+Wed, 22 Nov 2017 04:37:59 test_train.py[line:61] INFO End: 37.700774 1465 DSC01215_036.JPG (Speed time: 1.229043)
+Wed, 22 Nov 2017 04:37:59 test_train.py[line:68] INFO Good/Bad 162/2
+Wed, 22 Nov 2017 04:37:59 test_train.py[line:69] INFO Finish Test 164/427
+Wed, 22 Nov 2017 04:37:59 test_train.py[line:48] INFO Start: 1465 DSC01214_011.JPG
+Wed, 22 Nov 2017 04:38:00 test_train.py[line:61] INFO End: 22.740649 1465 DSC01214_053.JPG (Speed time: 1.253744)
+Wed, 22 Nov 2017 04:38:00 test_train.py[line:68] INFO Good/Bad 163/2
+Wed, 22 Nov 2017 04:38:00 test_train.py[line:69] INFO Finish Test 165/427
+Wed, 22 Nov 2017 04:38:00 test_train.py[line:48] INFO Start: 1465 DSC01215_201.JPG
+Wed, 22 Nov 2017 04:38:01 test_train.py[line:61] INFO End: 75.056927 1465 DSC01215_296.JPG (Speed time: 1.250838)
+Wed, 22 Nov 2017 04:38:01 test_train.py[line:68] INFO Good/Bad 164/2
+Wed, 22 Nov 2017 04:38:01 test_train.py[line:69] INFO Finish Test 166/427
+Wed, 22 Nov 2017 04:38:01 test_train.py[line:48] INFO Start: 1465 DSC01217_036.JPG
+Wed, 22 Nov 2017 04:38:03 test_train.py[line:61] INFO End: 28.133734 1465 DSC01217_088.JPG (Speed time: 1.240991)
+Wed, 22 Nov 2017 04:38:03 test_train.py[line:68] INFO Good/Bad 165/2
+Wed, 22 Nov 2017 04:38:03 test_train.py[line:69] INFO Finish Test 167/427
+Wed, 22 Nov 2017 04:38:03 test_train.py[line:48] INFO Start: 1465 DSC01215_068.JPG
+Wed, 22 Nov 2017 04:38:04 test_train.py[line:61] INFO End: 37.990618 1465 DSC01215_026.JPG (Speed time: 1.263293)
+Wed, 22 Nov 2017 04:38:04 test_train.py[line:68] INFO Good/Bad 166/2
+Wed, 22 Nov 2017 04:38:04 test_train.py[line:69] INFO Finish Test 168/427
+Wed, 22 Nov 2017 04:38:04 test_train.py[line:48] INFO Start: 1465 DSC01214_041.JPG
+Wed, 22 Nov 2017 04:38:05 test_train.py[line:61] INFO End: 40.043625 1465 DSC01214_056.JPG (Speed time: 1.263995)
+Wed, 22 Nov 2017 04:38:05 test_train.py[line:68] INFO Good/Bad 167/2
+Wed, 22 Nov 2017 04:38:05 test_train.py[line:69] INFO Finish Test 169/427
+Wed, 22 Nov 2017 04:38:05 test_train.py[line:48] INFO Start: 1465 DSC01213_056.JPG
+Wed, 22 Nov 2017 04:38:06 test_train.py[line:61] INFO End: 72.469860 1465 DSC01213_083.JPG (Speed time: 1.244962)
+Wed, 22 Nov 2017 04:38:06 test_train.py[line:68] INFO Good/Bad 168/2
+Wed, 22 Nov 2017 04:38:06 test_train.py[line:69] INFO Finish Test 170/427
+Wed, 22 Nov 2017 04:38:06 test_train.py[line:48] INFO Start: 1465 DSC01217_149.JPG
+Wed, 22 Nov 2017 04:38:08 test_train.py[line:61] INFO End: 35.510190 1465 DSC01217_135.JPG (Speed time: 1.214172)
+Wed, 22 Nov 2017 04:38:08 test_train.py[line:68] INFO Good/Bad 169/2
+Wed, 22 Nov 2017 04:38:08 test_train.py[line:69] INFO Finish Test 171/427
+Wed, 22 Nov 2017 04:38:08 test_train.py[line:48] INFO Start: 1465 DSC01215_276.JPG
+Wed, 22 Nov 2017 04:38:09 test_train.py[line:61] INFO End: 81.921561 1465 DSC01215_250.JPG (Speed time: 1.213109)
+Wed, 22 Nov 2017 04:38:09 test_train.py[line:68] INFO Good/Bad 170/2
+Wed, 22 Nov 2017 04:38:09 test_train.py[line:69] INFO Finish Test 172/427
+Wed, 22 Nov 2017 04:38:09 test_train.py[line:48] INFO Start: 1465 DSC01214_308.JPG
+Wed, 22 Nov 2017 04:38:10 test_train.py[line:61] INFO End: 101.374184 1465 DSC01215_120.JPG (Speed time: 1.233031)
+Wed, 22 Nov 2017 04:38:10 test_train.py[line:68] INFO Good/Bad 171/2
+Wed, 22 Nov 2017 04:38:10 test_train.py[line:69] INFO Finish Test 173/427
+Wed, 22 Nov 2017 04:38:10 test_train.py[line:48] INFO Start: 1465 DSC01215_328.JPG
+Wed, 22 Nov 2017 04:38:11 test_train.py[line:61] INFO End: 107.607055 1465 DSC01213_143.JPG (Speed time: 1.224376)
+Wed, 22 Nov 2017 04:38:11 test_train.py[line:68] INFO Good/Bad 172/2
+Wed, 22 Nov 2017 04:38:11 test_train.py[line:69] INFO Finish Test 174/427
+Wed, 22 Nov 2017 04:38:11 test_train.py[line:48] INFO Start: 1465 DSC01215_148.JPG
+Wed, 22 Nov 2017 04:38:13 test_train.py[line:61] INFO End: 116.024009 1465 DSC01215_052.JPG (Speed time: 1.216951)
+Wed, 22 Nov 2017 04:38:13 test_train.py[line:68] INFO Good/Bad 173/2
+Wed, 22 Nov 2017 04:38:13 test_train.py[line:69] INFO Finish Test 175/427
+Wed, 22 Nov 2017 04:38:13 test_train.py[line:48] INFO Start: 1465 DSC01213_070.JPG
+Wed, 22 Nov 2017 04:38:14 test_train.py[line:61] INFO End: 118.493425 1465 DSC01213_012.JPG (Speed time: 1.218836)
+Wed, 22 Nov 2017 04:38:14 test_train.py[line:68] INFO Good/Bad 174/2
+Wed, 22 Nov 2017 04:38:14 test_train.py[line:69] INFO Finish Test 176/427
+Wed, 22 Nov 2017 04:38:14 test_train.py[line:48] INFO Start: 1465 DSC01213_069.JPG
+Wed, 22 Nov 2017 04:38:15 test_train.py[line:61] INFO End: 66.905319 1465 DSC01213_046.JPG (Speed time: 1.213330)
+Wed, 22 Nov 2017 04:38:15 test_train.py[line:68] INFO Good/Bad 175/2
+Wed, 22 Nov 2017 04:38:15 test_train.py[line:69] INFO Finish Test 177/427
+Wed, 22 Nov 2017 04:38:15 test_train.py[line:48] INFO Start: 1465 DSC01215_174.JPG
+Wed, 22 Nov 2017 04:38:16 test_train.py[line:61] INFO End: 90.814321 1465 DSC01215_315.JPG (Speed time: 1.244064)
+Wed, 22 Nov 2017 04:38:16 test_train.py[line:68] INFO Good/Bad 176/2
+Wed, 22 Nov 2017 04:38:16 test_train.py[line:69] INFO Finish Test 178/427
+Wed, 22 Nov 2017 04:38:16 test_train.py[line:48] INFO Start: 1465 DSC01217_092.JPG
+Wed, 22 Nov 2017 04:38:18 test_train.py[line:61] INFO End: 119.684318 1465 DSC01217_101.JPG (Speed time: 1.226409)
+Wed, 22 Nov 2017 04:38:18 test_train.py[line:68] INFO Good/Bad 177/2
+Wed, 22 Nov 2017 04:38:18 test_train.py[line:69] INFO Finish Test 179/427
+Wed, 22 Nov 2017 04:38:18 test_train.py[line:48] INFO Start: 1465 DSC01213_253.JPG
+Wed, 22 Nov 2017 04:38:19 test_train.py[line:61] INFO End: 108.407396 1465 DSC01213_230.JPG (Speed time: 1.224581)
+Wed, 22 Nov 2017 04:38:19 test_train.py[line:68] INFO Good/Bad 178/2
+Wed, 22 Nov 2017 04:38:19 test_train.py[line:69] INFO Finish Test 180/427
+Wed, 22 Nov 2017 04:38:19 test_train.py[line:48] INFO Start: 1465 DSC01215_305.JPG
+Wed, 22 Nov 2017 04:38:20 test_train.py[line:61] INFO End: 121.582044 1465 DSC01215_215.JPG (Speed time: 1.238286)
+Wed, 22 Nov 2017 04:38:20 test_train.py[line:68] INFO Good/Bad 179/2
+Wed, 22 Nov 2017 04:38:20 test_train.py[line:69] INFO Finish Test 181/427
+Wed, 22 Nov 2017 04:38:20 test_train.py[line:48] INFO Start: 1465 DSC01528_224.JPG
+Wed, 22 Nov 2017 04:38:21 test_train.py[line:61] INFO End: 79.737608 1465 DSC01528_220.JPG (Speed time: 1.223219)
+Wed, 22 Nov 2017 04:38:21 test_train.py[line:68] INFO Good/Bad 180/2
+Wed, 22 Nov 2017 04:38:21 test_train.py[line:69] INFO Finish Test 182/427
+Wed, 22 Nov 2017 04:38:21 test_train.py[line:48] INFO Start: 1465 DSC01215_239.JPG
+Wed, 22 Nov 2017 04:38:22 test_train.py[line:61] INFO End: 56.642700 1465 DSC01215_353.JPG (Speed time: 1.223248)
+Wed, 22 Nov 2017 04:38:22 test_train.py[line:68] INFO Good/Bad 181/2
+Wed, 22 Nov 2017 04:38:22 test_train.py[line:69] INFO Finish Test 183/427
+Wed, 22 Nov 2017 04:38:22 test_train.py[line:48] INFO Start: 1465 DSC01528_249.JPG
+Wed, 22 Nov 2017 04:38:24 test_train.py[line:61] INFO End: 22.468613 1465 DSC01528_285.JPG (Speed time: 1.242238)
+Wed, 22 Nov 2017 04:38:24 test_train.py[line:68] INFO Good/Bad 182/2
+Wed, 22 Nov 2017 04:38:24 test_train.py[line:69] INFO Finish Test 184/427
+Wed, 22 Nov 2017 04:38:24 test_train.py[line:48] INFO Start: 1465 DSC01528_118.JPG
+Wed, 22 Nov 2017 04:38:25 test_train.py[line:61] INFO End: 82.330638 1465 DSC01528_158.JPG (Speed time: 1.224710)
+Wed, 22 Nov 2017 04:38:25 test_train.py[line:68] INFO Good/Bad 183/2
+Wed, 22 Nov 2017 04:38:25 test_train.py[line:69] INFO Finish Test 185/427
+Wed, 22 Nov 2017 04:38:25 test_train.py[line:48] INFO Start: 5442 DSC05160_205.JPG
+Wed, 22 Nov 2017 04:38:26 test_train.py[line:61] INFO End: 49.133950 5442 DSC05160_335.JPG (Speed time: 1.236012)
+Wed, 22 Nov 2017 04:38:26 test_train.py[line:68] INFO Good/Bad 184/2
+Wed, 22 Nov 2017 04:38:26 test_train.py[line:69] INFO Finish Test 186/427
+Wed, 22 Nov 2017 04:38:26 test_train.py[line:48] INFO Start: 5442 DSC05159_024.JPG
+Wed, 22 Nov 2017 04:38:27 test_train.py[line:61] INFO End: 76.026814 5442 DSC05157_099.JPG (Speed time: 1.242342)
+Wed, 22 Nov 2017 04:38:27 test_train.py[line:68] INFO Good/Bad 185/2
+Wed, 22 Nov 2017 04:38:27 test_train.py[line:69] INFO Finish Test 187/427
+Wed, 22 Nov 2017 04:38:27 test_train.py[line:48] INFO Start: 5442 DSC05156_227.JPG
+Wed, 22 Nov 2017 04:38:29 test_train.py[line:61] INFO End: 52.044835 5442 DSC05156_222.JPG (Speed time: 1.245482)
+Wed, 22 Nov 2017 04:38:29 test_train.py[line:68] INFO Good/Bad 186/2
+Wed, 22 Nov 2017 04:38:29 test_train.py[line:69] INFO Finish Test 188/427
+Wed, 22 Nov 2017 04:38:29 test_train.py[line:48] INFO Start: 5442 DSC05161_033.JPG
+Wed, 22 Nov 2017 04:38:30 test_train.py[line:61] INFO End: 69.320992 5442 DSC05158_025.JPG (Speed time: 1.240549)
+Wed, 22 Nov 2017 04:38:30 test_train.py[line:68] INFO Good/Bad 187/2
+Wed, 22 Nov 2017 04:38:30 test_train.py[line:69] INFO Finish Test 189/427
+Wed, 22 Nov 2017 04:38:30 test_train.py[line:48] INFO Start: 5442 DSC05157_315.JPG
+Wed, 22 Nov 2017 04:38:31 test_train.py[line:61] INFO End: 48.718832 5442 DSC05159_296.JPG (Speed time: 1.231481)
+Wed, 22 Nov 2017 04:38:31 test_train.py[line:68] INFO Good/Bad 188/2
+Wed, 22 Nov 2017 04:38:31 test_train.py[line:69] INFO Finish Test 190/427
+Wed, 22 Nov 2017 04:38:31 test_train.py[line:48] INFO Start: 5442 DSC05158_106.JPG
+Wed, 22 Nov 2017 04:38:32 test_train.py[line:61] INFO End: 62.380780 5442 DSC05161_134.JPG (Speed time: 1.222140)
+Wed, 22 Nov 2017 04:38:32 test_train.py[line:68] INFO Good/Bad 189/2
+Wed, 22 Nov 2017 04:38:32 test_train.py[line:69] INFO Finish Test 191/427
+Wed, 22 Nov 2017 04:38:32 test_train.py[line:48] INFO Start: 5442 DSC05156_035.JPG
+Wed, 22 Nov 2017 04:38:34 test_train.py[line:61] INFO End: 113.685568 5442 DSC05156_099.JPG (Speed time: 1.281295)
+Wed, 22 Nov 2017 04:38:34 test_train.py[line:68] INFO Good/Bad 190/2
+Wed, 22 Nov 2017 04:38:34 test_train.py[line:69] INFO Finish Test 192/427
+Wed, 22 Nov 2017 04:38:34 test_train.py[line:48] INFO Start: 5442 DSC05161_008.JPG
+Wed, 22 Nov 2017 04:38:35 test_train.py[line:61] INFO End: 63.896652 5442 DSC05161_022.JPG (Speed time: 1.233136)
+Wed, 22 Nov 2017 04:38:35 test_train.py[line:68] INFO Good/Bad 191/2
+Wed, 22 Nov 2017 04:38:35 test_train.py[line:69] INFO Finish Test 193/427
+Wed, 22 Nov 2017 04:38:35 test_train.py[line:48] INFO Start: 5442 DSC05156_235.JPG
+Wed, 22 Nov 2017 04:38:36 test_train.py[line:61] INFO End: 53.896390 5442 DSC05156_355.JPG (Speed time: 1.219946)
+Wed, 22 Nov 2017 04:38:36 test_train.py[line:68] INFO Good/Bad 192/2
+Wed, 22 Nov 2017 04:38:36 test_train.py[line:69] INFO Finish Test 194/427
+Wed, 22 Nov 2017 04:38:36 test_train.py[line:48] INFO Start: 5442 DSC05158_039.JPG
+Wed, 22 Nov 2017 04:38:37 test_train.py[line:61] INFO End: 64.983561 5442 DSC05160_079.JPG (Speed time: 1.217506)
+Wed, 22 Nov 2017 04:38:37 test_train.py[line:68] INFO Good/Bad 193/2
+Wed, 22 Nov 2017 04:38:37 test_train.py[line:69] INFO Finish Test 195/427
+Wed, 22 Nov 2017 04:38:37 test_train.py[line:48] INFO Start: 5442 DSC05160_239.JPG
+Wed, 22 Nov 2017 04:38:39 test_train.py[line:61] INFO End: 48.144056 5442 DSC05160_311.JPG (Speed time: 1.234085)
+Wed, 22 Nov 2017 04:38:39 test_train.py[line:68] INFO Good/Bad 194/2
+Wed, 22 Nov 2017 04:38:39 test_train.py[line:69] INFO Finish Test 196/427
+Wed, 22 Nov 2017 04:38:39 test_train.py[line:48] INFO Start: 5442 DSC05157_054.JPG
+Wed, 22 Nov 2017 04:38:40 test_train.py[line:61] INFO End: 61.628232 5442 DSC05157_024.JPG (Speed time: 1.233402)
+Wed, 22 Nov 2017 04:38:40 test_train.py[line:68] INFO Good/Bad 195/2
+Wed, 22 Nov 2017 04:38:40 test_train.py[line:69] INFO Finish Test 197/427
+Wed, 22 Nov 2017 04:38:40 test_train.py[line:48] INFO Start: 5442 DSC05158_110.JPG
+Wed, 22 Nov 2017 04:38:41 test_train.py[line:61] INFO End: 80.117875 5442 DSC05158_200.JPG (Speed time: 1.245528)
+Wed, 22 Nov 2017 04:38:41 test_train.py[line:68] INFO Good/Bad 196/2
+Wed, 22 Nov 2017 04:38:41 test_train.py[line:69] INFO Finish Test 198/427
+Wed, 22 Nov 2017 04:38:41 test_train.py[line:48] INFO Start: 5442 DSC05160_245.JPG
+Wed, 22 Nov 2017 04:38:42 test_train.py[line:61] INFO End: 50.841265 5442 DSC05161_297.JPG (Speed time: 1.262061)
+Wed, 22 Nov 2017 04:38:42 test_train.py[line:68] INFO Good/Bad 197/2
+Wed, 22 Nov 2017 04:38:42 test_train.py[line:69] INFO Finish Test 199/427
+Wed, 22 Nov 2017 04:38:42 test_train.py[line:48] INFO Start: 5442 DSC05162_156.JPG
+Wed, 22 Nov 2017 04:38:44 test_train.py[line:61] INFO End: 92.303157 5442 DSC05162_197.JPG (Speed time: 1.280320)
+Wed, 22 Nov 2017 04:38:44 test_train.py[line:68] INFO Good/Bad 198/2
+Wed, 22 Nov 2017 04:38:44 test_train.py[line:69] INFO Finish Test 200/427
+Wed, 22 Nov 2017 04:38:44 test_train.py[line:48] INFO Start: 5442 DSC05158_169.JPG
+Wed, 22 Nov 2017 04:38:45 test_train.py[line:61] INFO End: 74.780538 5442 DSC05158_155.JPG (Speed time: 1.263578)
+Wed, 22 Nov 2017 04:38:45 test_train.py[line:68] INFO Good/Bad 199/2
+Wed, 22 Nov 2017 04:38:45 test_train.py[line:69] INFO Finish Test 201/427
+Wed, 22 Nov 2017 04:38:45 test_train.py[line:48] INFO Start: 5442 DSC05157_204.JPG
+Wed, 22 Nov 2017 04:38:46 test_train.py[line:61] INFO End: 50.330707 5442 DSC05157_302.JPG (Speed time: 1.241971)
+Wed, 22 Nov 2017 04:38:46 test_train.py[line:68] INFO Good/Bad 200/2
+Wed, 22 Nov 2017 04:38:46 test_train.py[line:69] INFO Finish Test 202/427
+Wed, 22 Nov 2017 04:38:46 test_train.py[line:48] INFO Start: 5442 DSC05159_198.JPG
+Wed, 22 Nov 2017 04:38:47 test_train.py[line:61] INFO End: 58.216936 5442 DSC05159_197.JPG (Speed time: 1.227846)
+Wed, 22 Nov 2017 04:38:47 test_train.py[line:68] INFO Good/Bad 201/2
+Wed, 22 Nov 2017 04:38:47 test_train.py[line:69] INFO Finish Test 203/427
+Wed, 22 Nov 2017 04:38:47 test_train.py[line:48] INFO Start: 5442 DSC05158_193.JPG
+Wed, 22 Nov 2017 04:38:49 test_train.py[line:61] INFO End: 74.493473 5442 DSC05158_042.JPG (Speed time: 1.228391)
+Wed, 22 Nov 2017 04:38:49 test_train.py[line:68] INFO Good/Bad 202/2
+Wed, 22 Nov 2017 04:38:49 test_train.py[line:69] INFO Finish Test 204/427
+Wed, 22 Nov 2017 04:38:49 test_train.py[line:48] INFO Start: 5442 DSC05160_252.JPG
+Wed, 22 Nov 2017 04:38:50 test_train.py[line:61] INFO End: 59.249900 5442 DSC05160_291.JPG (Speed time: 1.276581)
+Wed, 22 Nov 2017 04:38:50 test_train.py[line:68] INFO Good/Bad 203/2
+Wed, 22 Nov 2017 04:38:50 test_train.py[line:69] INFO Finish Test 205/427
+Wed, 22 Nov 2017 04:38:50 test_train.py[line:48] INFO Start: 5442 DSC05157_216.JPG
+Wed, 22 Nov 2017 04:38:51 test_train.py[line:61] INFO End: 54.546631 5442 DSC05157_278.JPG (Speed time: 1.292897)
+Wed, 22 Nov 2017 04:38:51 test_train.py[line:68] INFO Good/Bad 204/2
+Wed, 22 Nov 2017 04:38:51 test_train.py[line:69] INFO Finish Test 206/427
+Wed, 22 Nov 2017 04:38:51 test_train.py[line:48] INFO Start: 5442 DSC05158_343.JPG
+Wed, 22 Nov 2017 04:38:52 test_train.py[line:61] INFO End: 63.136841 5442 DSC05158_299.JPG (Speed time: 1.252776)
+Wed, 22 Nov 2017 04:38:52 test_train.py[line:68] INFO Good/Bad 205/2
+Wed, 22 Nov 2017 04:38:52 test_train.py[line:69] INFO Finish Test 207/427
+Wed, 22 Nov 2017 04:38:52 test_train.py[line:48] INFO Start: 5442 DSC05158_079.JPG
+Wed, 22 Nov 2017 04:38:54 test_train.py[line:61] INFO End: 63.861433 5442 DSC05161_099.JPG (Speed time: 1.221935)
+Wed, 22 Nov 2017 04:38:54 test_train.py[line:68] INFO Good/Bad 206/2
+Wed, 22 Nov 2017 04:38:54 test_train.py[line:69] INFO Finish Test 208/427
+Wed, 22 Nov 2017 04:38:54 test_train.py[line:48] INFO Start: 5442 DSC05156_083.JPG
+Wed, 22 Nov 2017 04:38:55 test_train.py[line:61] INFO End: 104.847628 5442 DSC05156_044.JPG (Speed time: 1.214745)
+Wed, 22 Nov 2017 04:38:55 test_train.py[line:68] INFO Good/Bad 207/2
+Wed, 22 Nov 2017 04:38:55 test_train.py[line:69] INFO Finish Test 209/427
+Wed, 22 Nov 2017 04:38:55 test_train.py[line:48] INFO Start: 5442 DSC05159_324.JPG
+Wed, 22 Nov 2017 04:38:56 test_train.py[line:61] INFO End: 51.087117 5442 DSC05159_266.JPG (Speed time: 1.233221)
+Wed, 22 Nov 2017 04:38:56 test_train.py[line:68] INFO Good/Bad 208/2
+Wed, 22 Nov 2017 04:38:56 test_train.py[line:69] INFO Finish Test 210/427
+Wed, 22 Nov 2017 04:38:56 test_train.py[line:48] INFO Start: 5442 DSC05157_109.JPG
+Wed, 22 Nov 2017 04:38:57 test_train.py[line:61] INFO End: 54.364542 5442 DSC05157_162.JPG (Speed time: 1.231210)
+Wed, 22 Nov 2017 04:38:57 test_train.py[line:68] INFO Good/Bad 209/2
+Wed, 22 Nov 2017 04:38:57 test_train.py[line:69] INFO Finish Test 211/427
+Wed, 22 Nov 2017 04:38:57 test_train.py[line:48] INFO Start: 5442 DSC05159_035.JPG
+Wed, 22 Nov 2017 04:38:58 test_train.py[line:61] INFO End: 43.295052 5442 DSC05159_096.JPG (Speed time: 1.203631)
+Wed, 22 Nov 2017 04:38:58 test_train.py[line:68] INFO Good/Bad 210/2
+Wed, 22 Nov 2017 04:38:58 test_train.py[line:69] INFO Finish Test 212/427
+Wed, 22 Nov 2017 04:38:58 test_train.py[line:48] INFO Start: 5442 DSC05159_209.JPG
+Wed, 22 Nov 2017 04:39:00 test_train.py[line:61] INFO End: 46.787317 5442 DSC05159_242.JPG (Speed time: 1.258333)
+Wed, 22 Nov 2017 04:39:00 test_train.py[line:68] INFO Good/Bad 211/2
+Wed, 22 Nov 2017 04:39:00 test_train.py[line:69] INFO Finish Test 213/427
+Wed, 22 Nov 2017 04:39:00 test_train.py[line:48] INFO Start: 5442 DSC05162_230.JPG
+Wed, 22 Nov 2017 04:39:01 test_train.py[line:61] INFO End: 62.947239 5442 DSC05162_360.JPG (Speed time: 1.222132)
+Wed, 22 Nov 2017 04:39:01 test_train.py[line:68] INFO Good/Bad 212/2
+Wed, 22 Nov 2017 04:39:01 test_train.py[line:69] INFO Finish Test 214/427
+Wed, 22 Nov 2017 04:39:01 test_train.py[line:48] INFO Start: 5442 DSC05160_199.JPG
+Wed, 22 Nov 2017 04:39:02 test_train.py[line:61] INFO End: 68.515561 5442 DSC05160_113.JPG (Speed time: 1.222282)
+Wed, 22 Nov 2017 04:39:02 test_train.py[line:68] INFO Good/Bad 213/2
+Wed, 22 Nov 2017 04:39:02 test_train.py[line:69] INFO Finish Test 215/427
+Wed, 22 Nov 2017 04:39:02 test_train.py[line:48] INFO Start: 5442 DSC05156_060.JPG
+Wed, 22 Nov 2017 04:39:03 test_train.py[line:61] INFO End: 85.278622 5442 DSC05156_022.JPG (Speed time: 1.202460)
+Wed, 22 Nov 2017 04:39:03 test_train.py[line:68] INFO Good/Bad 214/2
+Wed, 22 Nov 2017 04:39:03 test_train.py[line:69] INFO Finish Test 216/427
+Wed, 22 Nov 2017 04:39:03 test_train.py[line:48] INFO Start: 5442 DSC05160_347.JPG
+Wed, 22 Nov 2017 04:39:05 test_train.py[line:61] INFO End: 45.951021 5442 DSC05160_271.JPG (Speed time: 1.219775)
+Wed, 22 Nov 2017 04:39:05 test_train.py[line:68] INFO Good/Bad 215/2
+Wed, 22 Nov 2017 04:39:05 test_train.py[line:69] INFO Finish Test 217/427
+Wed, 22 Nov 2017 04:39:05 test_train.py[line:48] INFO Start: 5442 DSC05162_239.JPG
+Wed, 22 Nov 2017 04:39:06 test_train.py[line:61] INFO End: 52.831591 5442 DSC05162_357.JPG (Speed time: 1.223285)
+Wed, 22 Nov 2017 04:39:06 test_train.py[line:68] INFO Good/Bad 216/2
+Wed, 22 Nov 2017 04:39:06 test_train.py[line:69] INFO Finish Test 218/427
+Wed, 22 Nov 2017 04:39:06 test_train.py[line:48] INFO Start: 5442 DSC05162_067.JPG
+Wed, 22 Nov 2017 04:39:07 test_train.py[line:61] INFO End: 50.126497 5442 DSC05162_076.JPG (Speed time: 1.203770)
+Wed, 22 Nov 2017 04:39:07 test_train.py[line:68] INFO Good/Bad 217/2
+Wed, 22 Nov 2017 04:39:07 test_train.py[line:69] INFO Finish Test 219/427
+Wed, 22 Nov 2017 04:39:07 test_train.py[line:48] INFO Start: 5442 DSC05159_349.JPG
+Wed, 22 Nov 2017 04:39:08 test_train.py[line:61] INFO End: 49.427295 5442 DSC05159_341.JPG (Speed time: 1.218297)
+Wed, 22 Nov 2017 04:39:08 test_train.py[line:68] INFO Good/Bad 218/2
+Wed, 22 Nov 2017 04:39:08 test_train.py[line:69] INFO Finish Test 220/427
+Wed, 22 Nov 2017 04:39:08 test_train.py[line:48] INFO Start: 5442 DSC05158_359.JPG
+Wed, 22 Nov 2017 04:39:09 test_train.py[line:61] INFO End: 54.726843 5442 DSC05158_263.JPG (Speed time: 1.254206)
+Wed, 22 Nov 2017 04:39:09 test_train.py[line:68] INFO Good/Bad 219/2
+Wed, 22 Nov 2017 04:39:09 test_train.py[line:69] INFO Finish Test 221/427
+Wed, 22 Nov 2017 04:39:09 test_train.py[line:48] INFO Start: 5442 DSC05159_236.JPG
+Wed, 22 Nov 2017 04:39:11 test_train.py[line:61] INFO End: 49.618766 5442 DSC05159_348.JPG (Speed time: 1.223738)
+Wed, 22 Nov 2017 04:39:11 test_train.py[line:68] INFO Good/Bad 220/2
+Wed, 22 Nov 2017 04:39:11 test_train.py[line:69] INFO Finish Test 222/427
+Wed, 22 Nov 2017 04:39:11 test_train.py[line:48] INFO Start: 5442 DSC05156_226.JPG
+Wed, 22 Nov 2017 04:39:12 test_train.py[line:61] INFO End: 71.138178 5442 DSC05156_268.JPG (Speed time: 1.220833)
+Wed, 22 Nov 2017 04:39:12 test_train.py[line:68] INFO Good/Bad 221/2
+Wed, 22 Nov 2017 04:39:12 test_train.py[line:69] INFO Finish Test 223/427
+Wed, 22 Nov 2017 04:39:12 test_train.py[line:48] INFO Start: 5442 DSC05161_310.JPG
+Wed, 22 Nov 2017 04:39:13 test_train.py[line:61] INFO End: 95.161551 5442 DSC05158_312.JPG (Speed time: 1.224753)
+Wed, 22 Nov 2017 04:39:13 test_train.py[line:68] INFO Good/Bad 222/2
+Wed, 22 Nov 2017 04:39:13 test_train.py[line:69] INFO Finish Test 224/427
+Wed, 22 Nov 2017 04:39:13 test_train.py[line:48] INFO Start: 5442 DSC05159_147.JPG
+Wed, 22 Nov 2017 04:39:14 test_train.py[line:61] INFO End: 57.893377 5442 DSC05159_155.JPG (Speed time: 1.224504)
+Wed, 22 Nov 2017 04:39:14 test_train.py[line:68] INFO Good/Bad 223/2
+Wed, 22 Nov 2017 04:39:14 test_train.py[line:69] INFO Finish Test 225/427
+Wed, 22 Nov 2017 04:39:14 test_train.py[line:48] INFO Start: 5442 DSC05156_065.JPG
+Wed, 22 Nov 2017 04:39:16 test_train.py[line:61] INFO End: 105.214426 5442 DSC05156_096.JPG (Speed time: 1.212105)
+Wed, 22 Nov 2017 04:39:16 test_train.py[line:68] INFO Good/Bad 224/2
+Wed, 22 Nov 2017 04:39:16 test_train.py[line:69] INFO Finish Test 226/427
+Wed, 22 Nov 2017 04:39:16 test_train.py[line:48] INFO Start: 5442 DSC05162_025.JPG
+Wed, 22 Nov 2017 04:39:17 test_train.py[line:61] INFO End: 91.645212 5442 DSC05162_019.JPG (Speed time: 1.212079)
+Wed, 22 Nov 2017 04:39:17 test_train.py[line:68] INFO Good/Bad 225/2
+Wed, 22 Nov 2017 04:39:17 test_train.py[line:69] INFO Finish Test 227/427
+Wed, 22 Nov 2017 04:39:17 test_train.py[line:48] INFO Start: 5442 DSC05162_190.JPG
+Wed, 22 Nov 2017 04:39:18 test_train.py[line:61] INFO End: 66.652560 5442 DSC05162_141.JPG (Speed time: 1.206121)
+Wed, 22 Nov 2017 04:39:18 test_train.py[line:68] INFO Good/Bad 226/2
+Wed, 22 Nov 2017 04:39:18 test_train.py[line:69] INFO Finish Test 228/427
+Wed, 22 Nov 2017 04:39:18 test_train.py[line:48] INFO Start: 5442 DSC05162_160.JPG
+Wed, 22 Nov 2017 04:39:19 test_train.py[line:61] INFO End: 80.128492 5442 DSC05162_126.JPG (Speed time: 1.215689)
+Wed, 22 Nov 2017 04:39:19 test_train.py[line:68] INFO Good/Bad 227/2
+Wed, 22 Nov 2017 04:39:19 test_train.py[line:69] INFO Finish Test 229/427
+Wed, 22 Nov 2017 04:39:19 test_train.py[line:48] INFO Start: 5442 DSC05161_241.JPG
+Wed, 22 Nov 2017 04:39:20 test_train.py[line:61] INFO End: 51.764559 5442 DSC05161_340.JPG (Speed time: 1.203290)
+Wed, 22 Nov 2017 04:39:20 test_train.py[line:68] INFO Good/Bad 228/2
+Wed, 22 Nov 2017 04:39:20 test_train.py[line:69] INFO Finish Test 230/427
+Wed, 22 Nov 2017 04:39:20 test_train.py[line:48] INFO Start: 5442 DSC05161_348.JPG
+Wed, 22 Nov 2017 04:39:22 test_train.py[line:61] INFO End: 72.746745 5442 DSC05158_326.JPG (Speed time: 1.202210)
+Wed, 22 Nov 2017 04:39:22 test_train.py[line:68] INFO Good/Bad 229/2
+Wed, 22 Nov 2017 04:39:22 test_train.py[line:69] INFO Finish Test 231/427
+Wed, 22 Nov 2017 04:39:22 test_train.py[line:48] INFO Start: 5442 DSC05157_071.JPG
+Wed, 22 Nov 2017 04:39:23 test_train.py[line:61] INFO End: 44.832697 5442 DSC05157_022.JPG (Speed time: 1.208331)
+Wed, 22 Nov 2017 04:39:23 test_train.py[line:68] INFO Good/Bad 230/2
+Wed, 22 Nov 2017 04:39:23 test_train.py[line:69] INFO Finish Test 232/427
+Wed, 22 Nov 2017 04:39:23 test_train.py[line:48] INFO Start: 5442 DSC05158_237.JPG
+Wed, 22 Nov 2017 04:39:24 test_train.py[line:61] INFO End: 57.257278 5442 DSC05158_295.JPG (Speed time: 1.202983)
+Wed, 22 Nov 2017 04:39:24 test_train.py[line:68] INFO Good/Bad 231/2
+Wed, 22 Nov 2017 04:39:24 test_train.py[line:69] INFO Finish Test 233/427
+Wed, 22 Nov 2017 04:39:24 test_train.py[line:48] INFO Start: 5442 DSC05161_277.JPG
+Wed, 22 Nov 2017 04:39:25 test_train.py[line:61] INFO End: 56.432886 5442 DSC05161_305.JPG (Speed time: 1.211223)
+Wed, 22 Nov 2017 04:39:25 test_train.py[line:68] INFO Good/Bad 232/2
+Wed, 22 Nov 2017 04:39:25 test_train.py[line:69] INFO Finish Test 234/427
+Wed, 22 Nov 2017 04:39:25 test_train.py[line:48] INFO Start: 5442 DSC05161_055.JPG
+Wed, 22 Nov 2017 04:39:26 test_train.py[line:61] INFO End: 53.218096 5442 DSC05161_027.JPG (Speed time: 1.204396)
+Wed, 22 Nov 2017 04:39:26 test_train.py[line:68] INFO Good/Bad 233/2
+Wed, 22 Nov 2017 04:39:26 test_train.py[line:69] INFO Finish Test 235/427
+Wed, 22 Nov 2017 04:39:26 test_train.py[line:48] INFO Start: 5446 DSC05140_222.JPG
+Wed, 22 Nov 2017 04:39:28 test_train.py[line:61] INFO End: 39.973038 5446 DSC05140_225.JPG (Speed time: 1.207436)
+Wed, 22 Nov 2017 04:39:28 test_train.py[line:68] INFO Good/Bad 234/2
+Wed, 22 Nov 2017 04:39:28 test_train.py[line:69] INFO Finish Test 236/427
+Wed, 22 Nov 2017 04:39:28 test_train.py[line:48] INFO Start: 5446 DSC05138_072.JPG
+Wed, 22 Nov 2017 04:39:29 test_train.py[line:61] INFO End: 113.643429 6418 DSC02023_184.JPG (Speed time: 1.208171)
+Wed, 22 Nov 2017 04:39:29 test_train.py[line:67] WARNING Bad is Coming: 5446 [2] != 6418 DSC02023_184.JPG
+Wed, 22 Nov 2017 04:39:29 test_train.py[line:68] INFO Good/Bad 234/3
+Wed, 22 Nov 2017 04:39:29 test_train.py[line:69] INFO Finish Test 237/427
+Wed, 22 Nov 2017 04:39:29 test_train.py[line:48] INFO Start: 5446 DSC05138_002.JPG
+Wed, 22 Nov 2017 04:39:30 test_train.py[line:61] INFO End: 86.295284 6418 DSC02024_241.JPG (Speed time: 1.212008)
+Wed, 22 Nov 2017 04:39:30 test_train.py[line:67] WARNING Bad is Coming: 5446 [2] != 6418 DSC02024_241.JPG
+Wed, 22 Nov 2017 04:39:30 test_train.py[line:68] INFO Good/Bad 234/4
+Wed, 22 Nov 2017 04:39:30 test_train.py[line:69] INFO Finish Test 238/427
+Wed, 22 Nov 2017 04:39:30 test_train.py[line:48] INFO Start: 5446 DSC05140_094.JPG
+Wed, 22 Nov 2017 04:39:31 test_train.py[line:61] INFO End: 53.837278 5446 DSC05140_061.JPG (Speed time: 1.213228)
+Wed, 22 Nov 2017 04:39:31 test_train.py[line:68] INFO Good/Bad 235/4
+Wed, 22 Nov 2017 04:39:31 test_train.py[line:69] INFO Finish Test 239/427
+Wed, 22 Nov 2017 04:39:31 test_train.py[line:48] INFO Start: 5446 DSC05139_333.JPG
+Wed, 22 Nov 2017 04:39:32 test_train.py[line:61] INFO End: 95.729763 5446 DSC05139_141.JPG (Speed time: 1.209616)
+Wed, 22 Nov 2017 04:39:32 test_train.py[line:68] INFO Good/Bad 236/4
+Wed, 22 Nov 2017 04:39:32 test_train.py[line:69] INFO Finish Test 240/427
+Wed, 22 Nov 2017 04:39:32 test_train.py[line:48] INFO Start: 5446 DSC05139_304.JPG
+Wed, 22 Nov 2017 04:39:34 test_train.py[line:61] INFO End: 49.837735 5446 DSC05139_336.JPG (Speed time: 1.209665)
+Wed, 22 Nov 2017 04:39:34 test_train.py[line:68] INFO Good/Bad 237/4
+Wed, 22 Nov 2017 04:39:34 test_train.py[line:69] INFO Finish Test 241/427
+Wed, 22 Nov 2017 04:39:34 test_train.py[line:48] INFO Start: 5446 DSC05141_245.JPG
+Wed, 22 Nov 2017 04:39:35 test_train.py[line:61] INFO End: 58.111135 5446 DSC05141_256.JPG (Speed time: 1.218537)
+Wed, 22 Nov 2017 04:39:35 test_train.py[line:68] INFO Good/Bad 238/4
+Wed, 22 Nov 2017 04:39:35 test_train.py[line:69] INFO Finish Test 242/427
+Wed, 22 Nov 2017 04:39:35 test_train.py[line:48] INFO Start: 5446 DSC05141_226.JPG
+Wed, 22 Nov 2017 04:39:36 test_train.py[line:61] INFO End: 99.614260 5446 DSC05141_339.JPG (Speed time: 1.209459)
+Wed, 22 Nov 2017 04:39:36 test_train.py[line:68] INFO Good/Bad 239/4
+Wed, 22 Nov 2017 04:39:36 test_train.py[line:69] INFO Finish Test 243/427
+Wed, 22 Nov 2017 04:39:36 test_train.py[line:48] INFO Start: 5446 DSC05138_225.JPG
+Wed, 22 Nov 2017 04:39:37 test_train.py[line:61] INFO End: 77.303699 5446 DSC05138_261.JPG (Speed time: 1.218088)
+Wed, 22 Nov 2017 04:39:37 test_train.py[line:68] INFO Good/Bad 240/4
+Wed, 22 Nov 2017 04:39:37 test_train.py[line:69] INFO Finish Test 244/427
+Wed, 22 Nov 2017 04:39:37 test_train.py[line:48] INFO Start: 5446 DSC05140_289.JPG
+Wed, 22 Nov 2017 04:39:39 test_train.py[line:61] INFO End: 76.735790 5446 DSC05140_280.JPG (Speed time: 1.235740)
+Wed, 22 Nov 2017 04:39:39 test_train.py[line:68] INFO Good/Bad 241/4
+Wed, 22 Nov 2017 04:39:39 test_train.py[line:69] INFO Finish Test 245/427
+Wed, 22 Nov 2017 04:39:39 test_train.py[line:48] INFO Start: 5446 DSC05140_226.JPG
+Wed, 22 Nov 2017 04:39:40 test_train.py[line:61] INFO End: 83.602603 6418 DSC02023_233.JPG (Speed time: 1.218155)
+Wed, 22 Nov 2017 04:39:40 test_train.py[line:67] WARNING Bad is Coming: 5446 [2] != 6418 DSC02023_233.JPG
+Wed, 22 Nov 2017 04:39:40 test_train.py[line:68] INFO Good/Bad 241/5
+Wed, 22 Nov 2017 04:39:40 test_train.py[line:69] INFO Finish Test 246/427
+Wed, 22 Nov 2017 04:39:40 test_train.py[line:48] INFO Start: 5446 DSC05139_149.JPG
+Wed, 22 Nov 2017 04:39:41 test_train.py[line:61] INFO End: 28.188783 5446 DSC05139_114.JPG (Speed time: 1.225761)
+Wed, 22 Nov 2017 04:39:41 test_train.py[line:68] INFO Good/Bad 242/5
+Wed, 22 Nov 2017 04:39:41 test_train.py[line:69] INFO Finish Test 247/427
+Wed, 22 Nov 2017 04:39:41 test_train.py[line:48] INFO Start: 5446 DSC05138_276.JPG
+Wed, 22 Nov 2017 04:39:42 test_train.py[line:61] INFO End: 68.978152 5446 DSC05138_227.JPG (Speed time: 1.208489)
+Wed, 22 Nov 2017 04:39:42 test_train.py[line:68] INFO Good/Bad 243/5
+Wed, 22 Nov 2017 04:39:42 test_train.py[line:69] INFO Finish Test 248/427
+Wed, 22 Nov 2017 04:39:42 test_train.py[line:48] INFO Start: 5446 DSC05140_268.JPG
+Wed, 22 Nov 2017 04:39:43 test_train.py[line:61] INFO End: 41.121844 5446 DSC05140_299.JPG (Speed time: 1.207551)
+Wed, 22 Nov 2017 04:39:43 test_train.py[line:68] INFO Good/Bad 244/5
+Wed, 22 Nov 2017 04:39:43 test_train.py[line:69] INFO Finish Test 249/427
+Wed, 22 Nov 2017 04:39:43 test_train.py[line:48] INFO Start: 5446 DSC05138_226.JPG
+Wed, 22 Nov 2017 04:39:45 test_train.py[line:61] INFO End: 60.596507 5446 DSC05138_208.JPG (Speed time: 1.205686)
+Wed, 22 Nov 2017 04:39:45 test_train.py[line:68] INFO Good/Bad 245/5
+Wed, 22 Nov 2017 04:39:45 test_train.py[line:69] INFO Finish Test 250/427
+Wed, 22 Nov 2017 04:39:45 test_train.py[line:48] INFO Start: 5446 DSC05141_147.JPG
+Wed, 22 Nov 2017 04:39:46 test_train.py[line:61] INFO End: 46.749186 5446 DSC05141_129.JPG (Speed time: 1.200847)
+Wed, 22 Nov 2017 04:39:46 test_train.py[line:68] INFO Good/Bad 246/5
+Wed, 22 Nov 2017 04:39:46 test_train.py[line:69] INFO Finish Test 251/427
+Wed, 22 Nov 2017 04:39:46 test_train.py[line:48] INFO Start: 5446 DSC05140_265.JPG
+Wed, 22 Nov 2017 04:39:47 test_train.py[line:61] INFO End: 62.296530 5446 DSC05140_231.JPG (Speed time: 1.206890)
+Wed, 22 Nov 2017 04:39:47 test_train.py[line:68] INFO Good/Bad 247/5
+Wed, 22 Nov 2017 04:39:47 test_train.py[line:69] INFO Finish Test 252/427
+Wed, 22 Nov 2017 04:39:47 test_train.py[line:48] INFO Start: 5446 DSC05138_215.JPG
+Wed, 22 Nov 2017 04:39:48 test_train.py[line:61] INFO End: 47.484931 5446 DSC05138_341.JPG (Speed time: 1.202693)
+Wed, 22 Nov 2017 04:39:48 test_train.py[line:68] INFO Good/Bad 248/5
+Wed, 22 Nov 2017 04:39:48 test_train.py[line:69] INFO Finish Test 253/427
+Wed, 22 Nov 2017 04:39:48 test_train.py[line:48] INFO Start: 5446 DSC05141_284.JPG
+Wed, 22 Nov 2017 04:39:49 test_train.py[line:61] INFO End: 79.852658 5446 DSC05140_300.JPG (Speed time: 1.206484)
+Wed, 22 Nov 2017 04:39:49 test_train.py[line:68] INFO Good/Bad 249/5
+Wed, 22 Nov 2017 04:39:49 test_train.py[line:69] INFO Finish Test 254/427
+Wed, 22 Nov 2017 04:39:49 test_train.py[line:48] INFO Start: 5446 DSC05141_312.JPG
+Wed, 22 Nov 2017 04:39:51 test_train.py[line:61] INFO End: 73.831335 5446 DSC05141_297.JPG (Speed time: 1.203201)
+Wed, 22 Nov 2017 04:39:51 test_train.py[line:68] INFO Good/Bad 250/5
+Wed, 22 Nov 2017 04:39:51 test_train.py[line:69] INFO Finish Test 255/427
+Wed, 22 Nov 2017 04:39:51 test_train.py[line:48] INFO Start: 5446 DSC05141_149.JPG
+Wed, 22 Nov 2017 04:39:52 test_train.py[line:61] INFO End: 95.414594 6418 DSC02024_192.JPG (Speed time: 1.204509)
+Wed, 22 Nov 2017 04:39:52 test_train.py[line:67] WARNING Bad is Coming: 5446 [2] != 6418 DSC02024_192.JPG
+Wed, 22 Nov 2017 04:39:52 test_train.py[line:68] INFO Good/Bad 250/6
+Wed, 22 Nov 2017 04:39:52 test_train.py[line:69] INFO Finish Test 256/427
+Wed, 22 Nov 2017 04:39:52 test_train.py[line:48] INFO Start: 5446 DSC05139_081.JPG
+Wed, 22 Nov 2017 04:39:53 test_train.py[line:61] INFO End: 43.406545 5446 DSC05139_023.JPG (Speed time: 1.207131)
+Wed, 22 Nov 2017 04:39:53 test_train.py[line:68] INFO Good/Bad 251/6
+Wed, 22 Nov 2017 04:39:53 test_train.py[line:69] INFO Finish Test 257/427
+Wed, 22 Nov 2017 04:39:53 test_train.py[line:48] INFO Start: 5446 DSC05140_214.JPG
+Wed, 22 Nov 2017 04:39:54 test_train.py[line:61] INFO End: 68.028307 5446 DSC05140_255.JPG (Speed time: 1.202618)
+Wed, 22 Nov 2017 04:39:54 test_train.py[line:68] INFO Good/Bad 252/6
+Wed, 22 Nov 2017 04:39:54 test_train.py[line:69] INFO Finish Test 258/427
+Wed, 22 Nov 2017 04:39:54 test_train.py[line:48] INFO Start: 5446 DSC05138_102.JPG
+Wed, 22 Nov 2017 04:39:56 test_train.py[line:61] INFO End: 73.828708 5446 DSC05139_347.JPG (Speed time: 1.209193)
+Wed, 22 Nov 2017 04:39:56 test_train.py[line:68] INFO Good/Bad 253/6
+Wed, 22 Nov 2017 04:39:56 test_train.py[line:69] INFO Finish Test 259/427
+Wed, 22 Nov 2017 04:39:56 test_train.py[line:48] INFO Start: 5446 DSC05139_285.JPG
+Wed, 22 Nov 2017 04:39:57 test_train.py[line:61] INFO End: 18.695151 5446 DSC05139_309.JPG (Speed time: 1.204207)
+Wed, 22 Nov 2017 04:39:57 test_train.py[line:68] INFO Good/Bad 254/6
+Wed, 22 Nov 2017 04:39:57 test_train.py[line:69] INFO Finish Test 260/427
+Wed, 22 Nov 2017 04:39:57 test_train.py[line:48] INFO Start: 5446 DSC05140_294.JPG
+Wed, 22 Nov 2017 04:39:58 test_train.py[line:61] INFO End: 90.403939 5446 DSC05140_258.JPG (Speed time: 1.204623)
+Wed, 22 Nov 2017 04:39:58 test_train.py[line:68] INFO Good/Bad 255/6
+Wed, 22 Nov 2017 04:39:58 test_train.py[line:69] INFO Finish Test 261/427
+Wed, 22 Nov 2017 04:39:58 test_train.py[line:48] INFO Start: 5446 DSC05141_267.JPG
+Wed, 22 Nov 2017 04:39:59 test_train.py[line:61] INFO End: 100.781096 5446 DSC05141_230.JPG (Speed time: 1.206763)
+Wed, 22 Nov 2017 04:39:59 test_train.py[line:68] INFO Good/Bad 256/6
+Wed, 22 Nov 2017 04:39:59 test_train.py[line:69] INFO Finish Test 262/427
+Wed, 22 Nov 2017 04:39:59 test_train.py[line:48] INFO Start: 5446 DSC05140_086.JPG
+Wed, 22 Nov 2017 04:40:00 test_train.py[line:61] INFO End: 72.284590 5446 DSC05141_078.JPG (Speed time: 1.202800)
+Wed, 22 Nov 2017 04:40:00 test_train.py[line:68] INFO Good/Bad 257/6
+Wed, 22 Nov 2017 04:40:00 test_train.py[line:69] INFO Finish Test 263/427
+Wed, 22 Nov 2017 04:40:00 test_train.py[line:48] INFO Start: 6418 DSC02022_054.JPG
+Wed, 22 Nov 2017 04:40:02 test_train.py[line:61] INFO End: 98.264801 5446 DSC05140_004.JPG (Speed time: 1.208820)
+Wed, 22 Nov 2017 04:40:02 test_train.py[line:67] WARNING Bad is Coming: 6418 [2] != 5446 DSC05140_004.JPG
+Wed, 22 Nov 2017 04:40:02 test_train.py[line:68] INFO Good/Bad 257/7
+Wed, 22 Nov 2017 04:40:02 test_train.py[line:69] INFO Finish Test 264/427
+Wed, 22 Nov 2017 04:40:02 test_train.py[line:48] INFO Start: 6418 DSC02022_319.JPG
+Wed, 22 Nov 2017 04:40:03 test_train.py[line:61] INFO End: 94.148014 6418 DSC02022_233.JPG (Speed time: 1.202739)
+Wed, 22 Nov 2017 04:40:03 test_train.py[line:68] INFO Good/Bad 258/7
+Wed, 22 Nov 2017 04:40:03 test_train.py[line:69] INFO Finish Test 265/427
+Wed, 22 Nov 2017 04:40:03 test_train.py[line:48] INFO Start: 6418 DSC02022_305.JPG
+Wed, 22 Nov 2017 04:40:04 test_train.py[line:61] INFO End: 63.725362 6418 DSC02022_227.JPG (Speed time: 1.206608)
+Wed, 22 Nov 2017 04:40:04 test_train.py[line:68] INFO Good/Bad 259/7
+Wed, 22 Nov 2017 04:40:04 test_train.py[line:69] INFO Finish Test 266/427
+Wed, 22 Nov 2017 04:40:04 test_train.py[line:48] INFO Start: 6418 DSC02024_300.JPG
+Wed, 22 Nov 2017 04:40:05 test_train.py[line:61] INFO End: 78.537123 5446 DSC05141_241.JPG (Speed time: 1.208708)
+Wed, 22 Nov 2017 04:40:05 test_train.py[line:67] WARNING Bad is Coming: 6418 [2] != 5446 DSC05141_241.JPG
+Wed, 22 Nov 2017 04:40:05 test_train.py[line:68] INFO Good/Bad 259/8
+Wed, 22 Nov 2017 04:40:05 test_train.py[line:69] INFO Finish Test 267/427
+Wed, 22 Nov 2017 04:40:05 test_train.py[line:48] INFO Start: 6418 DSC02024_243.JPG
+Wed, 22 Nov 2017 04:40:06 test_train.py[line:61] INFO End: 55.532125 6418 DSC02024_357.JPG (Speed time: 1.202454)
+Wed, 22 Nov 2017 04:40:06 test_train.py[line:68] INFO Good/Bad 260/8
+Wed, 22 Nov 2017 04:40:06 test_train.py[line:69] INFO Finish Test 268/427
+Wed, 22 Nov 2017 04:40:06 test_train.py[line:48] INFO Start: 6418 DSC02022_141.JPG
+Wed, 22 Nov 2017 04:40:08 test_train.py[line:61] INFO End: 75.075987 6418 DSC02022_115.JPG (Speed time: 1.210635)
+Wed, 22 Nov 2017 04:40:08 test_train.py[line:68] INFO Good/Bad 261/8
+Wed, 22 Nov 2017 04:40:08 test_train.py[line:69] INFO Finish Test 269/427
+Wed, 22 Nov 2017 04:40:08 test_train.py[line:48] INFO Start: 6418 DSC02023_042.JPG
+Wed, 22 Nov 2017 04:40:09 test_train.py[line:61] INFO End: 54.565003 6418 DSC02023_057.JPG (Speed time: 1.200941)
+Wed, 22 Nov 2017 04:40:09 test_train.py[line:68] INFO Good/Bad 262/8
+Wed, 22 Nov 2017 04:40:09 test_train.py[line:69] INFO Finish Test 270/427
+Wed, 22 Nov 2017 04:40:09 test_train.py[line:48] INFO Start: 6418 DSC02022_265.JPG
+Wed, 22 Nov 2017 04:40:10 test_train.py[line:61] INFO End: 76.848028 6418 DSC02022_253.JPG (Speed time: 1.211280)
+Wed, 22 Nov 2017 04:40:10 test_train.py[line:68] INFO Good/Bad 263/8
+Wed, 22 Nov 2017 04:40:10 test_train.py[line:69] INFO Finish Test 271/427
+Wed, 22 Nov 2017 04:40:10 test_train.py[line:48] INFO Start: 6418 DSC02021_092.JPG
+Wed, 22 Nov 2017 04:40:11 test_train.py[line:61] INFO End: 73.845782 6418 DSC02021_179.JPG (Speed time: 1.208651)
+Wed, 22 Nov 2017 04:40:11 test_train.py[line:68] INFO Good/Bad 264/8
+Wed, 22 Nov 2017 04:40:11 test_train.py[line:69] INFO Finish Test 272/427
+Wed, 22 Nov 2017 04:40:11 test_train.py[line:48] INFO Start: 6418 DSC02023_255.JPG
+Wed, 22 Nov 2017 04:40:12 test_train.py[line:61] INFO End: 66.102692 5446 DSC05140_310.JPG (Speed time: 1.204756)
+Wed, 22 Nov 2017 04:40:12 test_train.py[line:67] WARNING Bad is Coming: 6418 [2] != 5446 DSC05140_310.JPG
+Wed, 22 Nov 2017 04:40:12 test_train.py[line:68] INFO Good/Bad 264/9
+Wed, 22 Nov 2017 04:40:12 test_train.py[line:69] INFO Finish Test 273/427
+Wed, 22 Nov 2017 04:40:12 test_train.py[line:48] INFO Start: 6418 DSC02023_072.JPG
+Wed, 22 Nov 2017 04:40:14 test_train.py[line:61] INFO End: 72.579868 5446 DSC05140_098.JPG (Speed time: 1.210250)
+Wed, 22 Nov 2017 04:40:14 test_train.py[line:67] WARNING Bad is Coming: 6418 [2] != 5446 DSC05140_098.JPG
+Wed, 22 Nov 2017 04:40:14 test_train.py[line:68] INFO Good/Bad 264/10
+Wed, 22 Nov 2017 04:40:14 test_train.py[line:69] INFO Finish Test 274/427
+Wed, 22 Nov 2017 04:40:14 test_train.py[line:48] INFO Start: 6418 DSC02021_312.JPG
+Wed, 22 Nov 2017 04:40:15 test_train.py[line:61] INFO End: 92.753352 6418 DSC02021_244.JPG (Speed time: 1.204781)
+Wed, 22 Nov 2017 04:40:15 test_train.py[line:68] INFO Good/Bad 265/10
+Wed, 22 Nov 2017 04:40:15 test_train.py[line:69] INFO Finish Test 275/427
+Wed, 22 Nov 2017 04:40:15 test_train.py[line:48] INFO Start: 6418 DSC02023_013.JPG
+Wed, 22 Nov 2017 04:40:16 test_train.py[line:61] INFO End: 81.432569 6418 DSC02024_088.JPG (Speed time: 1.207929)
+Wed, 22 Nov 2017 04:40:16 test_train.py[line:68] INFO Good/Bad 266/10
+Wed, 22 Nov 2017 04:40:16 test_train.py[line:69] INFO Finish Test 276/427
+Wed, 22 Nov 2017 04:40:16 test_train.py[line:48] INFO Start: 6418 DSC02024_344.JPG
+Wed, 22 Nov 2017 04:40:17 test_train.py[line:61] INFO End: 92.911543 6418 DSC02024_346.JPG (Speed time: 1.207567)
+Wed, 22 Nov 2017 04:40:17 test_train.py[line:68] INFO Good/Bad 267/10
+Wed, 22 Nov 2017 04:40:17 test_train.py[line:69] INFO Finish Test 277/427
+Wed, 22 Nov 2017 04:40:17 test_train.py[line:48] INFO Start: 6418 DSC02023_082.JPG
+Wed, 22 Nov 2017 04:40:18 test_train.py[line:61] INFO End: 68.278349 5446 DSC05140_014.JPG (Speed time: 1.206857)
+Wed, 22 Nov 2017 04:40:18 test_train.py[line:67] WARNING Bad is Coming: 6418 [2] != 5446 DSC05140_014.JPG
+Wed, 22 Nov 2017 04:40:18 test_train.py[line:68] INFO Good/Bad 267/11
+Wed, 22 Nov 2017 04:40:18 test_train.py[line:69] INFO Finish Test 278/427
+Wed, 22 Nov 2017 04:40:18 test_train.py[line:48] INFO Start: 6418 DSC02021_257.JPG
+Wed, 22 Nov 2017 04:40:20 test_train.py[line:61] INFO End: 79.072187 6418 DSC02021_286.JPG (Speed time: 1.217007)
+Wed, 22 Nov 2017 04:40:20 test_train.py[line:68] INFO Good/Bad 268/11
+Wed, 22 Nov 2017 04:40:20 test_train.py[line:69] INFO Finish Test 279/427
+Wed, 22 Nov 2017 04:40:20 test_train.py[line:48] INFO Start: 6418 DSC02022_248.JPG
+Wed, 22 Nov 2017 04:40:21 test_train.py[line:61] INFO End: 74.704856 6418 DSC02022_255.JPG (Speed time: 1.210023)
+Wed, 22 Nov 2017 04:40:21 test_train.py[line:68] INFO Good/Bad 269/11
+Wed, 22 Nov 2017 04:40:21 test_train.py[line:69] INFO Finish Test 280/427
+Wed, 22 Nov 2017 04:40:21 test_train.py[line:48] INFO Start: 6418 DSC02022_197.JPG
+Wed, 22 Nov 2017 04:40:22 test_train.py[line:61] INFO End: 119.327830 6418 DSC02023_324.JPG (Speed time: 1.213056)
+Wed, 22 Nov 2017 04:40:22 test_train.py[line:68] INFO Good/Bad 270/11
+Wed, 22 Nov 2017 04:40:22 test_train.py[line:69] INFO Finish Test 281/427
+Wed, 22 Nov 2017 04:40:22 test_train.py[line:48] INFO Start: 6418 DSC02021_200.JPG
+Wed, 22 Nov 2017 04:40:23 test_train.py[line:61] INFO End: 118.252776 6418 DSC02021_166.JPG (Speed time: 1.206738)
+Wed, 22 Nov 2017 04:40:23 test_train.py[line:68] INFO Good/Bad 271/11
+Wed, 22 Nov 2017 04:40:23 test_train.py[line:69] INFO Finish Test 282/427
+Wed, 22 Nov 2017 04:40:23 test_train.py[line:48] INFO Start: 6418 DSC02023_266.JPG
+Wed, 22 Nov 2017 04:40:25 test_train.py[line:61] INFO End: 52.454396 5446 DSC05140_275.JPG (Speed time: 1.205172)
+Wed, 22 Nov 2017 04:40:25 test_train.py[line:67] WARNING Bad is Coming: 6418 [2] != 5446 DSC05140_275.JPG
+Wed, 22 Nov 2017 04:40:25 test_train.py[line:68] INFO Good/Bad 271/12
+Wed, 22 Nov 2017 04:40:25 test_train.py[line:69] INFO Finish Test 283/427
+Wed, 22 Nov 2017 04:40:25 test_train.py[line:48] INFO Start: 6418 DSC02023_343.JPG
+Wed, 22 Nov 2017 04:40:26 test_train.py[line:61] INFO End: 62.660997 6418 DSC02023_345.JPG (Speed time: 1.212498)
+Wed, 22 Nov 2017 04:40:26 test_train.py[line:68] INFO Good/Bad 272/12
+Wed, 22 Nov 2017 04:40:26 test_train.py[line:69] INFO Finish Test 284/427
+Wed, 22 Nov 2017 04:40:26 test_train.py[line:48] INFO Start: 6418 DSC02023_281.JPG
+Wed, 22 Nov 2017 04:40:27 test_train.py[line:61] INFO End: 82.831811 6418 DSC02023_333.JPG (Speed time: 1.209014)
+Wed, 22 Nov 2017 04:40:27 test_train.py[line:68] INFO Good/Bad 273/12
+Wed, 22 Nov 2017 04:40:27 test_train.py[line:69] INFO Finish Test 285/427
+Wed, 22 Nov 2017 04:40:27 test_train.py[line:48] INFO Start: 6418 DSC02024_162.JPG
+Wed, 22 Nov 2017 04:40:28 test_train.py[line:61] INFO End: 65.781094 6418 DSC02024_180.JPG (Speed time: 1.210823)
+Wed, 22 Nov 2017 04:40:28 test_train.py[line:68] INFO Good/Bad 274/12
+Wed, 22 Nov 2017 04:40:28 test_train.py[line:69] INFO Finish Test 286/427
+Wed, 22 Nov 2017 04:40:28 test_train.py[line:48] INFO Start: 6418 DSC02022_102.JPG
+Wed, 22 Nov 2017 04:40:29 test_train.py[line:61] INFO End: 40.034608 6418 DSC02022_162.JPG (Speed time: 1.203681)
+Wed, 22 Nov 2017 04:40:29 test_train.py[line:68] INFO Good/Bad 275/12
+Wed, 22 Nov 2017 04:40:29 test_train.py[line:69] INFO Finish Test 287/427
+Wed, 22 Nov 2017 04:40:29 test_train.py[line:48] INFO Start: 6418 DSC02021_074.JPG
+Wed, 22 Nov 2017 04:40:31 test_train.py[line:61] INFO End: 82.380271 6418 DSC02021_044.JPG (Speed time: 1.204353)
+Wed, 22 Nov 2017 04:40:31 test_train.py[line:68] INFO Good/Bad 276/12
+Wed, 22 Nov 2017 04:40:31 test_train.py[line:69] INFO Finish Test 288/427
+Wed, 22 Nov 2017 04:40:31 test_train.py[line:48] INFO Start: 6418 DSC02024_269.JPG
+Wed, 22 Nov 2017 04:40:32 test_train.py[line:61] INFO End: 51.111492 6418 DSC02024_291.JPG (Speed time: 1.205685)
+Wed, 22 Nov 2017 04:40:32 test_train.py[line:68] INFO Good/Bad 277/12
+Wed, 22 Nov 2017 04:40:32 test_train.py[line:69] INFO Finish Test 289/427
+Wed, 22 Nov 2017 04:40:32 test_train.py[line:48] INFO Start: 6418 DSC02023_182.JPG
+Wed, 22 Nov 2017 04:40:33 test_train.py[line:61] INFO End: 92.426507 5446 DSC05140_174.JPG (Speed time: 1.206441)
+Wed, 22 Nov 2017 04:40:33 test_train.py[line:67] WARNING Bad is Coming: 6418 [2] != 5446 DSC05140_174.JPG
+Wed, 22 Nov 2017 04:40:33 test_train.py[line:68] INFO Good/Bad 277/13
+Wed, 22 Nov 2017 04:40:33 test_train.py[line:69] INFO Finish Test 290/427
+Wed, 22 Nov 2017 04:40:33 test_train.py[line:48] INFO Start: 6418 DSC02023_216.JPG
+Wed, 22 Nov 2017 04:40:34 test_train.py[line:61] INFO End: 67.790692 6418 DSC02023_308.JPG (Speed time: 1.205060)
+Wed, 22 Nov 2017 04:40:34 test_train.py[line:68] INFO Good/Bad 278/13
+Wed, 22 Nov 2017 04:40:34 test_train.py[line:69] INFO Finish Test 291/427
+Wed, 22 Nov 2017 04:40:34 test_train.py[line:48] INFO Start: 1469 DSC01619_128.JPG
+Wed, 22 Nov 2017 04:40:35 test_train.py[line:61] INFO End: 85.490286 1469 DSC01619_289.JPG (Speed time: 1.202146)
+Wed, 22 Nov 2017 04:40:35 test_train.py[line:68] INFO Good/Bad 279/13
+Wed, 22 Nov 2017 04:40:35 test_train.py[line:69] INFO Finish Test 292/427
+Wed, 22 Nov 2017 04:40:35 test_train.py[line:48] INFO Start: 1469 DSC01287_179.JPG
+Wed, 22 Nov 2017 04:40:37 test_train.py[line:61] INFO End: 26.916643 1469 DSC01287_197.JPG (Speed time: 1.202087)
+Wed, 22 Nov 2017 04:40:37 test_train.py[line:68] INFO Good/Bad 280/13
+Wed, 22 Nov 2017 04:40:37 test_train.py[line:69] INFO Finish Test 293/427
+Wed, 22 Nov 2017 04:40:37 test_train.py[line:48] INFO Start: 1469 DSC01286_093.JPG
+Wed, 22 Nov 2017 04:40:38 test_train.py[line:61] INFO End: 31.900435 1469 DSC01286_040.JPG (Speed time: 1.206008)
+Wed, 22 Nov 2017 04:40:38 test_train.py[line:68] INFO Good/Bad 281/13
+Wed, 22 Nov 2017 04:40:38 test_train.py[line:69] INFO Finish Test 294/427
+Wed, 22 Nov 2017 04:40:38 test_train.py[line:48] INFO Start: 1469 DSC01289_079.JPG
+Wed, 22 Nov 2017 04:40:39 test_train.py[line:61] INFO End: 94.682151 1469 DSC01289_090.JPG (Speed time: 1.203103)
+Wed, 22 Nov 2017 04:40:39 test_train.py[line:68] INFO Good/Bad 282/13
+Wed, 22 Nov 2017 04:40:39 test_train.py[line:69] INFO Finish Test 295/427
+Wed, 22 Nov 2017 04:40:39 test_train.py[line:48] INFO Start: 1469 DSC01289_018.JPG
+Wed, 22 Nov 2017 04:40:40 test_train.py[line:61] INFO End: 49.994145 1469 DSC01289_162.JPG (Speed time: 1.206229)
+Wed, 22 Nov 2017 04:40:40 test_train.py[line:68] INFO Good/Bad 283/13
+Wed, 22 Nov 2017 04:40:40 test_train.py[line:69] INFO Finish Test 296/427
+Wed, 22 Nov 2017 04:40:40 test_train.py[line:48] INFO Start: 1469 DSC01286_153.JPG
+Wed, 22 Nov 2017 04:40:41 test_train.py[line:61] INFO End: 58.144389 1469 DSC01286_194.JPG (Speed time: 1.206325)
+Wed, 22 Nov 2017 04:40:41 test_train.py[line:68] INFO Good/Bad 284/13
+Wed, 22 Nov 2017 04:40:41 test_train.py[line:69] INFO Finish Test 297/427
+Wed, 22 Nov 2017 04:40:41 test_train.py[line:48] INFO Start: 1469 DSC01286_070.JPG
+Wed, 22 Nov 2017 04:40:43 test_train.py[line:61] INFO End: 61.535871 1448 DSC01345_006.JPG (Speed time: 1.203831)
+Wed, 22 Nov 2017 04:40:43 test_train.py[line:67] WARNING Bad is Coming: 1469 [2] != 1448 DSC01345_006.JPG
+Wed, 22 Nov 2017 04:40:43 test_train.py[line:68] INFO Good/Bad 284/14
+Wed, 22 Nov 2017 04:40:43 test_train.py[line:69] INFO Finish Test 298/427
+Wed, 22 Nov 2017 04:40:43 test_train.py[line:48] INFO Start: 1469 DSC01619_162.JPG
+Wed, 22 Nov 2017 04:40:44 test_train.py[line:61] INFO End: 34.089856 1469 DSC01619_126.JPG (Speed time: 1.208784)
+Wed, 22 Nov 2017 04:40:44 test_train.py[line:68] INFO Good/Bad 285/14
+Wed, 22 Nov 2017 04:40:44 test_train.py[line:69] INFO Finish Test 299/427
+Wed, 22 Nov 2017 04:40:44 test_train.py[line:48] INFO Start: 1469 DSC01619_165.JPG
+Wed, 22 Nov 2017 04:40:45 test_train.py[line:61] INFO End: 41.776041 1469 DSC01619_116.JPG (Speed time: 1.205069)
+Wed, 22 Nov 2017 04:40:45 test_train.py[line:68] INFO Good/Bad 286/14
+Wed, 22 Nov 2017 04:40:45 test_train.py[line:69] INFO Finish Test 300/427
+Wed, 22 Nov 2017 04:40:45 test_train.py[line:48] INFO Start: 1469 DSC01289_224.JPG
+Wed, 22 Nov 2017 04:40:46 test_train.py[line:61] INFO End: 76.634661 1469 DSC01289_295.JPG (Speed time: 1.207451)
+Wed, 22 Nov 2017 04:40:46 test_train.py[line:68] INFO Good/Bad 287/14
+Wed, 22 Nov 2017 04:40:46 test_train.py[line:69] INFO Finish Test 301/427
+Wed, 22 Nov 2017 04:40:46 test_train.py[line:48] INFO Start: 1469 DSC01286_043.JPG
+Wed, 22 Nov 2017 04:40:47 test_train.py[line:61] INFO End: 72.401622 1469 DSC01286_067.JPG (Speed time: 1.204617)
+Wed, 22 Nov 2017 04:40:47 test_train.py[line:68] INFO Good/Bad 288/14
+Wed, 22 Nov 2017 04:40:47 test_train.py[line:69] INFO Finish Test 302/427
+Wed, 22 Nov 2017 04:40:47 test_train.py[line:48] INFO Start: 1469 DSC01287_126.JPG
+Wed, 22 Nov 2017 04:40:49 test_train.py[line:61] INFO End: 88.622840 1469 DSC01287_138.JPG (Speed time: 1.203914)
+Wed, 22 Nov 2017 04:40:49 test_train.py[line:68] INFO Good/Bad 289/14
+Wed, 22 Nov 2017 04:40:49 test_train.py[line:69] INFO Finish Test 303/427
+Wed, 22 Nov 2017 04:40:49 test_train.py[line:48] INFO Start: 1469 DSC01287_046.JPG
+Wed, 22 Nov 2017 04:40:50 test_train.py[line:61] INFO End: 34.891487 1469 DSC01287_071.JPG (Speed time: 1.211244)
+Wed, 22 Nov 2017 04:40:50 test_train.py[line:68] INFO Good/Bad 290/14
+Wed, 22 Nov 2017 04:40:50 test_train.py[line:69] INFO Finish Test 304/427
+Wed, 22 Nov 2017 04:40:50 test_train.py[line:48] INFO Start: 1469 DSC01287_228.JPG
+Wed, 22 Nov 2017 04:40:51 test_train.py[line:61] INFO End: 72.751731 1469 DSC01287_226.JPG (Speed time: 1.205169)
+Wed, 22 Nov 2017 04:40:51 test_train.py[line:68] INFO Good/Bad 291/14
+Wed, 22 Nov 2017 04:40:51 test_train.py[line:69] INFO Finish Test 305/427
+Wed, 22 Nov 2017 04:40:51 test_train.py[line:48] INFO Start: 1469 DSC01619_131.JPG
+Wed, 22 Nov 2017 04:40:52 test_train.py[line:61] INFO End: 35.858449 1469 DSC01619_133.JPG (Speed time: 1.209730)
+Wed, 22 Nov 2017 04:40:52 test_train.py[line:68] INFO Good/Bad 292/14
+Wed, 22 Nov 2017 04:40:52 test_train.py[line:69] INFO Finish Test 306/427
+Wed, 22 Nov 2017 04:40:52 test_train.py[line:48] INFO Start: 1469 DSC01619_296.JPG
+Wed, 22 Nov 2017 04:40:53 test_train.py[line:61] INFO End: 136.584565 1469 DSC01619_329.JPG (Speed time: 1.202540)
+Wed, 22 Nov 2017 04:40:53 test_train.py[line:68] INFO Good/Bad 293/14
+Wed, 22 Nov 2017 04:40:53 test_train.py[line:69] INFO Finish Test 307/427
+Wed, 22 Nov 2017 04:40:53 test_train.py[line:48] INFO Start: 1469 DSC01619_276.JPG
+Wed, 22 Nov 2017 04:40:55 test_train.py[line:61] INFO End: 101.499798 1469 DSC01619_271.JPG (Speed time: 1.213133)
+Wed, 22 Nov 2017 04:40:55 test_train.py[line:68] INFO Good/Bad 294/14
+Wed, 22 Nov 2017 04:40:55 test_train.py[line:69] INFO Finish Test 308/427
+Wed, 22 Nov 2017 04:40:55 test_train.py[line:48] INFO Start: 1469 DSC01619_063.JPG
+Wed, 22 Nov 2017 04:40:56 test_train.py[line:61] INFO End: 47.242124 1469 DSC01619_007.JPG (Speed time: 1.341333)
+Wed, 22 Nov 2017 04:40:56 test_train.py[line:68] INFO Good/Bad 295/14
+Wed, 22 Nov 2017 04:40:56 test_train.py[line:69] INFO Finish Test 309/427
+Wed, 22 Nov 2017 04:40:56 test_train.py[line:48] INFO Start: 1469 DSC01291_155.JPG
+Wed, 22 Nov 2017 04:40:57 test_train.py[line:61] INFO End: 87.090164 1469 DSC01291_162.JPG (Speed time: 1.285826)
+Wed, 22 Nov 2017 04:40:57 test_train.py[line:68] INFO Good/Bad 296/14
+Wed, 22 Nov 2017 04:40:57 test_train.py[line:69] INFO Finish Test 310/427
+Wed, 22 Nov 2017 04:40:57 test_train.py[line:48] INFO Start: 1469 DSC01619_160.JPG
+Wed, 22 Nov 2017 04:40:59 test_train.py[line:61] INFO End: 42.540172 1469 DSC01619_189.JPG (Speed time: 1.283940)
+Wed, 22 Nov 2017 04:40:59 test_train.py[line:68] INFO Good/Bad 297/14
+Wed, 22 Nov 2017 04:40:59 test_train.py[line:69] INFO Finish Test 311/427
+Wed, 22 Nov 2017 04:40:59 test_train.py[line:48] INFO Start: 1469 DSC01289_318.JPG
+Wed, 22 Nov 2017 04:41:00 test_train.py[line:61] INFO End: 74.182431 1469 DSC01289_314.JPG (Speed time: 1.248049)
+Wed, 22 Nov 2017 04:41:00 test_train.py[line:68] INFO Good/Bad 298/14
+Wed, 22 Nov 2017 04:41:00 test_train.py[line:69] INFO Finish Test 312/427
+Wed, 22 Nov 2017 04:41:00 test_train.py[line:48] INFO Start: 1469 DSC01291_188.JPG
+Wed, 22 Nov 2017 04:41:01 test_train.py[line:61] INFO End: 150.238234 1469 DSC01291_349.JPG (Speed time: 1.239017)
+Wed, 22 Nov 2017 04:41:01 test_train.py[line:68] INFO Good/Bad 299/14
+Wed, 22 Nov 2017 04:41:01 test_train.py[line:69] INFO Finish Test 313/427
+Wed, 22 Nov 2017 04:41:01 test_train.py[line:48] INFO Start: 1469 DSC01286_045.JPG
+Wed, 22 Nov 2017 04:41:02 test_train.py[line:61] INFO End: 98.412035 1469 DSC01286_007.JPG (Speed time: 1.215861)
+Wed, 22 Nov 2017 04:41:02 test_train.py[line:68] INFO Good/Bad 300/14
+Wed, 22 Nov 2017 04:41:02 test_train.py[line:69] INFO Finish Test 314/427
+Wed, 22 Nov 2017 04:41:02 test_train.py[line:48] INFO Start: 1469 DSC01286_149.JPG
+Wed, 22 Nov 2017 04:41:04 test_train.py[line:61] INFO End: 70.441235 1448 DSC01347_344.JPG (Speed time: 1.209852)
+Wed, 22 Nov 2017 04:41:04 test_train.py[line:67] WARNING Bad is Coming: 1469 [2] != 1448 DSC01347_344.JPG
+Wed, 22 Nov 2017 04:41:04 test_train.py[line:68] INFO Good/Bad 300/15
+Wed, 22 Nov 2017 04:41:04 test_train.py[line:69] INFO Finish Test 315/427
+Wed, 22 Nov 2017 04:41:04 test_train.py[line:48] INFO Start: 1469 DSC01286_039.JPG
+Wed, 22 Nov 2017 04:41:05 test_train.py[line:61] INFO End: 58.088828 1469 DSC01286_014.JPG (Speed time: 1.209296)
+Wed, 22 Nov 2017 04:41:05 test_train.py[line:68] INFO Good/Bad 301/15
+Wed, 22 Nov 2017 04:41:05 test_train.py[line:69] INFO Finish Test 316/427
+Wed, 22 Nov 2017 04:41:05 test_train.py[line:48] INFO Start: 1469 DSC01287_316.JPG
+Wed, 22 Nov 2017 04:41:06 test_train.py[line:61] INFO End: 69.187189 1469 DSC01287_306.JPG (Speed time: 1.204917)
+Wed, 22 Nov 2017 04:41:06 test_train.py[line:68] INFO Good/Bad 302/15
+Wed, 22 Nov 2017 04:41:06 test_train.py[line:69] INFO Finish Test 317/427
+Wed, 22 Nov 2017 04:41:06 test_train.py[line:48] INFO Start: 1469 DSC01286_260.JPG
+Wed, 22 Nov 2017 04:41:07 test_train.py[line:61] INFO End: 69.660365 1469 DSC01286_272.JPG (Speed time: 1.211444)
+Wed, 22 Nov 2017 04:41:07 test_train.py[line:68] INFO Good/Bad 303/15
+Wed, 22 Nov 2017 04:41:07 test_train.py[line:69] INFO Finish Test 318/427
+Wed, 22 Nov 2017 04:41:07 test_train.py[line:48] INFO Start: 1469 DSC01287_043.JPG
+Wed, 22 Nov 2017 04:41:08 test_train.py[line:61] INFO End: 31.426210 1469 DSC01287_099.JPG (Speed time: 1.229202)
+Wed, 22 Nov 2017 04:41:08 test_train.py[line:68] INFO Good/Bad 304/15
+Wed, 22 Nov 2017 04:41:08 test_train.py[line:69] INFO Finish Test 319/427
+Wed, 22 Nov 2017 04:41:08 test_train.py[line:48] INFO Start: 1469 DSC01287_096.JPG
+Wed, 22 Nov 2017 04:41:10 test_train.py[line:61] INFO End: 67.177393 1448 DSC01347_024.JPG (Speed time: 1.215605)
+Wed, 22 Nov 2017 04:41:10 test_train.py[line:67] WARNING Bad is Coming: 1469 [2] != 1448 DSC01347_024.JPG
+Wed, 22 Nov 2017 04:41:10 test_train.py[line:68] INFO Good/Bad 304/16
+Wed, 22 Nov 2017 04:41:10 test_train.py[line:69] INFO Finish Test 320/427
+Wed, 22 Nov 2017 04:41:10 test_train.py[line:48] INFO Start: 1469 DSC01289_036.JPG
+Wed, 22 Nov 2017 04:41:11 test_train.py[line:61] INFO End: 35.183190 1469 DSC01289_082.JPG (Speed time: 1.208725)
+Wed, 22 Nov 2017 04:41:11 test_train.py[line:68] INFO Good/Bad 305/16
+Wed, 22 Nov 2017 04:41:11 test_train.py[line:69] INFO Finish Test 321/427
+Wed, 22 Nov 2017 04:41:11 test_train.py[line:48] INFO Start: 1469 DSC01289_003.JPG
+Wed, 22 Nov 2017 04:41:12 test_train.py[line:61] INFO End: 68.298518 1469 DSC01289_047.JPG (Speed time: 1.193258)
+Wed, 22 Nov 2017 04:41:12 test_train.py[line:68] INFO Good/Bad 306/16
+Wed, 22 Nov 2017 04:41:12 test_train.py[line:69] INFO Finish Test 322/427
+Wed, 22 Nov 2017 04:41:12 test_train.py[line:48] INFO Start: 1469 DSC01291_074.JPG
+Wed, 22 Nov 2017 04:41:13 test_train.py[line:61] INFO End: 38.965238 1469 DSC01291_015.JPG (Speed time: 1.200867)
+Wed, 22 Nov 2017 04:41:13 test_train.py[line:68] INFO Good/Bad 307/16
+Wed, 22 Nov 2017 04:41:13 test_train.py[line:69] INFO Finish Test 323/427
+Wed, 22 Nov 2017 04:41:13 test_train.py[line:48] INFO Start: 1469 DSC01289_195.JPG
+Wed, 22 Nov 2017 04:41:14 test_train.py[line:61] INFO End: 117.434221 1469 DSC01289_263.JPG (Speed time: 1.195260)
+Wed, 22 Nov 2017 04:41:14 test_train.py[line:68] INFO Good/Bad 308/16
+Wed, 22 Nov 2017 04:41:14 test_train.py[line:69] INFO Finish Test 324/427
+Wed, 22 Nov 2017 04:41:14 test_train.py[line:48] INFO Start: 1469 DSC01286_031.JPG
+Wed, 22 Nov 2017 04:41:16 test_train.py[line:61] INFO End: 71.158100 1469 DSC01286_008.JPG (Speed time: 1.194520)
+Wed, 22 Nov 2017 04:41:16 test_train.py[line:68] INFO Good/Bad 309/16
+Wed, 22 Nov 2017 04:41:16 test_train.py[line:69] INFO Finish Test 325/427
+Wed, 22 Nov 2017 04:41:16 test_train.py[line:48] INFO Start: 1469 DSC01289_325.JPG
+Wed, 22 Nov 2017 04:41:17 test_train.py[line:61] INFO End: 69.402010 1469 DSC01289_214.JPG (Speed time: 1.199378)
+Wed, 22 Nov 2017 04:41:17 test_train.py[line:68] INFO Good/Bad 310/16
+Wed, 22 Nov 2017 04:41:17 test_train.py[line:69] INFO Finish Test 326/427
+Wed, 22 Nov 2017 04:41:17 test_train.py[line:48] INFO Start: 1469 DSC01287_246.JPG
+Wed, 22 Nov 2017 04:41:18 test_train.py[line:61] INFO End: 101.013782 1469 DSC01287_302.JPG (Speed time: 1.194464)
+Wed, 22 Nov 2017 04:41:18 test_train.py[line:68] INFO Good/Bad 311/16
+Wed, 22 Nov 2017 04:41:18 test_train.py[line:69] INFO Finish Test 327/427
+Wed, 22 Nov 2017 04:41:18 test_train.py[line:48] INFO Start: 1448 DSC01352_032.JPG
+Wed, 22 Nov 2017 04:41:19 test_train.py[line:61] INFO End: 129.745427 1448 DSC01352_024.JPG (Speed time: 1.198985)
+Wed, 22 Nov 2017 04:41:19 test_train.py[line:68] INFO Good/Bad 312/16
+Wed, 22 Nov 2017 04:41:19 test_train.py[line:69] INFO Finish Test 328/427
+Wed, 22 Nov 2017 04:41:19 test_train.py[line:48] INFO Start: 1448 DSC01345_188.JPG
+Wed, 22 Nov 2017 04:41:20 test_train.py[line:61] INFO End: 19.132459 1448 DSC01345_110.JPG (Speed time: 1.194552)
+Wed, 22 Nov 2017 04:41:20 test_train.py[line:68] INFO Good/Bad 313/16
+Wed, 22 Nov 2017 04:41:20 test_train.py[line:69] INFO Finish Test 329/427
+Wed, 22 Nov 2017 04:41:20 test_train.py[line:48] INFO Start: 1448 DSC01351_250.JPG
+Wed, 22 Nov 2017 04:41:22 test_train.py[line:61] INFO End: 120.052749 1448 DSC01351_220.JPG (Speed time: 1.194665)
+Wed, 22 Nov 2017 04:41:22 test_train.py[line:68] INFO Good/Bad 314/16
+Wed, 22 Nov 2017 04:41:22 test_train.py[line:69] INFO Finish Test 330/427
+Wed, 22 Nov 2017 04:41:22 test_train.py[line:48] INFO Start: 1448 DSC01345_211.JPG
+Wed, 22 Nov 2017 04:41:23 test_train.py[line:61] INFO End: 62.246142 1448 DSC01345_305.JPG (Speed time: 1.196983)
+Wed, 22 Nov 2017 04:41:23 test_train.py[line:68] INFO Good/Bad 315/16
+Wed, 22 Nov 2017 04:41:23 test_train.py[line:69] INFO Finish Test 331/427
+Wed, 22 Nov 2017 04:41:23 test_train.py[line:48] INFO Start: 1448 DSC01352_261.JPG
+Wed, 22 Nov 2017 04:41:24 test_train.py[line:61] INFO End: 34.321779 1448 DSC01352_257.JPG (Speed time: 1.194596)
+Wed, 22 Nov 2017 04:41:24 test_train.py[line:68] INFO Good/Bad 316/16
+Wed, 22 Nov 2017 04:41:24 test_train.py[line:69] INFO Finish Test 332/427
+Wed, 22 Nov 2017 04:41:24 test_train.py[line:48] INFO Start: 1448 DSC01352_157.JPG
+Wed, 22 Nov 2017 04:41:25 test_train.py[line:61] INFO End: 104.071084 1448 DSC01352_183.JPG (Speed time: 1.198395)
+Wed, 22 Nov 2017 04:41:25 test_train.py[line:68] INFO Good/Bad 317/16
+Wed, 22 Nov 2017 04:41:25 test_train.py[line:69] INFO Finish Test 333/427
+Wed, 22 Nov 2017 04:41:25 test_train.py[line:48] INFO Start: 1448 DSC01349_342.JPG
+Wed, 22 Nov 2017 04:41:26 test_train.py[line:61] INFO End: 21.161307 1448 DSC01349_302.JPG (Speed time: 1.194962)
+Wed, 22 Nov 2017 04:41:26 test_train.py[line:68] INFO Good/Bad 318/16
+Wed, 22 Nov 2017 04:41:26 test_train.py[line:69] INFO Finish Test 334/427
+Wed, 22 Nov 2017 04:41:26 test_train.py[line:48] INFO Start: 1448 DSC01351_119.JPG
+Wed, 22 Nov 2017 04:41:28 test_train.py[line:61] INFO End: 89.842841 1448 DSC01351_346.JPG (Speed time: 1.204199)
+Wed, 22 Nov 2017 04:41:28 test_train.py[line:68] INFO Good/Bad 319/16
+Wed, 22 Nov 2017 04:41:28 test_train.py[line:69] INFO Finish Test 335/427
+Wed, 22 Nov 2017 04:41:28 test_train.py[line:48] INFO Start: 1448 DSC01352_174.JPG
+Wed, 22 Nov 2017 04:41:29 test_train.py[line:61] INFO End: 29.906227 1448 DSC01352_190.JPG (Speed time: 1.205761)
+Wed, 22 Nov 2017 04:41:29 test_train.py[line:68] INFO Good/Bad 320/16
+Wed, 22 Nov 2017 04:41:29 test_train.py[line:69] INFO Finish Test 336/427
+Wed, 22 Nov 2017 04:41:29 test_train.py[line:48] INFO Start: 1448 DSC01352_304.JPG
+Wed, 22 Nov 2017 04:41:30 test_train.py[line:61] INFO End: 28.861976 1448 DSC01352_360.JPG (Speed time: 1.199772)
+Wed, 22 Nov 2017 04:41:30 test_train.py[line:68] INFO Good/Bad 321/16
+Wed, 22 Nov 2017 04:41:30 test_train.py[line:69] INFO Finish Test 337/427
+Wed, 22 Nov 2017 04:41:30 test_train.py[line:48] INFO Start: 1448 DSC01347_189.JPG
+Wed, 22 Nov 2017 04:41:31 test_train.py[line:61] INFO End: 23.910844 1448 DSC01347_173.JPG (Speed time: 1.204527)
+Wed, 22 Nov 2017 04:41:31 test_train.py[line:68] INFO Good/Bad 322/16
+Wed, 22 Nov 2017 04:41:31 test_train.py[line:69] INFO Finish Test 338/427
+Wed, 22 Nov 2017 04:41:31 test_train.py[line:48] INFO Start: 1448 DSC01569_067.JPG
+Wed, 22 Nov 2017 04:41:32 test_train.py[line:61] INFO End: 22.976445 1448 DSC01569_093.JPG (Speed time: 1.200397)
+Wed, 22 Nov 2017 04:41:32 test_train.py[line:68] INFO Good/Bad 323/16
+Wed, 22 Nov 2017 04:41:32 test_train.py[line:69] INFO Finish Test 339/427
+Wed, 22 Nov 2017 04:41:32 test_train.py[line:48] INFO Start: 1448 DSC01352_215.JPG
+Wed, 22 Nov 2017 04:41:34 test_train.py[line:61] INFO End: 67.125348 1448 DSC01352_211.JPG (Speed time: 1.202030)
+Wed, 22 Nov 2017 04:41:34 test_train.py[line:68] INFO Good/Bad 324/16
+Wed, 22 Nov 2017 04:41:34 test_train.py[line:69] INFO Finish Test 340/427
+Wed, 22 Nov 2017 04:41:34 test_train.py[line:48] INFO Start: 1448 DSC01352_179.JPG
+Wed, 22 Nov 2017 04:41:35 test_train.py[line:61] INFO End: 104.887730 1469 DSC01291_123.JPG (Speed time: 1.204125)
+Wed, 22 Nov 2017 04:41:35 test_train.py[line:67] WARNING Bad is Coming: 1448 [2] != 1469 DSC01291_123.JPG
+Wed, 22 Nov 2017 04:41:35 test_train.py[line:68] INFO Good/Bad 324/17
+Wed, 22 Nov 2017 04:41:35 test_train.py[line:69] INFO Finish Test 341/427
+Wed, 22 Nov 2017 04:41:35 test_train.py[line:48] INFO Start: 1448 DSC01569_221.JPG
+Wed, 22 Nov 2017 04:41:36 test_train.py[line:61] INFO End: 50.245915 1448 DSC01569_219.JPG (Speed time: 1.201852)
+Wed, 22 Nov 2017 04:41:36 test_train.py[line:68] INFO Good/Bad 325/17
+Wed, 22 Nov 2017 04:41:36 test_train.py[line:69] INFO Finish Test 342/427
+Wed, 22 Nov 2017 04:41:36 test_train.py[line:48] INFO Start: 1448 DSC01352_328.JPG
+Wed, 22 Nov 2017 04:41:37 test_train.py[line:61] INFO End: 95.958330 1448 DSC01352_312.JPG (Speed time: 1.210648)
+Wed, 22 Nov 2017 04:41:37 test_train.py[line:68] INFO Good/Bad 326/17
+Wed, 22 Nov 2017 04:41:37 test_train.py[line:69] INFO Finish Test 343/427
+Wed, 22 Nov 2017 04:41:37 test_train.py[line:48] INFO Start: 1448 DSC01351_115.JPG
+Wed, 22 Nov 2017 04:41:38 test_train.py[line:61] INFO End: 63.057974 1448 DSC01351_141.JPG (Speed time: 1.206566)
+Wed, 22 Nov 2017 04:41:38 test_train.py[line:68] INFO Good/Bad 327/17
+Wed, 22 Nov 2017 04:41:38 test_train.py[line:69] INFO Finish Test 344/427
+Wed, 22 Nov 2017 04:41:38 test_train.py[line:48] INFO Start: 1448 DSC01347_034.JPG
+Wed, 22 Nov 2017 04:41:40 test_train.py[line:61] INFO End: 76.993032 1448 DSC01347_017.JPG (Speed time: 1.203003)
+Wed, 22 Nov 2017 04:41:40 test_train.py[line:68] INFO Good/Bad 328/17
+Wed, 22 Nov 2017 04:41:40 test_train.py[line:69] INFO Finish Test 345/427
+Wed, 22 Nov 2017 04:41:40 test_train.py[line:48] INFO Start: 1448 DSC01345_189.JPG
+Wed, 22 Nov 2017 04:41:41 test_train.py[line:61] INFO End: 90.546040 1448 DSC01345_057.JPG (Speed time: 1.207264)
+Wed, 22 Nov 2017 04:41:41 test_train.py[line:68] INFO Good/Bad 329/17
+Wed, 22 Nov 2017 04:41:41 test_train.py[line:69] INFO Finish Test 346/427
+Wed, 22 Nov 2017 04:41:41 test_train.py[line:48] INFO Start: 1448 DSC01348_037.JPG
+Wed, 22 Nov 2017 04:41:42 test_train.py[line:61] INFO End: 27.617433 1448 DSC01348_067.JPG (Speed time: 1.207973)
+Wed, 22 Nov 2017 04:41:42 test_train.py[line:68] INFO Good/Bad 330/17
+Wed, 22 Nov 2017 04:41:42 test_train.py[line:69] INFO Finish Test 347/427
+Wed, 22 Nov 2017 04:41:42 test_train.py[line:48] INFO Start: 1448 DSC01569_316.JPG
+Wed, 22 Nov 2017 04:41:43 test_train.py[line:61] INFO End: 35.594220 1448 DSC01569_328.JPG (Speed time: 1.204842)
+Wed, 22 Nov 2017 04:41:43 test_train.py[line:68] INFO Good/Bad 331/17
+Wed, 22 Nov 2017 04:41:43 test_train.py[line:69] INFO Finish Test 348/427
+Wed, 22 Nov 2017 04:41:43 test_train.py[line:48] INFO Start: 1448 DSC01351_264.JPG
+Wed, 22 Nov 2017 04:41:44 test_train.py[line:61] INFO End: 93.005446 1448 DSC01351_273.JPG (Speed time: 1.207042)
+Wed, 22 Nov 2017 04:41:44 test_train.py[line:68] INFO Good/Bad 332/17
+Wed, 22 Nov 2017 04:41:44 test_train.py[line:69] INFO Finish Test 349/427
+Wed, 22 Nov 2017 04:41:44 test_train.py[line:48] INFO Start: 1448 DSC01347_131.JPG
+Wed, 22 Nov 2017 04:41:46 test_train.py[line:61] INFO End: 97.285743 1448 DSC01347_320.JPG (Speed time: 1.239009)
+Wed, 22 Nov 2017 04:41:46 test_train.py[line:68] INFO Good/Bad 333/17
+Wed, 22 Nov 2017 04:41:46 test_train.py[line:69] INFO Finish Test 350/427
+Wed, 22 Nov 2017 04:41:46 test_train.py[line:48] INFO Start: 1448 DSC01345_183.JPG
+Wed, 22 Nov 2017 04:41:47 test_train.py[line:61] INFO End: 119.314178 1448 DSC01347_165.JPG (Speed time: 1.242317)
+Wed, 22 Nov 2017 04:41:47 test_train.py[line:68] INFO Good/Bad 334/17
+Wed, 22 Nov 2017 04:41:47 test_train.py[line:69] INFO Finish Test 351/427
+Wed, 22 Nov 2017 04:41:47 test_train.py[line:48] INFO Start: 1448 DSC01569_041.JPG
+Wed, 22 Nov 2017 04:41:48 test_train.py[line:61] INFO End: 27.992338 1448 DSC01569_093.JPG (Speed time: 1.231657)
+Wed, 22 Nov 2017 04:41:48 test_train.py[line:68] INFO Good/Bad 335/17
+Wed, 22 Nov 2017 04:41:48 test_train.py[line:69] INFO Finish Test 352/427
+Wed, 22 Nov 2017 04:41:48 test_train.py[line:48] INFO Start: 1448 DSC01348_258.JPG
+Wed, 22 Nov 2017 04:41:49 test_train.py[line:61] INFO End: 112.878209 1448 DSC01348_304.JPG (Speed time: 1.222439)
+Wed, 22 Nov 2017 04:41:49 test_train.py[line:68] INFO Good/Bad 336/17
+Wed, 22 Nov 2017 04:41:49 test_train.py[line:69] INFO Finish Test 353/427
+Wed, 22 Nov 2017 04:41:49 test_train.py[line:48] INFO Start: 1448 DSC01348_066.JPG
+Wed, 22 Nov 2017 04:41:51 test_train.py[line:61] INFO End: 83.291511 1448 DSC01347_049.JPG (Speed time: 1.247020)
+Wed, 22 Nov 2017 04:41:51 test_train.py[line:68] INFO Good/Bad 337/17
+Wed, 22 Nov 2017 04:41:51 test_train.py[line:69] INFO Finish Test 354/427
+Wed, 22 Nov 2017 04:41:51 test_train.py[line:48] INFO Start: 1448 DSC01569_034.JPG
+Wed, 22 Nov 2017 04:41:52 test_train.py[line:61] INFO End: 75.606846 1465 DSC01528_015.JPG (Speed time: 1.222915)
+Wed, 22 Nov 2017 04:41:52 test_train.py[line:67] WARNING Bad is Coming: 1448 [2] != 1465 DSC01528_015.JPG
+Wed, 22 Nov 2017 04:41:52 test_train.py[line:68] INFO Good/Bad 337/18
+Wed, 22 Nov 2017 04:41:52 test_train.py[line:69] INFO Finish Test 355/427
+Wed, 22 Nov 2017 04:41:52 test_train.py[line:48] INFO Start: 1448 DSC01351_117.JPG
+Wed, 22 Nov 2017 04:41:53 test_train.py[line:61] INFO End: 154.389770 1448 DSC01349_156.JPG (Speed time: 1.236968)
+Wed, 22 Nov 2017 04:41:53 test_train.py[line:68] INFO Good/Bad 338/18
+Wed, 22 Nov 2017 04:41:53 test_train.py[line:69] INFO Finish Test 356/427
+Wed, 22 Nov 2017 04:41:53 test_train.py[line:48] INFO Start: 1448 DSC01345_054.JPG
+Wed, 22 Nov 2017 04:41:54 test_train.py[line:61] INFO End: 66.784484 1448 DSC01345_003.JPG (Speed time: 1.207506)
+Wed, 22 Nov 2017 04:41:54 test_train.py[line:68] INFO Good/Bad 339/18
+Wed, 22 Nov 2017 04:41:54 test_train.py[line:69] INFO Finish Test 357/427
+Wed, 22 Nov 2017 04:41:54 test_train.py[line:48] INFO Start: 1448 DSC01351_063.JPG
+Wed, 22 Nov 2017 04:41:56 test_train.py[line:61] INFO End: 109.020443 1448 DSC01351_064.JPG (Speed time: 1.242069)
+Wed, 22 Nov 2017 04:41:56 test_train.py[line:68] INFO Good/Bad 340/18
+Wed, 22 Nov 2017 04:41:56 test_train.py[line:69] INFO Finish Test 358/427
+Wed, 22 Nov 2017 04:41:56 test_train.py[line:48] INFO Start: 1448 DSC01345_111.JPG
+Wed, 22 Nov 2017 04:41:57 test_train.py[line:61] INFO End: 56.685015 1448 DSC01345_124.JPG (Speed time: 1.209486)
+Wed, 22 Nov 2017 04:41:57 test_train.py[line:68] INFO Good/Bad 341/18
+Wed, 22 Nov 2017 04:41:57 test_train.py[line:69] INFO Finish Test 359/427
+Wed, 22 Nov 2017 04:41:57 test_train.py[line:48] INFO Start: 1448 DSC01348_264.JPG
+Wed, 22 Nov 2017 04:41:58 test_train.py[line:61] INFO End: 68.436789 1448 DSC01348_206.JPG (Speed time: 1.231286)
+Wed, 22 Nov 2017 04:41:58 test_train.py[line:68] INFO Good/Bad 342/18
+Wed, 22 Nov 2017 04:41:58 test_train.py[line:69] INFO Finish Test 360/427
+Wed, 22 Nov 2017 04:41:58 test_train.py[line:48] INFO Start: 1448 DSC01569_325.JPG
+Wed, 22 Nov 2017 04:41:59 test_train.py[line:61] INFO End: 23.545492 1448 DSC01569_329.JPG (Speed time: 1.211385)
+Wed, 22 Nov 2017 04:41:59 test_train.py[line:68] INFO Good/Bad 343/18
+Wed, 22 Nov 2017 04:41:59 test_train.py[line:69] INFO Finish Test 361/427
+Wed, 22 Nov 2017 04:41:59 test_train.py[line:48] INFO Start: 1448 DSC01345_182.JPG
+Wed, 22 Nov 2017 04:42:00 test_train.py[line:61] INFO End: 74.043558 1448 DSC01345_172.JPG (Speed time: 1.238482)
+Wed, 22 Nov 2017 04:42:00 test_train.py[line:68] INFO Good/Bad 344/18
+Wed, 22 Nov 2017 04:42:00 test_train.py[line:69] INFO Finish Test 362/427
+Wed, 22 Nov 2017 04:42:00 test_train.py[line:48] INFO Start: 1448 DSC01347_136.JPG
+Wed, 22 Nov 2017 04:42:02 test_train.py[line:61] INFO End: 107.227716 1448 DSC01347_308.JPG (Speed time: 1.211777)
+Wed, 22 Nov 2017 04:42:02 test_train.py[line:68] INFO Good/Bad 345/18
+Wed, 22 Nov 2017 04:42:02 test_train.py[line:69] INFO Finish Test 363/427
+Wed, 22 Nov 2017 04:42:02 test_train.py[line:48] INFO Start: 1448 DSC01349_067.JPG
+Wed, 22 Nov 2017 04:42:03 test_train.py[line:61] INFO End: 18.604280 1448 DSC01349_081.JPG (Speed time: 1.210291)
+Wed, 22 Nov 2017 04:42:03 test_train.py[line:68] INFO Good/Bad 346/18
+Wed, 22 Nov 2017 04:42:03 test_train.py[line:69] INFO Finish Test 364/427
+Wed, 22 Nov 2017 04:42:03 test_train.py[line:48] INFO Start: 1448 DSC01345_171.JPG
+Wed, 22 Nov 2017 04:42:04 test_train.py[line:61] INFO End: 94.726791 1448 DSC01345_148.JPG (Speed time: 1.205311)
+Wed, 22 Nov 2017 04:42:04 test_train.py[line:68] INFO Good/Bad 347/18
+Wed, 22 Nov 2017 04:42:04 test_train.py[line:69] INFO Finish Test 365/427
+Wed, 22 Nov 2017 04:42:04 test_train.py[line:48] INFO Start: 1448 DSC01351_143.JPG
+Wed, 22 Nov 2017 04:42:05 test_train.py[line:61] INFO End: 28.868151 1448 DSC01351_170.JPG (Speed time: 1.215889)
+Wed, 22 Nov 2017 04:42:05 test_train.py[line:68] INFO Good/Bad 348/18
+Wed, 22 Nov 2017 04:42:05 test_train.py[line:69] INFO Finish Test 366/427
+Wed, 22 Nov 2017 04:42:05 test_train.py[line:48] INFO Start: 1448 DSC01347_288.JPG
+Wed, 22 Nov 2017 04:42:07 test_train.py[line:61] INFO End: 101.806167 1448 DSC01347_209.JPG (Speed time: 1.202886)
+Wed, 22 Nov 2017 04:42:07 test_train.py[line:68] INFO Good/Bad 349/18
+Wed, 22 Nov 2017 04:42:07 test_train.py[line:69] INFO Finish Test 367/427
+Wed, 22 Nov 2017 04:42:07 test_train.py[line:48] INFO Start: 1448 DSC01347_350.JPG
+Wed, 22 Nov 2017 04:42:08 test_train.py[line:61] INFO End: 110.803906 1448 DSC01345_027.JPG (Speed time: 1.209210)
+Wed, 22 Nov 2017 04:42:08 test_train.py[line:68] INFO Good/Bad 350/18
+Wed, 22 Nov 2017 04:42:08 test_train.py[line:69] INFO Finish Test 368/427
+Wed, 22 Nov 2017 04:42:08 test_train.py[line:48] INFO Start: 1448 DSC01345_302.JPG
+Wed, 22 Nov 2017 04:42:09 test_train.py[line:61] INFO End: 88.785158 1448 DSC01345_320.JPG (Speed time: 1.203551)
+Wed, 22 Nov 2017 04:42:09 test_train.py[line:68] INFO Good/Bad 351/18
+Wed, 22 Nov 2017 04:42:09 test_train.py[line:69] INFO Finish Test 369/427
+Wed, 22 Nov 2017 04:42:09 test_train.py[line:48] INFO Start: 1448 DSC01569_170.JPG
+Wed, 22 Nov 2017 04:42:10 test_train.py[line:61] INFO End: 27.296903 1448 DSC01569_139.JPG (Speed time: 1.206713)
+Wed, 22 Nov 2017 04:42:10 test_train.py[line:68] INFO Good/Bad 352/18
+Wed, 22 Nov 2017 04:42:10 test_train.py[line:69] INFO Finish Test 370/427
+Wed, 22 Nov 2017 04:42:10 test_train.py[line:48] INFO Start: 1448 DSC01569_332.JPG
+Wed, 22 Nov 2017 04:42:11 test_train.py[line:61] INFO End: 104.736852 1448 DSC01569_232.JPG (Speed time: 1.204935)
+Wed, 22 Nov 2017 04:42:11 test_train.py[line:68] INFO Good/Bad 353/18
+Wed, 22 Nov 2017 04:42:11 test_train.py[line:69] INFO Finish Test 371/427
+Wed, 22 Nov 2017 04:42:11 test_train.py[line:48] INFO Start: 1448 DSC01569_019.JPG
+Wed, 22 Nov 2017 04:42:13 test_train.py[line:61] INFO End: 30.713563 1448 DSC01569_070.JPG (Speed time: 1.204218)
+Wed, 22 Nov 2017 04:42:13 test_train.py[line:68] INFO Good/Bad 354/18
+Wed, 22 Nov 2017 04:42:13 test_train.py[line:69] INFO Finish Test 372/427
+Wed, 22 Nov 2017 04:42:13 test_train.py[line:48] INFO Start: 1448 DSC01352_118.JPG
+Wed, 22 Nov 2017 04:42:14 test_train.py[line:61] INFO End: 32.458528 1448 DSC01352_131.JPG (Speed time: 1.207983)
+Wed, 22 Nov 2017 04:42:14 test_train.py[line:68] INFO Good/Bad 355/18
+Wed, 22 Nov 2017 04:42:14 test_train.py[line:69] INFO Finish Test 373/427
+Wed, 22 Nov 2017 04:42:14 test_train.py[line:48] INFO Start: 1448 DSC01351_336.JPG
+Wed, 22 Nov 2017 04:42:15 test_train.py[line:61] INFO End: 41.195366 1448 DSC01351_274.JPG (Speed time: 1.204762)
+Wed, 22 Nov 2017 04:42:15 test_train.py[line:68] INFO Good/Bad 356/18
+Wed, 22 Nov 2017 04:42:15 test_train.py[line:69] INFO Finish Test 374/427
+Wed, 22 Nov 2017 04:42:15 test_train.py[line:48] INFO Start: 1448 DSC01569_138.JPG
+Wed, 22 Nov 2017 04:42:16 test_train.py[line:61] INFO End: 84.074220 1448 DSC01569_114.JPG (Speed time: 1.205032)
+Wed, 22 Nov 2017 04:42:16 test_train.py[line:68] INFO Good/Bad 357/18
+Wed, 22 Nov 2017 04:42:16 test_train.py[line:69] INFO Finish Test 375/427
+Wed, 22 Nov 2017 04:42:16 test_train.py[line:48] INFO Start: 1448 DSC01352_184.JPG
+Wed, 22 Nov 2017 04:42:17 test_train.py[line:61] INFO End: 80.288367 1448 DSC01352_316.JPG (Speed time: 1.201653)
+Wed, 22 Nov 2017 04:42:17 test_train.py[line:68] INFO Good/Bad 358/18
+Wed, 22 Nov 2017 04:42:17 test_train.py[line:69] INFO Finish Test 376/427
+Wed, 22 Nov 2017 04:42:17 test_train.py[line:48] INFO Start: 1448 DSC01569_239.JPG
+Wed, 22 Nov 2017 04:42:19 test_train.py[line:61] INFO End: 62.095027 1448 DSC01569_254.JPG (Speed time: 1.201783)
+Wed, 22 Nov 2017 04:42:19 test_train.py[line:68] INFO Good/Bad 359/18
+Wed, 22 Nov 2017 04:42:19 test_train.py[line:69] INFO Finish Test 377/427
+Wed, 22 Nov 2017 04:42:19 test_train.py[line:48] INFO Start: 6452 DSC02452_174.JPG
+Wed, 22 Nov 2017 04:42:20 test_train.py[line:61] INFO End: 73.547839 6452 DSC02452_159.JPG (Speed time: 1.206699)
+Wed, 22 Nov 2017 04:42:20 test_train.py[line:68] INFO Good/Bad 360/18
+Wed, 22 Nov 2017 04:42:20 test_train.py[line:69] INFO Finish Test 378/427
+Wed, 22 Nov 2017 04:42:20 test_train.py[line:48] INFO Start: 6452 DSC02451_256.JPG
+Wed, 22 Nov 2017 04:42:21 test_train.py[line:61] INFO End: 46.583733 6452 DSC02449_225.JPG (Speed time: 1.202929)
+Wed, 22 Nov 2017 04:42:21 test_train.py[line:68] INFO Good/Bad 361/18
+Wed, 22 Nov 2017 04:42:21 test_train.py[line:69] INFO Finish Test 379/427
+Wed, 22 Nov 2017 04:42:21 test_train.py[line:48] INFO Start: 6452 DSC02450_359.JPG
+Wed, 22 Nov 2017 04:42:22 test_train.py[line:61] INFO End: 78.403899 6452 DSC02451_303.JPG (Speed time: 1.207179)
+Wed, 22 Nov 2017 04:42:22 test_train.py[line:68] INFO Good/Bad 362/18
+Wed, 22 Nov 2017 04:42:22 test_train.py[line:69] INFO Finish Test 380/427
+Wed, 22 Nov 2017 04:42:22 test_train.py[line:48] INFO Start: 6452 DSC02448_212.JPG
+Wed, 22 Nov 2017 04:42:23 test_train.py[line:61] INFO End: 55.438038 6452 DSC02449_235.JPG (Speed time: 1.204657)
+Wed, 22 Nov 2017 04:42:23 test_train.py[line:68] INFO Good/Bad 363/18
+Wed, 22 Nov 2017 04:42:23 test_train.py[line:69] INFO Finish Test 381/427
+Wed, 22 Nov 2017 04:42:23 test_train.py[line:48] INFO Start: 6452 DSC02454_340.JPG
+Wed, 22 Nov 2017 04:42:25 test_train.py[line:61] INFO End: 23.165185 6452 DSC02454_287.JPG (Speed time: 1.208091)
+Wed, 22 Nov 2017 04:42:25 test_train.py[line:68] INFO Good/Bad 364/18
+Wed, 22 Nov 2017 04:42:25 test_train.py[line:69] INFO Finish Test 382/427
+Wed, 22 Nov 2017 04:42:25 test_train.py[line:48] INFO Start: 6452 DSC02449_176.JPG
+Wed, 22 Nov 2017 04:42:26 test_train.py[line:61] INFO End: 73.493533 6452 DSC02449_134.JPG (Speed time: 1.209733)
+Wed, 22 Nov 2017 04:42:26 test_train.py[line:68] INFO Good/Bad 365/18
+Wed, 22 Nov 2017 04:42:26 test_train.py[line:69] INFO Finish Test 383/427
+Wed, 22 Nov 2017 04:42:26 test_train.py[line:48] INFO Start: 6452 DSC02451_349.JPG
+Wed, 22 Nov 2017 04:42:27 test_train.py[line:61] INFO End: 55.972220 6452 DSC02451_247.JPG (Speed time: 1.204955)
+Wed, 22 Nov 2017 04:42:27 test_train.py[line:68] INFO Good/Bad 366/18
+Wed, 22 Nov 2017 04:42:27 test_train.py[line:69] INFO Finish Test 384/427
+Wed, 22 Nov 2017 04:42:27 test_train.py[line:48] INFO Start: 6452 DSC02452_356.JPG
+Wed, 22 Nov 2017 04:42:28 test_train.py[line:61] INFO End: 81.764606 6452 DSC02452_312.JPG (Speed time: 1.211577)
+Wed, 22 Nov 2017 04:42:28 test_train.py[line:68] INFO Good/Bad 367/18
+Wed, 22 Nov 2017 04:42:28 test_train.py[line:69] INFO Finish Test 385/427
+Wed, 22 Nov 2017 04:42:28 test_train.py[line:48] INFO Start: 6452 DSC02448_164.JPG
+Wed, 22 Nov 2017 04:42:29 test_train.py[line:61] INFO End: 92.549294 6452 DSC02450_107.JPG (Speed time: 1.203903)
+Wed, 22 Nov 2017 04:42:29 test_train.py[line:68] INFO Good/Bad 368/18
+Wed, 22 Nov 2017 04:42:29 test_train.py[line:69] INFO Finish Test 386/427
+Wed, 22 Nov 2017 04:42:29 test_train.py[line:48] INFO Start: 6452 DSC02454_105.JPG
+Wed, 22 Nov 2017 04:42:31 test_train.py[line:61] INFO End: 24.935294 6452 DSC02454_157.JPG (Speed time: 1.208896)
+Wed, 22 Nov 2017 04:42:31 test_train.py[line:68] INFO Good/Bad 369/18
+Wed, 22 Nov 2017 04:42:31 test_train.py[line:69] INFO Finish Test 387/427
+Wed, 22 Nov 2017 04:42:31 test_train.py[line:48] INFO Start: 6452 DSC02450_001.JPG
+Wed, 22 Nov 2017 04:42:32 test_train.py[line:61] INFO End: 95.888369 6452 DSC02451_060.JPG (Speed time: 1.210297)
+Wed, 22 Nov 2017 04:42:32 test_train.py[line:68] INFO Good/Bad 370/18
+Wed, 22 Nov 2017 04:42:32 test_train.py[line:69] INFO Finish Test 388/427
+Wed, 22 Nov 2017 04:42:32 test_train.py[line:48] INFO Start: 6452 DSC02449_187.JPG
+Wed, 22 Nov 2017 04:42:33 test_train.py[line:61] INFO End: 84.326391 6452 DSC02449_053.JPG (Speed time: 1.203703)
+Wed, 22 Nov 2017 04:42:33 test_train.py[line:68] INFO Good/Bad 371/18
+Wed, 22 Nov 2017 04:42:33 test_train.py[line:69] INFO Finish Test 389/427
+Wed, 22 Nov 2017 04:42:33 test_train.py[line:48] INFO Start: 6452 DSC02448_287.JPG
+Wed, 22 Nov 2017 04:42:34 test_train.py[line:61] INFO End: 60.256259 6452 DSC02448_205.JPG (Speed time: 1.209956)
+Wed, 22 Nov 2017 04:42:34 test_train.py[line:68] INFO Good/Bad 372/18
+Wed, 22 Nov 2017 04:42:34 test_train.py[line:69] INFO Finish Test 390/427
+Wed, 22 Nov 2017 04:42:34 test_train.py[line:48] INFO Start: 6452 DSC02453_320.JPG
+Wed, 22 Nov 2017 04:42:35 test_train.py[line:61] INFO End: 88.133923 6452 DSC02453_140.JPG (Speed time: 1.207412)
+Wed, 22 Nov 2017 04:42:35 test_train.py[line:68] INFO Good/Bad 373/18
+Wed, 22 Nov 2017 04:42:35 test_train.py[line:69] INFO Finish Test 391/427
+Wed, 22 Nov 2017 04:42:35 test_train.py[line:48] INFO Start: 6452 DSC02451_108.JPG
+Wed, 22 Nov 2017 04:42:37 test_train.py[line:61] INFO End: 77.616330 6452 DSC02450_176.JPG (Speed time: 1.203915)
+Wed, 22 Nov 2017 04:42:37 test_train.py[line:68] INFO Good/Bad 374/18
+Wed, 22 Nov 2017 04:42:37 test_train.py[line:69] INFO Finish Test 392/427
+Wed, 22 Nov 2017 04:42:37 test_train.py[line:48] INFO Start: 6452 DSC02451_228.JPG
+Wed, 22 Nov 2017 04:42:38 test_train.py[line:61] INFO End: 76.034662 6452 DSC02451_304.JPG (Speed time: 1.207629)
+Wed, 22 Nov 2017 04:42:38 test_train.py[line:68] INFO Good/Bad 375/18
+Wed, 22 Nov 2017 04:42:38 test_train.py[line:69] INFO Finish Test 393/427
+Wed, 22 Nov 2017 04:42:38 test_train.py[line:48] INFO Start: 6452 DSC02451_144.JPG
+Wed, 22 Nov 2017 04:42:39 test_train.py[line:61] INFO End: 66.833382 6452 DSC02451_163.JPG (Speed time: 1.201264)
+Wed, 22 Nov 2017 04:42:39 test_train.py[line:68] INFO Good/Bad 376/18
+Wed, 22 Nov 2017 04:42:39 test_train.py[line:69] INFO Finish Test 394/427
+Wed, 22 Nov 2017 04:42:39 test_train.py[line:48] INFO Start: 6452 DSC02453_335.JPG
+Wed, 22 Nov 2017 04:42:40 test_train.py[line:61] INFO End: 66.785228 6452 DSC02453_293.JPG (Speed time: 1.207324)
+Wed, 22 Nov 2017 04:42:40 test_train.py[line:68] INFO Good/Bad 377/18
+Wed, 22 Nov 2017 04:42:40 test_train.py[line:69] INFO Finish Test 395/427
+Wed, 22 Nov 2017 04:42:40 test_train.py[line:48] INFO Start: 6452 DSC02452_282.JPG
+Wed, 22 Nov 2017 04:42:42 test_train.py[line:61] INFO End: 56.018662 6452 DSC02452_337.JPG (Speed time: 1.204676)
+Wed, 22 Nov 2017 04:42:42 test_train.py[line:68] INFO Good/Bad 378/18
+Wed, 22 Nov 2017 04:42:42 test_train.py[line:69] INFO Finish Test 396/427
+Wed, 22 Nov 2017 04:42:42 test_train.py[line:48] INFO Start: 6452 DSC02453_197.JPG
+Wed, 22 Nov 2017 04:42:43 test_train.py[line:61] INFO End: 67.503357 6452 DSC02453_025.JPG (Speed time: 1.203343)
+Wed, 22 Nov 2017 04:42:43 test_train.py[line:68] INFO Good/Bad 379/18
+Wed, 22 Nov 2017 04:42:43 test_train.py[line:69] INFO Finish Test 397/427
+Wed, 22 Nov 2017 04:42:43 test_train.py[line:48] INFO Start: 6452 DSC02450_332.JPG
+Wed, 22 Nov 2017 04:42:44 test_train.py[line:61] INFO End: 103.124654 6452 DSC02450_334.JPG (Speed time: 1.208483)
+Wed, 22 Nov 2017 04:42:44 test_train.py[line:68] INFO Good/Bad 380/18
+Wed, 22 Nov 2017 04:42:44 test_train.py[line:69] INFO Finish Test 398/427
+Wed, 22 Nov 2017 04:42:44 test_train.py[line:48] INFO Start: 6452 DSC02450_207.JPG
+Wed, 22 Nov 2017 04:42:45 test_train.py[line:61] INFO End: 57.523718 6452 DSC02451_359.JPG (Speed time: 1.204959)
+Wed, 22 Nov 2017 04:42:45 test_train.py[line:68] INFO Good/Bad 381/18
+Wed, 22 Nov 2017 04:42:45 test_train.py[line:69] INFO Finish Test 399/427
+Wed, 22 Nov 2017 04:42:45 test_train.py[line:48] INFO Start: 6452 DSC02453_021.JPG
+Wed, 22 Nov 2017 04:42:46 test_train.py[line:61] INFO End: 93.874680 6452 DSC02453_141.JPG (Speed time: 1.207513)
+Wed, 22 Nov 2017 04:42:46 test_train.py[line:68] INFO Good/Bad 382/18
+Wed, 22 Nov 2017 04:42:46 test_train.py[line:69] INFO Finish Test 400/427
+Wed, 22 Nov 2017 04:42:46 test_train.py[line:48] INFO Start: 6452 DSC02448_060.JPG
+Wed, 22 Nov 2017 04:42:48 test_train.py[line:61] INFO End: 83.160235 6452 DSC02448_037.JPG (Speed time: 1.203061)
+Wed, 22 Nov 2017 04:42:48 test_train.py[line:68] INFO Good/Bad 383/18
+Wed, 22 Nov 2017 04:42:48 test_train.py[line:69] INFO Finish Test 401/427
+Wed, 22 Nov 2017 04:42:48 test_train.py[line:48] INFO Start: 6452 DSC02449_320.JPG
+Wed, 22 Nov 2017 04:42:49 test_train.py[line:61] INFO End: 78.953795 6452 DSC02449_318.JPG (Speed time: 1.203425)
+Wed, 22 Nov 2017 04:42:49 test_train.py[line:68] INFO Good/Bad 384/18
+Wed, 22 Nov 2017 04:42:49 test_train.py[line:69] INFO Finish Test 402/427
+Wed, 22 Nov 2017 04:42:49 test_train.py[line:48] INFO Start: 6452 DSC02448_123.JPG
+Wed, 22 Nov 2017 04:42:50 test_train.py[line:61] INFO End: 73.581253 6452 DSC02450_169.JPG (Speed time: 1.207641)
+Wed, 22 Nov 2017 04:42:50 test_train.py[line:68] INFO Good/Bad 385/18
+Wed, 22 Nov 2017 04:42:50 test_train.py[line:69] INFO Finish Test 403/427
+Wed, 22 Nov 2017 04:42:50 test_train.py[line:48] INFO Start: 6452 DSC02452_205.JPG
+Wed, 22 Nov 2017 04:42:51 test_train.py[line:61] INFO End: 58.241538 6452 DSC02452_215.JPG (Speed time: 1.204130)
+Wed, 22 Nov 2017 04:42:51 test_train.py[line:68] INFO Good/Bad 386/18
+Wed, 22 Nov 2017 04:42:51 test_train.py[line:69] INFO Finish Test 404/427
+Wed, 22 Nov 2017 04:42:51 test_train.py[line:48] INFO Start: 6452 DSC02450_293.JPG
+Wed, 22 Nov 2017 04:42:52 test_train.py[line:61] INFO End: 53.004742 6452 DSC02451_307.JPG (Speed time: 1.211176)
+Wed, 22 Nov 2017 04:42:52 test_train.py[line:68] INFO Good/Bad 387/18
+Wed, 22 Nov 2017 04:42:52 test_train.py[line:69] INFO Finish Test 405/427
+Wed, 22 Nov 2017 04:42:52 test_train.py[line:48] INFO Start: 6452 DSC02451_196.JPG
+Wed, 22 Nov 2017 04:42:54 test_train.py[line:61] INFO End: 88.391523 6452 DSC02451_168.JPG (Speed time: 1.204156)
+Wed, 22 Nov 2017 04:42:54 test_train.py[line:68] INFO Good/Bad 388/18
+Wed, 22 Nov 2017 04:42:54 test_train.py[line:69] INFO Finish Test 406/427
+Wed, 22 Nov 2017 04:42:54 test_train.py[line:48] INFO Start: 6452 DSC02453_003.JPG
+Wed, 22 Nov 2017 04:42:55 test_train.py[line:61] INFO End: 97.592140 6452 DSC02453_096.JPG (Speed time: 1.205134)
+Wed, 22 Nov 2017 04:42:55 test_train.py[line:68] INFO Good/Bad 389/18
+Wed, 22 Nov 2017 04:42:55 test_train.py[line:69] INFO Finish Test 407/427
+Wed, 22 Nov 2017 04:42:55 test_train.py[line:48] INFO Start: 6452 DSC02450_190.JPG
+Wed, 22 Nov 2017 04:42:56 test_train.py[line:61] INFO End: 67.704974 6452 DSC02451_103.JPG (Speed time: 1.214451)
+Wed, 22 Nov 2017 04:42:56 test_train.py[line:68] INFO Good/Bad 390/18
+Wed, 22 Nov 2017 04:42:56 test_train.py[line:69] INFO Finish Test 408/427
+Wed, 22 Nov 2017 04:42:56 test_train.py[line:48] INFO Start: 6452 DSC02450_181.JPG
+Wed, 22 Nov 2017 04:42:57 test_train.py[line:61] INFO End: 57.565802 6452 DSC02450_161.JPG (Speed time: 1.204837)
+Wed, 22 Nov 2017 04:42:57 test_train.py[line:68] INFO Good/Bad 391/18
+Wed, 22 Nov 2017 04:42:57 test_train.py[line:69] INFO Finish Test 409/427
+Wed, 22 Nov 2017 04:42:57 test_train.py[line:48] INFO Start: 6452 DSC02450_259.JPG
+Wed, 22 Nov 2017 04:42:58 test_train.py[line:61] INFO End: 71.505581 6452 DSC02450_206.JPG (Speed time: 1.208010)
+Wed, 22 Nov 2017 04:42:58 test_train.py[line:68] INFO Good/Bad 392/18
+Wed, 22 Nov 2017 04:42:58 test_train.py[line:69] INFO Finish Test 410/427
+Wed, 22 Nov 2017 04:42:58 test_train.py[line:48] INFO Start: 6452 DSC02452_296.JPG
+Wed, 22 Nov 2017 04:43:00 test_train.py[line:61] INFO End: 50.585635 6452 DSC02452_309.JPG (Speed time: 1.205773)
+Wed, 22 Nov 2017 04:43:00 test_train.py[line:68] INFO Good/Bad 393/18
+Wed, 22 Nov 2017 04:43:00 test_train.py[line:69] INFO Finish Test 411/427
+Wed, 22 Nov 2017 04:43:00 test_train.py[line:48] INFO Start: 6452 DSC02452_126.JPG
+Wed, 22 Nov 2017 04:43:01 test_train.py[line:61] INFO End: 82.347609 6452 DSC02452_137.JPG (Speed time: 1.202858)
+Wed, 22 Nov 2017 04:43:01 test_train.py[line:68] INFO Good/Bad 394/18
+Wed, 22 Nov 2017 04:43:01 test_train.py[line:69] INFO Finish Test 412/427
+Wed, 22 Nov 2017 04:43:01 test_train.py[line:48] INFO Start: 6452 DSC02451_300.JPG
+Wed, 22 Nov 2017 04:43:02 test_train.py[line:61] INFO End: 77.346620 6452 DSC02450_206.JPG (Speed time: 1.207078)
+Wed, 22 Nov 2017 04:43:02 test_train.py[line:68] INFO Good/Bad 395/18
+Wed, 22 Nov 2017 04:43:02 test_train.py[line:69] INFO Finish Test 413/427
+Wed, 22 Nov 2017 04:43:02 test_train.py[line:48] INFO Start: 6452 DSC02448_105.JPG
+Wed, 22 Nov 2017 04:43:03 test_train.py[line:61] INFO End: 74.473013 6452 DSC02450_169.JPG (Speed time: 1.208475)
+Wed, 22 Nov 2017 04:43:03 test_train.py[line:68] INFO Good/Bad 396/18
+Wed, 22 Nov 2017 04:43:03 test_train.py[line:69] INFO Finish Test 414/427
+Wed, 22 Nov 2017 04:43:03 test_train.py[line:48] INFO Start: 6452 DSC02453_283.JPG
+Wed, 22 Nov 2017 04:43:04 test_train.py[line:61] INFO End: 59.905075 6452 DSC02453_235.JPG (Speed time: 1.207582)
+Wed, 22 Nov 2017 04:43:04 test_train.py[line:68] INFO Good/Bad 397/18
+Wed, 22 Nov 2017 04:43:04 test_train.py[line:69] INFO Finish Test 415/427
+Wed, 22 Nov 2017 04:43:04 test_train.py[line:48] INFO Start: 6452 DSC02452_292.JPG
+Wed, 22 Nov 2017 04:43:06 test_train.py[line:61] INFO End: 62.441114 6452 DSC02452_268.JPG (Speed time: 1.203431)
+Wed, 22 Nov 2017 04:43:06 test_train.py[line:68] INFO Good/Bad 398/18
+Wed, 22 Nov 2017 04:43:06 test_train.py[line:69] INFO Finish Test 416/427
+Wed, 22 Nov 2017 04:43:06 test_train.py[line:48] INFO Start: 6452 DSC02449_194.JPG
+Wed, 22 Nov 2017 04:43:07 test_train.py[line:61] INFO End: 68.977719 6452 DSC02449_181.JPG (Speed time: 1.201253)
+Wed, 22 Nov 2017 04:43:07 test_train.py[line:68] INFO Good/Bad 399/18
+Wed, 22 Nov 2017 04:43:07 test_train.py[line:69] INFO Finish Test 417/427
+Wed, 22 Nov 2017 04:43:07 test_train.py[line:48] INFO Start: 6452 DSC02453_199.JPG
+Wed, 22 Nov 2017 04:43:08 test_train.py[line:61] INFO End: 108.477825 6452 DSC02453_132.JPG (Speed time: 1.206779)
+Wed, 22 Nov 2017 04:43:08 test_train.py[line:68] INFO Good/Bad 400/18
+Wed, 22 Nov 2017 04:43:08 test_train.py[line:69] INFO Finish Test 418/427
+Wed, 22 Nov 2017 04:43:08 test_train.py[line:48] INFO Start: 6452 DSC02452_207.JPG
+Wed, 22 Nov 2017 04:43:09 test_train.py[line:61] INFO End: 35.427820 6452 DSC02452_351.JPG (Speed time: 1.210218)
+Wed, 22 Nov 2017 04:43:09 test_train.py[line:68] INFO Good/Bad 401/18
+Wed, 22 Nov 2017 04:43:09 test_train.py[line:69] INFO Finish Test 419/427
+Wed, 22 Nov 2017 04:43:09 test_train.py[line:48] INFO Start: 6452 DSC02453_107.JPG
+Wed, 22 Nov 2017 04:43:11 test_train.py[line:61] INFO End: 94.074298 6452 DSC02453_123.JPG (Speed time: 1.204886)
+Wed, 22 Nov 2017 04:43:11 test_train.py[line:68] INFO Good/Bad 402/18
+Wed, 22 Nov 2017 04:43:11 test_train.py[line:69] INFO Finish Test 420/427
+Wed, 22 Nov 2017 04:43:11 test_train.py[line:48] INFO Start: 6452 DSC02449_295.JPG
+Wed, 22 Nov 2017 04:43:12 test_train.py[line:61] INFO End: 58.456129 6452 DSC02448_209.JPG (Speed time: 1.203292)
+Wed, 22 Nov 2017 04:43:12 test_train.py[line:68] INFO Good/Bad 403/18
+Wed, 22 Nov 2017 04:43:12 test_train.py[line:69] INFO Finish Test 421/427
+Wed, 22 Nov 2017 04:43:12 test_train.py[line:48] INFO Start: 6452 DSC02452_052.JPG
+Wed, 22 Nov 2017 04:43:13 test_train.py[line:61] INFO End: 90.920702 6452 DSC02452_046.JPG (Speed time: 1.203489)
+Wed, 22 Nov 2017 04:43:13 test_train.py[line:68] INFO Good/Bad 404/18
+Wed, 22 Nov 2017 04:43:13 test_train.py[line:69] INFO Finish Test 422/427
+Wed, 22 Nov 2017 04:43:13 test_train.py[line:48] INFO Start: 6452 DSC02449_190.JPG
+Wed, 22 Nov 2017 04:43:14 test_train.py[line:61] INFO End: 99.338058 6452 DSC02451_115.JPG (Speed time: 1.209079)
+Wed, 22 Nov 2017 04:43:14 test_train.py[line:68] INFO Good/Bad 405/18
+Wed, 22 Nov 2017 04:43:14 test_train.py[line:69] INFO Finish Test 423/427
+Wed, 22 Nov 2017 04:43:14 test_train.py[line:48] INFO Start: 6452 DSC02450_352.JPG
+Wed, 22 Nov 2017 04:43:15 test_train.py[line:61] INFO End: 55.945005 6452 DSC02450_346.JPG (Speed time: 1.205748)
+Wed, 22 Nov 2017 04:43:15 test_train.py[line:68] INFO Good/Bad 406/18
+Wed, 22 Nov 2017 04:43:15 test_train.py[line:69] INFO Finish Test 424/427
+Wed, 22 Nov 2017 04:43:15 test_train.py[line:48] INFO Start: 6452 DSC02449_268.JPG
+Wed, 22 Nov 2017 04:43:17 test_train.py[line:61] INFO End: 62.213215 6452 DSC02449_290.JPG (Speed time: 1.209538)
+Wed, 22 Nov 2017 04:43:17 test_train.py[line:68] INFO Good/Bad 407/18
+Wed, 22 Nov 2017 04:43:17 test_train.py[line:69] INFO Finish Test 425/427
+Wed, 22 Nov 2017 04:43:17 test_train.py[line:48] INFO Start: 6452 DSC02448_177.JPG
+Wed, 22 Nov 2017 04:43:18 test_train.py[line:61] INFO End: 65.374957 6452 DSC02448_108.JPG (Speed time: 1.204005)
+Wed, 22 Nov 2017 04:43:18 test_train.py[line:68] INFO Good/Bad 408/18
+Wed, 22 Nov 2017 04:43:18 test_train.py[line:69] INFO Finish Test 426/427
+Wed, 22 Nov 2017 04:43:18 test_train.py[line:48] INFO Start: 6452 DSC02450_070.JPG
+Wed, 22 Nov 2017 04:43:19 test_train.py[line:61] INFO End: 101.872108 6452 DSC02451_003.JPG (Speed time: 1.209908)
+Wed, 22 Nov 2017 04:43:19 test_train.py[line:68] INFO Good/Bad 409/18
+Wed, 22 Nov 2017 04:43:19 test_train.py[line:69] INFO Finish Test 427/427
+Wed, 22 Nov 2017 04:43:19 test_train.py[line:70] INFO Finish All, Speed time: 522.649991
