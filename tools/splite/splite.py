@@ -73,7 +73,8 @@ def splite_img(imgfile):
         return
     temp_list = []
     # 打开图片
-    im = Image.open(imgfile)
+    im = cv2.imread(imgfile)
+    im = Image.fromarray(im)
     # 获得原始图片大小
     w, h = im.size
     # 变换形状224， 224
