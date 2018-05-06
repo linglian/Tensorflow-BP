@@ -21,8 +21,8 @@ rotateAction = [Image.FLIP_LEFT_RIGHT, Image.FLIP_TOP_BOTTOM,
 rotate45degree = [45, 135, 270]
 thresholdGLOABL = 0.42
 
-mainFold = '/data/图片/'
-toFold = '/data/train_image/'
+mainFold = '/www/clothes/'
+toFold = '/www/增强后的数据/'
 """创建文件夹（如果文件夹不存在的话）
 """
 
