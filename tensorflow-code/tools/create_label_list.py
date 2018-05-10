@@ -31,8 +31,12 @@ dothing_func: 执行函数
 check_file_format: 文件格式
 """
 
-def traverse_floder(base_folder, dothing_func, check_file_format='jpg'):
+def traverse_floder(base_folder, dothing_func, check_file_format='jpg', is_log=True):
     import os
+
+    if is_log:
+        print('Check %s' % base_folder)
+
     # 获取base_folder目录下的所有文件
     floders_list = [folder for folder in
         os.listdir(base_folder) if

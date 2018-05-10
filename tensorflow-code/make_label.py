@@ -22,21 +22,24 @@ if __name__ == '__main__':
     import sys
     import getopt
 
-    opts, args = getopt.getopt(sys.argv[1:], 'f:l:')
+    opts, args = getopt.getopt(sys.argv[1:], 'f:l:t:')
 
     path = None
+    check_file_format = 'jpg'
     
     for op, value in opts:
         if op == '-f':
            path = value 
         elif op == '-l':
             list_file_path = value
-            
+        elif op == '-t':
+            check_file_format = value
+
     if path is None:
         raise ValueError('Must Enter Path Use -f', path)
         
     file = open(list_file_path, 'w')
 
-    create_label_list.traverse_floder(path, make_label, 'py')
+    create_label_list.traverse_floder(path, make_label, check_file_format)
     
     file.close()
