@@ -1,3 +1,5 @@
+#coding=utf-8
+
 from tools import create_label_list
 
 # 将要存入的文件
