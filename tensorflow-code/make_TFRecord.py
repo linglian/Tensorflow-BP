@@ -31,8 +31,8 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
             num = 0
             max_num = len(lines)
             for line in lines:
-                image_data = Image.open(line[0])
                 print line[0]
+                image_data = Image.open(line[0])
                 image_data = image_data.resize((224, 224))
                 image_data = image_data.tobytes()
                 height, width = 224, 224
