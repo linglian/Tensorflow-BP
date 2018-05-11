@@ -35,8 +35,7 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
                 print line[0]
                 image_data = image_data.resize((224, 224))
                 image_data = image_data.tobytes()
-                image = sess.run(decode_jpeg, feed_dict={decode_jpeg_data: image_data})
-                height, width = image.shape[0], image.shape[1]
+                height, width = 224, 224
                 example = dataset_utils.image_to_tfexample(
                     image_data, b'jpg', height, width, int(line[1]))
                 tfrecord_writer.write(example.SerializeToString())
