@@ -33,3 +33,17 @@ def get_dataset(dataset_dir, num_samples, num_classes, labels_to_names_path=None
             items_to_descriptions=items_to_descriptions,
             num_classes=num_classes,
             labels_to_names=labels_to_names)
+
+"""
+python train_image_classifier.py \
+    --train_dir=/www/power_clothes/train_logs \
+    --dataset_dir=/www/power_clothes \
+    --num_samples=7525907 \
+    --num_classes=100000 \
+    --model_name=inception_resnet_v2 \
+    --checkpoint_path=/home/slu/tasks/inception_resnet_v2_2016_08_30.ckpt \
+    --checkpoint_exclude_scopes=InceptionResnetV2/Logits,InceptionResnetV2/AuxLogits \
+    --trainable_scopes=InceptionResnetV2/Logits,InceptionResnetV2/AuxLogits \
+    --clone_on_cpu=False #cpu训练必须加上该参数
+
+"""
