@@ -42,6 +42,7 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
                 num = num + 1
                 if num % 1000 == 0:
                     print('Finish %d/%d' % (num, max_num))
+            tfrecord_writer.close()
         
     
 if __name__ == '__main__':
