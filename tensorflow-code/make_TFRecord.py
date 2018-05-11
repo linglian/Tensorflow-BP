@@ -28,6 +28,8 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
         decode_jpeg_data = tf.placeholder(dtype=tf.string)
         decode_jpeg = tf.image.decode_jpeg(decode_jpeg_data, channels=3)
         with tf.Session('') as sess:
+            num = 0
+            max_num = len(lines)
             for file_name, label in lines:
                 image_data = tf.gfile.FastGFile(file_name, 'rb').read()
                 image = sess.run(decode_jpeg, feed_dict={decode_jpeg_data: image_data})
@@ -35,6 +37,9 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
                 example = dataset_utils.image_to_tfexample(
                     image_data, b'jpg', height, width, int(label))
                 tfrecord_writer.write(example.SerializeToString())
+                num = num + 1
+                if num % 1000 == 0:
+                    print('Finish %d/%d' % (num, max_num))
         
     
 if __name__ == '__main__':
