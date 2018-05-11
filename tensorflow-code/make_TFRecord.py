@@ -32,7 +32,7 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
             max_num = len(lines)
             for line in lines:
                 image_data = Image.open(line[0])
-                image_data = image_data.resize(224, 224)
+                image_data = image_data.resize((224, 224))
                 image_data = image_data.tobytes()
                 image = sess.run(decode_jpeg, feed_dict={decode_jpeg_data: image_data})
                 height, width = image.shape[0], image.shape[1]
