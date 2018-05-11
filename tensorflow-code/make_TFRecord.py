@@ -30,12 +30,12 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
         with tf.Session('') as sess:
             num = 0
             max_num = len(lines)
-            for file_name, label in lines:
-                image_data = tf.gfile.FastGFile(file_name, 'rb').read()
+            for line in lines:
+                image_data = tf.gfile.FastGFile(line[0], 'rb').read()
                 image = sess.run(decode_jpeg, feed_dict={decode_jpeg_data: image_data})
                 height, width = image.shape[0], image.shape[1]
                 example = dataset_utils.image_to_tfexample(
-                    image_data, b'jpg', height, width, int(label))
+                    image_data, b'jpg', height, width, int(line[1]))
                 tfrecord_writer.write(example.SerializeToString())
                 num = num + 1
                 if num % 1000 == 0:
