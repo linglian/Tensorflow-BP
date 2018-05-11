@@ -37,7 +37,7 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
                             line[0] = line[0] + ' ' + i
                     line[1] = line[len(line) - 1]
                 print line[0]
-                with int(line[1]):
+                if line[1].isdigit():
                     image_data = Image.open(line[0])
                     image_data = image_data.resize((224, 224))
                     image_data = image_data.tobytes()
