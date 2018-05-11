@@ -9,6 +9,7 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
     from datasets import dataset_utils
     from PIL import Image
     import tensorflow as tf
+    import time
     
     # 默认情况下保存为列表名_tfrecord.tfrecords
     if tfrecord_file_path is None:
@@ -36,7 +37,6 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
                         if index != 0 and index < len(line) - 1:
                             line[0] = line[0] + ' ' + i
                     line[1] = line[len(line) - 1]
-                print line[0]
                 if line[1].isdigit():
                     image_data = tf.gfile.FastGFile(line[0], 'rb').read()
                     image = sess.run(decode_jpeg, feed_dict={decode_jpeg_data: image_data})
