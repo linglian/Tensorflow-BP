@@ -33,7 +33,7 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
             for line in lines:
                 if len(line) != 2:
                     for index, i in enumerate(line):
-                        if index < len(line) - 1:
+                        if index != 0 and index < len(line) - 1:
                             line[0] = line[0] + i
                 print line[0]
                 image_data = Image.open(line[0])
