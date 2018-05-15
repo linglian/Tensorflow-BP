@@ -26,17 +26,20 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
     tfrecord_writer = tf.python_io.TFRecordWriter(tfrecord_file_path)
 
     with tf.Graph().as_default():
+        # 读取格式信息
         decode_jpeg_data = tf.placeholder(dtype=tf.string)
         decode_jpeg = tf.image.decode_jpeg(decode_jpeg_data, channels=3)
         with tf.Session('') as sess:
             num = 0
             max_num = len(lines)
             for line in lines:
+                # 处理路径名，去除空格的影响
                 if len(line) != 2:
                     for index, i in enumerate(line):
                         if index != 0 and index < len(line) - 1:
                             line[0] = line[0] + ' ' + i
                     line[1] = line[len(line) - 1]
+                # 判断是否为数字
                 if line[1].isdigit():
                     image_data = tf.gfile.FastGFile(line[0], 'rb').read()
                     image = sess.run(decode_jpeg, feed_dict={decode_jpeg_data: image_data})
@@ -47,6 +50,7 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
                     num = num + 1
                     if num % 100000 == 0:
                         print('Finish %d/%d' % (num, max_num))
+                        # 防止每个tfrecord太大，进行分割
                         tfrecord_writer.close()
                         tfrecord_writer = tf.python_io.TFRecordWriter(tfrecord_file_path.replace('.', '_%d.' % int(num / 1000)))
             tfrecord_writer.close()
