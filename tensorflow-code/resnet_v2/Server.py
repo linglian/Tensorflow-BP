@@ -41,12 +41,7 @@ def rename_filename(old_file_name):
   return new_name
 
 def inference(file_name):
-  try:
-    predictions, top_k, top_names = run_inference_on_image(file_name, model=FLAGS.model)
-    print(predictions)
-  except Exception as ex: 
-    print(ex)
-    return ""
+  predictions, top_k, top_names = run_inference_on_image(file_name, model=FLAGS.model)
   new_url = '/static/%s' % os.path.basename(file_name)
   image_tag = '<img src="%s"></img><p>'
   new_tag = image_tag % new_url
