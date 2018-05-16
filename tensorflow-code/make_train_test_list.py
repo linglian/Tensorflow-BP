@@ -21,7 +21,7 @@ if __name__ == '__main__':
         elif op == '-t':
             test_file_path = value
         elif op == '-l':
-            list_file = value
+            list_file_path = value
         elif op == '-b':
             train_radio = float(value)
     
