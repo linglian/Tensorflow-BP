@@ -148,7 +148,7 @@ def run_inference_on_image(image, model):
     # Runs the softmax tensor by feeding the image_data as input to the graph.
     softmax_tensor = sess.graph.get_tensor_by_name('InceptionResnetV2/Logits/Predictions:0')
     predictions = sess.run(softmax_tensor,
-                           {'DecodeJpeg/contents:0': image_data})
+                           {'Conv2d_1a_3x3:0': image_data})
     predictions = np.squeeze(predictions)
 
     # Creates node ID --> English string lookup.
