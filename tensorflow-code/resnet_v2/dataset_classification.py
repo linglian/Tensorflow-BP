@@ -36,7 +36,7 @@ def get_dataset(dataset_dir, num_samples, num_classes, labels_to_names_path=None
 
 """
 python train_image_classifier.py \
-    --train_dir=/www/power_clothes/train_logs \
+    --train_dir=/www/power_clothes/train_logs_02 \
     --dataset_dir=/www/power_clothes_train \
     --num_samples=7525907 \
     --num_classes=100000 \

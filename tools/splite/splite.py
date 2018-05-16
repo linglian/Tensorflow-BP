@@ -159,11 +159,13 @@ def start_splite(path, filePath, toPath):
 
 
 if __name__ == "__main__":
-    opts, args = getopt.getopt(sys.argv[1:], 'f:s:')
+    opts, args = getopt.getopt(sys.argv[1:], 'f:s:t:')
     for op, value in opts:
         # 设置根目录路径
         if op == '-f':
             mainFold = value
         elif op == '-s':
             toFold = value
+        elif op == '-t':
+            tilesPerImage = int(value)
     start_splite(mainFold, '', toFold);
