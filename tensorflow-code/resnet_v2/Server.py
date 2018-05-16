@@ -14,8 +14,7 @@ ALLOWED_EXTENSIONS = set(['jpg','JPG', 'jpeg', 'JPEG', 'png'])
 
 FLAGS = tf.app.flags.FLAGS
 
-tf.app.flags.DEFINE_string('model_dir', '', "/www/power_clothes/finish_freeze.pb")
-tf.app.flags.DEFINE_string('model_name', '', 'inception_resnet_v2')
+tf.app.flags.DEFINE_string('model', '', "/www/power_clothes/finish_freeze.pb")
 tf.app.flags.DEFINE_string('label_file', 'my_inception_v4_freeze.label', '')
 tf.app.flags.DEFINE_string('upload_folder', '/tmp/', '')
 tf.app.flags.DEFINE_integer('num_top_predictions', 10,
@@ -43,7 +42,7 @@ def rename_filename(old_file_name):
 
 def inference(file_name):
   try:
-    predictions, top_k, top_names = run_inference_on_image(file_name, model_file=FLAGS.model_name)
+    predictions, top_k, top_names = run_inference_on_image(file_name, model=FLAGS.model)
     print(predictions)
   except Exception as ex: 
     print(ex)

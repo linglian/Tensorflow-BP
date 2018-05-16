@@ -116,18 +116,7 @@ class NodeLookup(object):
       return ''
     return self.node_lookup[node_id]
 
-
-def create_graph():
-  """Creates a graph from saved GraphDef file and returns a saver."""
-  # Creates graph from saved graph_def.pb.
-  with tf.gfile.FastGFile(os.path.join(
-      FLAGS.model_dir, 'classify_image_graph_def.pb'), 'rb') as f:
-    graph_def = tf.GraphDef()
-    graph_def.ParseFromString(f.read())
-    _ = tf.import_graph_def(graph_def, name='')
-
-
-def run_inference_on_image(image):
+def run_inference_on_image(image, model):
   """Runs inference on an image.
 
   Args:
@@ -141,7 +130,12 @@ def run_inference_on_image(image):
   image_data = tf.gfile.FastGFile(image, 'rb').read()
 
   # Creates graph from saved GraphDef.
-  create_graph()
+  """Creates a graph from saved GraphDef file and returns a saver."""
+  # Creates graph from saved graph_def.pb.
+  with tf.gfile.FastGFile(model, 'rb') as f:
+    graph_def = tf.GraphDef()
+    graph_def.ParseFromString(f.read())
+    _ = tf.import_graph_def(graph_def, name='')
 
   with tf.Session() as sess:
     # Some useful tensors:
