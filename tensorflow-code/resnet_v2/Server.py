@@ -14,7 +14,7 @@ ALLOWED_EXTENSIONS = set(['jpg','JPG', 'jpeg', 'JPEG', 'png'])
 
 FLAGS = tf.app.flags.FLAGS
 
-tf.app.flags.DEFINE_string('model', '', "/www/power_clothes/finish_freeze.pb")
+tf.app.flags.DEFINE_string('model', '/www/power_clothes/finish_freeze.pb', "")
 tf.app.flags.DEFINE_string('label_file', 'my_inception_v4_freeze.label', '')
 tf.app.flags.DEFINE_string('upload_folder', '/tmp/', '')
 tf.app.flags.DEFINE_integer('num_top_predictions', 10,
