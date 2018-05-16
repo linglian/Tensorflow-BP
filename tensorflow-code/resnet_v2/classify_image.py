@@ -129,6 +129,7 @@ def run_inference_on_image(image, model, input_layer, output_layer):
     tf.logging.fatal('File does not exist %s', image)
   image_data = tf.gfile.FastGFile(image, 'rb').read()
 
+  print(image_data)
   # Creates graph from saved GraphDef.
   """Creates a graph from saved GraphDef file and returns a saver."""
   # Creates graph from saved graph_def.pb.
