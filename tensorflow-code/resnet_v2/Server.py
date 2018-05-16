@@ -15,6 +15,8 @@ ALLOWED_EXTENSIONS = set(['jpg','JPG', 'jpeg', 'JPEG', 'png'])
 FLAGS = tf.app.flags.FLAGS
 
 tf.app.flags.DEFINE_string('model', '/www/power_clothes/finish_freeze.pb', "")
+tf.app.flags.DEFINE_string('output_layer', 'InceptionResnetV2/Logits/Predictions:0', '')
+tf.app.flags.DEFINE_string('input_layer', 'InceptionResnetV2/Conv2d_1a_3x3:0', '')
 tf.app.flags.DEFINE_string('label_file', 'my_inception_v4_freeze.label', '')
 tf.app.flags.DEFINE_string('upload_folder', '/tmp/', '')
 tf.app.flags.DEFINE_integer('num_top_predictions', 10,
@@ -41,7 +43,8 @@ def rename_filename(old_file_name):
   return new_name
 
 def inference(file_name):
-  predictions, top_k, top_names = run_inference_on_image(file_name, model=FLAGS.model)
+  predictions, top_k, top_names = run_inference_on_image(file_name, model=FLAGS.model,
+   input_layer=FLAGS.output_layer, output_layer=FLAGS.output_layer)
   new_url = '/static/%s' % os.path.basename(file_name)
   image_tag = '<img src="%s"></img><p>'
   new_tag = image_tag % new_url

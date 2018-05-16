@@ -116,7 +116,7 @@ class NodeLookup(object):
       return ''
     return self.node_lookup[node_id]
 
-def run_inference_on_image(image, model):
+def run_inference_on_image(image, model, input_layer, output_layer):
   """Runs inference on an image.
 
   Args:
@@ -146,9 +146,9 @@ def run_inference_on_image(image, model):
     # 'DecodeJpeg/contents:0': A tensor containing a string providing JPEG
     #   encoding of the image.
     # Runs the softmax tensor by feeding the image_data as input to the graph.
-    softmax_tensor = sess.graph.get_tensor_by_name('InceptionResnetV2/Logits/Predictions:0')
+    softmax_tensor = sess.graph.get_tensor_by_name(output_layer)
     predictions = sess.run(softmax_tensor,
-                           {'Conv2d_1a_3x3:0': image_data})
+                           {input_layer: image_data})
     predictions = np.squeeze(predictions)
 
     # Creates node ID --> English string lookup.
