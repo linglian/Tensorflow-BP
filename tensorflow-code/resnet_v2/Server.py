@@ -86,4 +86,7 @@ def root():
 
 if __name__ == "__main__":
   print('listening on port %d' % FLAGS.port)
-  app.run(host='0.0.0.0', port=FLAGS.port, debug=FLAGS.debug, threaded=True）
+  app.run(host='0.0.0.0',
+    port=FLAGS.port,
+    debug=FLAGS.debug,
+    threaded=True)
