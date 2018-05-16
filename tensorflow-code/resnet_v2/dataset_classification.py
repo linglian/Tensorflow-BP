@@ -44,6 +44,6 @@ python train_image_classifier.py \
     --checkpoint_path=/home/slu/tasks/inception_resnet_v2_2016_08_30.ckpt \
     --checkpoint_exclude_scopes=InceptionResnetV2/Logits,InceptionResnetV2/AuxLogits \
     --trainable_scopes=InceptionResnetV2/Logits,InceptionResnetV2/AuxLogits \
-    --learning_rate=0.005
+    --learning_rate=0.01
 
 """

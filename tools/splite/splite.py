@@ -145,10 +145,9 @@ def start_splite(path, filePath, toPath):
         os.path.join(path, filePath)) if os.path.isdir(os.path.join(path, filePath, folder))]
 
     folders2 = [folder for folder in os.listdir(
-        os.path.join(path, filePath)) if folder.endswith('.webp')]
+        os.path.join(path, filePath)) if folder.endswith('.jpg')]
 
-    tempFolders = [folder for folder in os.listdir(
-        os.path.join(toPath, filePath)) if folder.endswith('.jpg')]
+    print(folders2)
 
     for folder in folders2:
         # print('Splite Image %s ' % os.path.join(toPath, filePath, folder));

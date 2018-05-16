@@ -1,0 +1,4 @@
+Wed, 16 May 2018 19:59:18 splite.py[line:140] INFO Create Fold /Users/lol/Unity/Image/ 
+Wed, 16 May 2018 19:59:18 splite.py[line:135] ERROR Bad Image: /Users/lol/Unity/Test_Image/DSC00984.jpg B empty range for randrange() (0,0, 0) 
+Wed, 16 May 2018 19:59:18 splite.py[line:135] ERROR Bad Image: /Users/lol/Unity/Test_Image/DSC00978.jpg B empty range for randrange() (0,0, 0) 
+Wed, 16 May 2018 19:59:18 splite.py[line:135] ERROR Bad Image: /Users/lol/Unity/Test_Image/DSC00911.jpg B empty range for randrange() (0,0, 0) 
