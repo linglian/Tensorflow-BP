@@ -128,11 +128,9 @@ def run_inference_on_image(image, model, input_layer, output_layer):
   if not tf.gfile.Exists(image):
     tf.logging.fatal('File does not exist %s', image)
   with tf.Graph().as_default():
-    # 读取格式信息
     decode_jpeg_data = tf.placeholder(dtype=tf.string)
     decode_jpeg = tf.image.decode_jpeg(decode_jpeg_data, channels=3)
   image_data = tf.gfile.FastGFile(image, 'rb').read()
-  image_data = sess.run(decode_jpeg, feed_dict={decode_jpeg_data: image_data})
 
   print(image_data)
   # Creates graph from saved GraphDef.
@@ -144,6 +142,7 @@ def run_inference_on_image(image, model, input_layer, output_layer):
     _ = tf.import_graph_def(graph_def, name='')
 
   with tf.Session() as sess:
+    image_data = sess.run(decode_jpeg, feed_dict={decode_jpeg_data: image_data})
     # Some useful tensors:
     # 'softmax:0': A tensor containing the normalized prediction across
     #   1000 labels.
