@@ -77,6 +77,9 @@ def splite_img(imgfile):
         im = Image.fromarray(im)
         # 获得原始图片大小
         w, h = im.size
+        # 删除图片上下尺子的影响
+        im = im.crop((0, int(h * 0.2), w, int(h * 0.8)))
+        w, h = im.size
         # 变换形状224， 224
         temp_im = cv2.resize(np.array(im), (224, 224))
         # 增加原始图片
@@ -84,28 +87,15 @@ def splite_img(imgfile):
 
         t_im = Image.fromarray(temp_im)
         t_im.save(temp_imgfile[0: temp_imgfile.find('.')] + '.jpg', "JPEG")
-        # 删除图片上下尺子的影响
-        im = im.crop((0, int(h * 0.1), w, int(h * 0.9)))
-
-        dx = dy = 224
         # 将图片增强tilesPerImage份
         for i in range(1, tilesPerImage + 1):
             newname = imgfile.replace('.', '_{:03d}.'.format(i))
             # 获得图片大小
             # 获取图片截取大小
-            if i < (tilesPerImage / 360) * 100 and w > 300:
-                dx = 224
-            if (tilesPerImage / 360) * 100 < i < (tilesPerImage / 360) * 200 and w > 500:
-                dx = 320
-            if (tilesPerImage / 360) * 200 < i < (tilesPerImage / 360) * 300 and w > 800:
-                dx = 640
-            if i < (tilesPerImage / 360) * 100 and h > 300:
-                dy = 224
-            if (tilesPerImage / 360) * 100 < i < (tilesPerImage / 360) * 200 and h > 500:
-                dy = 320
-            if (tilesPerImage / 360) * 200 < i < (tilesPerImage / 360) * 300 and h > 800:
-                dy = 640
-
+            dx = w * (0.15 + random.randint(1, 65) * 0.01);
+            dy = h * (0.15 + random.randint(1, 65) * 0.01);
+            dx = int(dx)
+            dy = int(dy)
             # 随机获得图片区域图片
             x = random.randint(0, w - dx - 1)
             y = random.randint(0, h - dy - 1)
@@ -116,7 +106,7 @@ def splite_img(imgfile):
             if i % 2 == 0:  # 将图片旋转 90\180
                 im_cropped = im_cropped.transpose(
                     random.choice(rotateAction))
-            if i % 2 == 0 and i > (tilesPerImage / 360) * 300:  # 将图片旋转1-45角度
+            elif i % 2 == 0 and i > (tilesPerImage / 360) * 300:  # 将图片旋转1-45角度
                 roate_drgree = random.choice(rotate45degree)
                 im_cropped = im_crotate_image_square(
                     im_cropped, roate_drgree)
@@ -145,7 +135,7 @@ def start_splite(path, filePath, toPath):
         os.path.join(path, filePath)) if os.path.isdir(os.path.join(path, filePath, folder))]
 
     folders2 = [folder for folder in os.listdir(
-        os.path.join(path, filePath)) if folder.endswith('.jpg')]
+        os.path.join(path, filePath)) if folder.endswith('.webp')]
 
     print(folders2)
 
