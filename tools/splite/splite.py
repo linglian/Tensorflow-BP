@@ -30,33 +30,60 @@ def check_fold(name):
     if not os.path.exists(name):
         os.mkdir(name)
 
-"""将图片切分
-    im: 所要处理的图片
-    deg: 选择的角度
-"""
-
-def im_crotate_image_square(im, deg):
-    import math
-    im2 = im.rotate(deg, expand=1)
-    im = im.rotate(deg, expand=0)
-
-    width, height = im.size
-    if width == height:
-        im = im.crop((0, 0, width, int(height * 0.9)))
-        width, height = im.size
-
-    rads = math.radians(deg)
-    new_width = width - (im2.size[0] - width)
-
-    left = top = int((width - new_width) / 2)
-    right = bottom = int((width + new_width) / 2)
-
-    im = im.crop((left, top, right, bottom))
-    width, height = im.size
-    if width == 0 or height == 0:
-        return im2
-    return im
-
+def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224, 224), mode=10):
+    import cv2
+    from PIL import Image
+    def get_image_rotate(img, angle=0):
+        if isinstance(img, Image.Image) is False:
+            raise ArithmeticError('img Must be PIL.Image.Image', img)
+        w, h = img.size
+        rotate35_img_true = img.rotate(angle, expand=True)
+        rotate35_img_false = img.rotate(angle, expand=False)
+        width, height = rotate35_img_false.size
+        width2, height2 = rotate35_img_true.size
+        new_width = width - width2 + width
+        new_height = height - height2 + height
+        left = int((width - new_width) / 2)
+        top = int((height - new_height) / 2)
+        right = left + new_width
+        bottom = top + new_height
+        result_img = rotate35_img_false.crop((left, top, right, bottom))
+        return result_img
+    if mode != 5 and mode != 10:
+        raise ArithmeticError('Mode only has 5 or 10', mode)
+    try:
+        img = Image.fromarray(cv2.imread(image_filepath))
+    except Exception:
+        raise ValueError('image_filepath is Bad or None', image_filepath)
+    w, h = img.size
+    # 进行Central-Crop
+    if is_center_crop:
+        img = img.crop((int(w * 0.1), int(h * 0.1), int(w * 0.9), int(h * 0.9)))
+        w, h = img.size
+    img_array = []
+    if is_rotate:
+        rotate_array = [-30, -20, -10, 10, 20, 30]
+        for angle in rotate_array:
+            img_array.append(get_image_rotate(img, angle=angle))
+    # 获取Crop-5
+    img_array.append( img.crop( (0, 0,
+                                               int(w * 0.5), int(h * 0.5))))
+    img_array.append( img.crop( (int(w * 0.5), 0,
+                                               w, int(h * 0.5))))
+    img_array.append( img.crop( (0, int(h * 0.5),
+                                               int(w * 0.5), h)))
+    img_array.append( img.crop( (int(w * 0.5), int(h * 0.5),
+                                               w, h)))
+    img_array.append( img.crop( (int(w * 0.25), int(h * 0.25),
+                                               int(w * 0.75), int(h * 0.75))))
+    # 进而获取Crop-10
+    if mode == 10:
+        for i in range(5):
+            img_array.append(img_array[i].transpose(Image.FLIP_LEFT_RIGHT))
+    result_array = []
+    for im in img_array:
+        result_array.append(cv2.resize(np.array(im), img_size))
+    return result_array
 
 """数据增强
     im: 需要增强的图片
@@ -73,53 +100,12 @@ def splite_img(imgfile):
             return
         temp_list = []
         # 打开图片
-        im = cv2.imread(imgfile)
-        im = Image.fromarray(im)
-        # 获得原始图片大小
-        w, h = im.size
-        # 删除图片上下尺子的影响
-        im = im.crop((0, int(h * 0.2), w, int(h * 0.8)))
-        w, h = im.size
-        # 变换形状224， 224
-        temp_im = cv2.resize(np.array(im), (224, 224))
-        # 增加原始图片
-        temp_imgfile = imgfile.replace(mainFold, toFold);
-
-        t_im = Image.fromarray(temp_im)
-        t_im.save(temp_imgfile[0: temp_imgfile.find('.')] + '.jpg', "JPEG")
+        img_array = getCrop(imgfile)
         # 将图片增强tilesPerImage份
-        for i in range(1, tilesPerImage + 1):
-            newname = imgfile.replace('.', '_{:03d}.'.format(i))
-            # 获得图片大小
-            # 获取图片截取大小
-            dx = w * (0.15 + random.randint(1, 65) * 0.01);
-            dy = h * (0.15 + random.randint(1, 65) * 0.01);
-            dx = int(dx)
-            dy = int(dy)
-            # 随机获得图片区域图片
-            x = random.randint(0, w - dx - 1)
-            y = random.randint(0, h - dy - 1)
-
-            # 将图片截取指定大小
-            im_cropped = im.crop((x, y, x + dx + 1, y + dy + 1))
-
-            if i % 2 == 0:  # 将图片旋转 90\180
-                im_cropped = im_cropped.transpose(
-                    random.choice(rotateAction))
-            elif i % 2 == 0 and i > (tilesPerImage / 360) * 300:  # 将图片旋转1-45角度
-                roate_drgree = random.choice(rotate45degree)
-                im_cropped = im_crotate_image_square(
-                    im_cropped, roate_drgree)
-
-            # 将处理后的图片转为224、224
-            im_cropped = cv2.resize(
-                np.array(im_cropped), (224, 224))
-
-            # 将处理后的图片按照，图片特征， 色卡id，图片地址进行存入数组
-            # temp_list.append(im_cropped)
-            # 将处理后的图片存起来
+        for idx, im in enumerate(img_array):
+            newname = imgfile.replace('.', '_{:03d}.'.format(idx))
             newname = newname.replace(mainFold, toFold)
-            t_im = Image.fromarray(im_cropped)
+            t_im = Image.fromarray(im)
             t_im.save(newname[0: newname.find('.')] + '.jpg', "JPEG")
     except Exception as msg:
         logging.error('Bad Image: %s B %s ' % (imgfile, msg))
