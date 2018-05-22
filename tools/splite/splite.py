@@ -30,7 +30,7 @@ def check_fold(name):
     if not os.path.exists(name):
         os.mkdir(name)
 
-def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224, 224), mode=10):
+def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224, 224), mode=5):
     import cv2
     from PIL import Image
     def get_image_rotate(img, angle=0):
@@ -84,12 +84,11 @@ def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224,
     for im in img_array:
         result_array.append(cv2.resize(np.array(im), img_size))
     return result_array
-
+    
 """数据增强
     im: 需要增强的图片
     temp_list: 需要存在哪个数组
 """
-
 
 def splite_img(imgfile):
     import random
@@ -98,7 +97,22 @@ def splite_img(imgfile):
         exit_file = exit_file[0: exit_file.find('.')] + '.jpg'
         if os.path.exists(exit_file) is True:
             return
-        temp_list = []
+
+        im = cv2.imread(imgfile)
+        im = Image.fromarray(im)
+        # 获得原始图片大小
+        w, h = im.size
+        # 删除图片上下尺子的影响
+        im = im.crop((0, int(h * 0.2), w, int(h * 0.8)))
+        w, h = im.size
+        # 变换形状224， 224
+        temp_im = cv2.resize(np.array(im), (224, 224))
+        # 增加原始图片
+        temp_imgfile = imgfile.replace(mainFold, toFold);
+
+        t_im = Image.fromarray(temp_im)
+        t_im.save(temp_imgfile[0: temp_imgfile.find('.')] + '.jpg', "JPEG")
+        
         # 打开图片
         img_array = getCrop(imgfile)
         # 将图片增强tilesPerImage份
