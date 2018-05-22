@@ -15,11 +15,9 @@ logging.basicConfig(level=logging.DEBUG,
                     filemode='w')
       
 # 数据增强区
-tilesPerImage = 180
-rotateAction = [Image.FLIP_LEFT_RIGHT, Image.FLIP_TOP_BOTTOM,
-                Image.ROTATE_90, Image.ROTATE_180, Image.ROTATE_270]
-rotate45degree = [45, 135, 270]
-thresholdGLOABL = 0.42
+is_rotate = False
+is_center_crop = True
+mode = 10
 
 mainFold = '/www/clothes/'
 toFold = '/www/增强后的数据/'
@@ -30,7 +28,7 @@ def check_fold(name):
     if not os.path.exists(name):
         os.mkdir(name)
 
-def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224, 224), mode=5):
+def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224, 224), mode=10):
     import cv2
     from PIL import Image
     def get_image_rotate(img, angle=0):
@@ -84,7 +82,7 @@ def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224,
     for im in img_array:
         result_array.append(cv2.resize(np.array(im), img_size))
     return result_array
-    
+
 """数据增强
     im: 需要增强的图片
     temp_list: 需要存在哪个数组
@@ -114,7 +112,7 @@ def splite_img(imgfile):
         t_im.save(temp_imgfile[0: temp_imgfile.find('.')] + '.jpg', "JPEG")
         
         # 打开图片
-        img_array = getCrop(imgfile)
+        img_array = getCrop(imgfile, is_rotate=is_rotate, is_center_crop=is_center_crop, mode=mode)
         # 将图片增强tilesPerImage份
         for idx, im in enumerate(img_array):
             newname = imgfile.replace('.', '_{:03d}.'.format(idx))
@@ -148,13 +146,17 @@ def start_splite(path, filePath, toPath):
 
 
 if __name__ == "__main__":
-    opts, args = getopt.getopt(sys.argv[1:], 'f:s:t:')
+    opts, args = getopt.getopt(sys.argv[1:], 'f:s:rcm:')
     for op, value in opts:
         # 设置根目录路径
         if op == '-f':
             mainFold = value
         elif op == '-s':
             toFold = value
-        elif op == '-t':
-            tilesPerImage = int(value)
+        elif op == '-r':
+            is_rotate = True
+        elif op == '-c':
+            is_center_crop = False
+        elif op == '-m':
+            mode = int(value)
     start_splite(mainFold, '', toFold);
