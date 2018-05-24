@@ -48,7 +48,7 @@ def make_TFRecord(list_file_path, tfrecord_file_path=None):
                         image_data, b'jpg', height, width, int(line[1]))
                     tfrecord_writer.write(example.SerializeToString())
                     num = num + 1
-                    if num % 100000 == 0:
+                    if num % 1000 == 0:
                         print('Finish %d/%d' % (num, max_num))
                         # 防止每个tfrecord太大，进行分割
                         tfrecord_writer.close()

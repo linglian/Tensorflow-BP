@@ -56,9 +56,10 @@ def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224,
     w, h = img.size
     # 进行Central-Crop
     if is_center_crop:
-        img = img.crop((int(w * 0.1), int(h * 0.1), int(w * 0.9), int(h * 0.9)))
+        img = img.crop((int(w * 0.2), int(h * 0.2), int(w * 0.8), int(h * 0.8)))
         w, h = img.size
     img_array = []
+    img_array.append(img)
     if is_rotate:
         rotate_array = [-30, -20, -10, 10, 20, 30]
         for angle in rotate_array:
@@ -88,6 +89,13 @@ def getCrop(image_filepath, is_rotate=False, is_center_crop=True, img_size=(224,
     temp_list: 需要存在哪个数组
 """
 
+def getImage(img):
+    import numpy as np
+    img = np.swapaxes(img, 0, 2)
+    img = np.swapaxes(img, 1, 2)
+    img = img[np.newaxis, :]
+    return img
+
 def splite_img(imgfile):
     import random
     try:
@@ -96,29 +104,13 @@ def splite_img(imgfile):
         if os.path.exists(exit_file) is True:
             return
 
-        im = cv2.imread(imgfile)
-        im = Image.fromarray(im)
-        # 获得原始图片大小
-        w, h = im.size
-        # 删除图片上下尺子的影响
-        im = im.crop((0, int(h * 0.2), w, int(h * 0.8)))
-        w, h = im.size
-        # 变换形状224， 224
-        temp_im = cv2.resize(np.array(im), (224, 224))
-        # 增加原始图片
-        temp_imgfile = imgfile.replace(mainFold, toFold);
-
-        t_im = Image.fromarray(temp_im)
-        t_im.save(temp_imgfile[0: temp_imgfile.find('.')] + '.jpg', "JPEG")
-        
         # 打开图片
         img_array = getCrop(imgfile, is_rotate=is_rotate, is_center_crop=is_center_crop, mode=mode)
         # 将图片增强tilesPerImage份
         for idx, im in enumerate(img_array):
             newname = imgfile.replace('.', '_{:03d}.'.format(idx))
             newname = newname.replace(mainFold, toFold)
-            t_im = Image.fromarray(im)
-            t_im.save(newname[0: newname.find('.')] + '.jpg', "JPEG")
+            cv2.imwrite(newname[0: newname.find('.')] + '.jpg', im)
     except Exception as msg:
         logging.error('Bad Image: %s B %s ' % (imgfile, msg))
         print('Bad Image: %s B %s ' % (imgfile, msg))
@@ -150,9 +142,13 @@ if __name__ == "__main__":
     for op, value in opts:
         # 设置根目录路径
         if op == '-f':
+            if value.find('.') != -1:
+                raise ValueError('路径必须为绝对路径', value)
             mainFold = value
         elif op == '-s':
             toFold = value
+            if value.find('.') != -1:
+                raise ValueError('路径必须为绝对路径', value)
         elif op == '-r':
             is_rotate = True
         elif op == '-c':
